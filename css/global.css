@@ -1,0 +1,475 @@
+/* Carnival 2015 Global Styles */
+/* Jake Kushner */
+
+
+/* CSS Reset */
+
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+
+/* Global Styles */
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+img.border {
+    border: 5px solid #fff;
+}
+img.left {
+    margin: 0 25px 25px 0;
+}
+
+img.right {
+    margin: 0 0 25px 25px;
+}
+
+span.title {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px 0 10px 0;
+    display: block;
+    text-align: center;
+    color: #000;
+    font-style: italic;
+    line-height: 1.5em;
+}
+
+span.title-left {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px 0 10px 0;
+    display: block;
+    text-align: left;
+    color: #000;
+    font-style: italic;
+}
+    
+
+
+p.plainfont {
+    font-family: Helvetica, Arial, sans-serif !important;
+    font-size: 1.0em !important;
+}
+
+p, span {
+    color: #000;
+}
+
+.smalltype, .smalltype p {
+    font-size: 0.7em;   
+}
+br.spacer {
+    display: block;
+    margin: 20px 0;
+    content: " ";
+}
+
+br.largespacer {
+    display: block;
+    margin: 50px 0;
+    content: " ";
+}
+
+a {
+    color: #930000;
+}
+
+a:hover {
+    color: #c72a2a;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-size: 27px !important;   
+}
+.slick-prev, .slick-next, .slick-prev:hover, .slick-next:hover {
+    height: 30px !important;
+    width: 30px !important;
+}
+.slick-prev {
+    left: -30px !important;
+}
+
+.slick-next {
+    right: -30px !important;
+}
+
+
+
+
+/* Orangify */
+span.title, p, span {
+    color: #fff !important;
+}
+body {
+    background: url('../img/bg-new-02.png') repeat #fcaf19;   
+}
+.slick-prev:before, .slick-next:before {
+    color: #fff !important;
+}
+h1, h2, h3, h4 {
+    color: #fff !important;
+}
+
+/* Home Page Intro */
+#intro {
+    width: 100%;
+    height:100%;
+    background: url('../img/homeintro.png') #000;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+
+}
+
+
+#intro-logo {
+    opacity: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+/* Home page animation */
+
+#animation {
+    width: 100%;
+    height: 100%;
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 900;
+    overflow: hidden;
+}
+
+#animation .logo {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    z-index: 1000;
+}
+
+#animation .panel {
+    width: 10%;
+    background: #ff0000;
+    border: none;
+    height: 100%;
+    float: left;
+    margin: 0px;
+    opacity: 0;
+}
+
+#animation .go {
+/*    display: block;*/
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+    transition:  opacity 0.3s linear, transform 1s linear;
+    opacity: 1;
+}
+
+#animation #panel1 {
+    background: url('../img/animationpanels/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+#animation #panel2 {
+    background: url('../img/animationpanels/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}#animation #panel3 {
+    background: url('../img/animationpanels/3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}#animation #panel4 {
+    background: url('../img/animationpanels/4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}#animation #panel5 {
+    background: url('../img/animationpanels/5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#animation #panel6 {
+    background: url('../img/animationpanels/6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#animation #panel7 {
+    background: url('../img/animationpanels/7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#animation #panel8 {
+    background: url('../img/animationpanels/8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#animation #panel9 {
+    background: url('../img/animationpanels/9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#animation #panel10 {
+    background: url('../img/animationpanels/10.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Header Bar */
+header.header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border: 0;
+    max-width: none;
+    height: 200px;
+}
+
+header.header.home {
+    background: url('../img/banners/home-banner.png') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+header.header.booth {
+    background: url('../img/banners/booth-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+header.header.buggy {
+    background: url('../img/banners/buggy-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+header.header.mobot {
+    background: url('../img/banners/mobot-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+header.header.schedule {
+    background: url('../img/banners/schedule-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+header.header.webcam {
+    background: url('../img/banners/webcam-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+header.header.committee {
+    background: url('../img/banners/students-banner.jpg') #000;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+header.header .logo {
+    margin: 5px auto;
+    text-align: center;
+}
+
+
+/* Header Bar retina styles */
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+    .header.header {
+    background: url('../img/banners/home-banner@2x.png') #000;
+    }
+}
+
+/* Nav Bar */
+
+.navcontainer {
+    background: #FF9100;
+}
+
+.top-bar:not(.expanded) section ul li.root {
+        display: inline-block;
+        text-align: center;
+        float: none;
+        margin: none;
+        padding: none;
+    width: 19%;
+}
+
+
+nav.top-bar, nav.top-bar section.top-bar-section ul li a{
+    background: #FF9100 !important;
+     font-size: 1.1em;
+    text-transform: uppercase;
+    font-family: "museo-slab",serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {
+    background: #FF9100;
+    color: #000 !important;
+
+}
+
+nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a {
+    font-size: 1.0em !important;
+}
+
+nav.top-bar li a.active {
+    color: #000 !important;   
+}
+
+li.title.back.js-generated h5 a::before {
+      content: "\00AB ";
+    
+}
+a.parent-link.js-generated {
+    color: #000 !important;
+}
+a.parent-link.js-generated::after {
+    content: ":";
+}
+/* Footer Bar */
+
+footer {
+    background: #333;
+}
+
+footer p, footer .links {
+    font-size: 0.8em;
+    color: #888;
+}
+
+footer .links img {
+    vertical-align:middle;
+}
+
+footer .row {
+    padding: 20px 0 20px 0;
+}
+
+
+
+footer a {
+    color: #999;
+}
+
+footer a:hover {
+    color: #f89a1c;
+}
+
+/* Content Area */
+
+article.main {
+    margin: 60px 0 0 0;
+}
+
+article.main h1, h2, h3, h4 {
+    font-family: "museo-slab",serif;
+    font-style: normal;
+    font-weight: 500;
+}
+article.main p {
+    font-family: "museo-slab",serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+article.main p.intro {
+    font-size: 1.5em;
+    margin-bottom: 1.7em;
+}
+
+article.main p.scheduleintro {
+    font-size: 1.3em;
+    margin-bottom: 1em;
+}
+
+p.drop:first-letter{ font-size: 200%; line-height:50%}
+
+p.panel {
+    background-color: rgba(226,130,3,0.5);
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid rgb(226,130,3);
+    border-top: 1px solid rgb(226,130,3);
+    text-align: center;
+    margin-top: -60px;
+    margin-bottom: 40px;
+    color: #bbb;
+    padding: 0.8rem;
+    font-size: 1.0em !important;
+    
+}
+
+p.panel a {
+    color: #fff;
+    border-bottom: 1px  dotted #fff;
+}
+    
+
+
+/* Tabs for Schedule Page */
+dl.tabs {
+    border-bottom: 2px solid #fff;   
+}
+
+/* Timelapse Video */
+iframe.center {
+    margin: auto;
+    text-align: center;
+    display:block;
+}
+
+/* Calendar page */
+iframe.embedcal {
+    margin-bottom: 65px;
+    background: #fff;
+}
+
+
+/* Media queries */
+@media only screen and (max-width: 600px) {
+    .slick-prev, .slick-next {
+        display:none !important;
+    }
+}
+
+/* Fundraiser */
+.fundraiser {
+    width: 100%;
+    border: 1px solid #fff;
+    padding: 30px 20px;
+}
+
+.fundraiser a {
+    background: #930000;
+    color: #fff;
+    padding: 10px;
+}
+
+.fundraiser a:hover {
+    background: #b21a1a;
+}
+
+@media only screen and (max-width: 880px) {
+    .fundraiser p {
+        font-size: 1.0em !important;
+    }
+}
