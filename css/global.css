@@ -102,7 +102,7 @@ span.title, p, span {
     color: #fff !important;
 }
 body {
-    background: url('../img/bg-new-02.png') repeat #fcaf19;   
+    background: url('../img/background-3.png') repeat #fcaf19;   
 }
 .slick-prev:before, .slick-next:before {
     color: #fff !important;
@@ -280,8 +280,11 @@ header.header.committee {
 
 
 header.header .logo {
-    margin: 5px auto;
+    /*margin: 5px auto;*/
     text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 
