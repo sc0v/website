@@ -12,54 +12,12 @@
     <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
   </head>
   <body>
-
     <div id="all">      
       <header class="row header webcam">
-          <div class="logo">
-              <a href="/index.html"><img src="img/logo.png" width="294" height="185" alt="CMU Spring Carnival 2015" /></a>
-          </div>
+        <!--#include file="logo.html" -->
       </header>
 
-      <!-- Navigation -->
-      <div class="sticky navcontainer contain-to-grid">
-        <nav class="top-bar" data-topbar role="navigation" data-options="sticky_on: small; scrolltop: false;">
-          <ul class="title-area">
-            <li class="name"><h1></h1></li>
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-          </ul>
-
-          <section class="top-bar-section">
-            <ul>
-              <!-- Home  -->
-              <li class="root"><a class="active" href="index.html">Home</a></li>
-              <!-- Traditions menu -->
-              <li class="root has-dropdown">
-                <a href="#">Traditions</a>
-                <ul class="dropdown">
-                  <li><a href="booth.html">Booth</a></li>
-                  <li><a href="buggy.html">Buggy</a></li>
-                  <li><a href="mobot.html">Mobot</a></li>
-                </ul>
-              </li>
-              <!-- Schedule menu -->
-              <li class="root has-dropdown">
-                <a href="#">Schedule</a>
-                <ul class="dropdown">
-                  <!-- TO DO: Get schedule of events from alumni relations / make schedule  -->
-                  <!-- <li><a href="http://carnival2015.mobmovr.com">Full Schedule</a></li> -->
-                  <li><a href="events.html">Featured Events</a></li>
-                </ul>
-              </li>
-              <!-- Timelapse -->
-              <li class="root"><a href="timelapse.html">Timelapse</a></li>
-              <!-- Webcam -->
-              <!-- <li class="root"><a href="webcam.html">Webcam</a></li> -->
-              <!-- Committee -->
-              <li class="root"><a href="committee.html">Committee</a></li>
-            </ul>
-          </section>
-        </nav>
-      </div> <!-- end navigation -->
+      <!--#include file="navigation.html" -->
         
       <article class="main">  
         <div class="row">
@@ -89,19 +47,7 @@
         <br class="largespacer" />
       </article>
 
-      <footer>
-        <div class="row">
-            <div class="large-8 columns">
-                        <p>Photos courtesy of Carnegie Mellon University, The Thistle, The Tartan, and the School of Computer Science.<br />Website by <a href="http://aahmedsam.com" target="_blank">Sam Ahmed</a> and <a href="http://jakekushner.com" target="_blank">Jake Kushner</a></p>
-
-            </div>
-            <div class="large-4 columns text-right links">
-                <a href="https://www.facebook.com/cmuspringcarnival" target="_blank"><img src="img/footer/fb.png" width="25" /></a>
-                <a href="https://twitter.com/cmucarnival" target="_blank"><img src="img/footer/twitter.png" width="25" /></a>
-                <a href="http://instagram.com/cmucarnival " target="_blank"><img src="img/footer/instagram.png" width="25" /></a>
-            </div>
-        </div>
-      </footer>
+      <!--#include file="footer.html" -->
     </div><!-- end all-->
        
     <script src="js/vendor/jquery.js"></script>
