@@ -265,39 +265,46 @@ header.header.home {
     background: url('../img/banners/home-banner.png') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 
 header.header.booth {
     background: url('../img/banners/booth-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 
 header.header.buggy {
     background: url('../img/banners/buggy-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 
 header.header.mobot {
     background: url('../img/banners/mobot-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 header.header.schedule {
     background: url('../img/banners/schedule-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 header.header.webcam {
     background: url('../img/banners/webcam-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 header.header.committee {
     background: url('../img/banners/students-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
+    background-position: center;
 }
 
 
