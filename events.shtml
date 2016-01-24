@@ -14,10 +14,10 @@
   <body>
     <div id="all">      
       <header class="row header schedule">
-        <!--#include file="header.html" -->
+        <!--#include virtual="header.html" -->
       </header>
 
-      <!--#include file="navigation.html" -->
+      <!--#include virtual="navigation.html" -->
           
       <article class="main">  
         <div class="row">
@@ -104,7 +104,7 @@
         <br class="largespacer" />
       </article>
 
-      <!--#include file="footer.html" -->
+      <!--#include virtual="footer.html" -->
     </div><!-- end all-->
            
     <script src="js/vendor/jquery.js"></script>
