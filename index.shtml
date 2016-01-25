@@ -16,7 +16,7 @@
     <!-- Animation on page load-->
     <div id="animation">
       <div class="logo">
-        <a href="index.html"><img src="img/logo-dark-blur.png" width="850" alt="CMU Spring Carnival 2016" /></a>
+        <a href="/"><img src="img/logo-dark-blur.png" width="850" alt="CMU Spring Carnival 2016" /></a>
       </div>
       <div class="panel" id="panel1"></div>
       <div class="panel" id="panel2"></div>
