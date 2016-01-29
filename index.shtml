@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
-    <title>Carnegie Mellon Spring Carnival 2016 | CMU Carnival Official Site</title>
+    <title>Carnegie Mellon Spring Carnival</title>
     <!--#include virtual="html/head.html" -->
   </head>
   <body>
@@ -10,7 +10,7 @@
     <!-- Animation on page load-->
     <div id="animation">
       <div class="logo">
-        <a href="/"><img src="img/logo-dark-blur.png" width="850" alt="CMU Spring Carnival 2016" /></a>
+        <a href="/"><img src="img/logo-dark-blur.png" width="850" alt="Carnegie Mellon Spring Carnival 2016" /></a>
       </div>
       <div class="panel" id="panel1"></div>
       <div class="panel" id="panel2"></div>
