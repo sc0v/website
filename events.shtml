@@ -2,17 +2,17 @@
 <html class="no-js" lang="en">
   <head>
     <title>CMU Carnival Events | Carnegie Mellon Spring Carnival 2016</title>
-    <!--#include virtual="head.html" -->
+    <!--#include virtual="html/head.html" -->
   </head>
   <body>
-    <!--#include virtual="google-tag-manager.html" -->
+    <!--#include virtual="html/google-tag-manager.html" -->
 
     <div id="all">      
       <header class="row header schedule">
-        <!--#include virtual="header.html" -->
+        <!--#include virtual="html/header.html" -->
       </header>
 
-      <!--#include virtual="navigation.html" -->
+      <!--#include virtual="html/navigation.html" -->
           
       <article class="main">  
         <div class="row">
@@ -99,9 +99,9 @@
         <br class="largespacer" />
       </article>
 
-      <!--#include virtual="footer.html" -->
+      <!--#include virtual="html/footer.html" -->
     </div><!-- end all-->
            
-    <!--#include virtual="script.html" -->
+    <!--#include virtual="html/script.html" -->
   </body>
 </html>
