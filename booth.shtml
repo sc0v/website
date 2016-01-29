@@ -5,6 +5,8 @@
     <!--#include virtual="head.html" -->
   </head>
   <body>   
+    <!--#include virtual="google-tag-manager.html" -->
+
     <div id="all">      
       <header class="row header booth">
         <!--#include virtual="header.html" -->
