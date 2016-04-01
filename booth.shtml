@@ -52,8 +52,8 @@
         <div class="row">
           <div class="large-5 push-1 columns smalltype">
             <h3>Sorority</h3>
-            <p><b>Alpha Phi:</b> Mouse Trap<br />
-                <b>Alpha Chi Omega:</b> Clue<br />
+            <p><b>Alpha Chi Omega:</b> Clue<br />
+                <b>Alpha Phi:</b> Mouse Trap<br />
                 <b>Delta Delta Delta:</b> Candy Land<br />
                 <b>Delta Gamma:</b> Where in the World is Carmen Sandiego?<br />
                 <b>Kappa Alpha Theta:</b> Oregon Trail<br />
@@ -76,7 +76,9 @@
           <div class="large-5 pull-1 columns smalltype">
             <h3>Fraternity</h3>
             <p><b>Alpha Epsilon Pi:</b> Dungeons & Dragons<br />
+                <b>Alpha Sigma Phi:</b> Duck Hunt<br />
                 <b>Delta Tau Delta:</b> Luigi's Mansion<br />
+                <b>Kappa Sigma:</b> Mario Kart<br />
                 <b>Phi Delta Theta:</b> Minecraft<br />
                 <b>Sigma Alpha Epsilon:</b> Four Square<br />
                 <b>Sigma Phi Epsilon:</b> Legends of the Hidden Temple<br /><br />
@@ -94,9 +96,7 @@
             <p><b>Alpha Phi Omega:</b> Cooking Mama<br />
                 <b>Asian Student Association:</b> Kirby: Nighmare in Dreamland<br />
                 <b>Fringe:</b> Lego<br />
-                <b>Kappa Sigma:</b> Mario Kart<br />
                 <b>KGB:</b> Octodad<br />
-                <b>Student Dormitory Council:</b> Battleship<br />
                 <b>Taiwanese Student Association:</b> Skyrim<br /><br />
             </p>
             <p><span class="title-left">Pictured right: Asian Student Association’s Looney Tunes, winning first place in 2012.</span></p>
@@ -119,7 +119,8 @@
                 <b>Mayur:</b> The Game of Life <br />
                 <b>Mellon College of Science:</b> Pac-Man<br />
                 <b>Sigma Chi:</b> Angry Birds<br />
-                <b>Spirit:</b> Journey<br /><br />
+                <b>Spirit:</b> Journey<br />
+                <b>Student Dormitory Council:</b> Battleship<br /><br />
             </p>
             <p><span class="title-left">Pictured left: Mellon College of Science’s Batman, winning second place in 2014.</span></p>
           </div>
