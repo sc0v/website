@@ -81,7 +81,7 @@
           </div>
         </div>
 
-        <br class="largespacer" />
+        <br class="spacer" />
 
         <!-- Philanthropy -->
         <div class="row">
@@ -89,8 +89,16 @@
             <p>This year, Carnival has teamed up with Habitat for Humanity of Pittsburgh and OrderUp to raise money towards building homes for those in need. Sign up using the Spring Carnival <a href="https://orderup.com/go/carnival" target="_blank">sign up page</a> and OrderUp will take $10 off your first order and donate it to Habitat for Humanity!</p>
           </div>
           <div class="medium-4 large-3 large-pull-1 text-center columns">
-            <a href="http://www.pittsburghhabitat.org"><img src="img/habitat.png" width="200" style="" /></a>
-            <a href="https://orderup.com"><img src="img/orderup.png" width="200px" style="" /></a>
+            <a href="http://www.pittsburghhabitat.org" target="_blank"><img src="img/habitat.png" width="200" style="" /></a>
+            <a href="https://orderup.com" target="_blank"><img src="img/orderup.png" width="200px" style="" /></a>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 large-centered columns">
+            <p>Food can also be ordered for delivery to Midway and all proceeds will go to Habitat for Humanity. This is a great way for alumni, friends, and family to support booth from far away. Orders can be placed online through <a href="http://carnegiemellontickets.universitytickets.com/user_pages/event.aspx?id=1400" target="_blank">Carnegie Mellon tickets</a>.</p>
           </div>
         </div>
 
