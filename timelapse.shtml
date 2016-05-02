@@ -17,17 +17,17 @@
       <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-              <p class="intro drop">Check out the timelapse of Carnival 2015 build week! These booths are built from the ground up, and now you can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that shows the process from start to finish! </p>
+              <p class="intro drop">Check out the timelapse of Carnival 2016 build week! These booths are built from the ground up, and now you can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that shows the process from start to finish! </p>
           </div>
         </div>
 
         <div class="row">
           <div class="large-11 large-centered columns">
-            <div class="flex-video widescreen">
-              <iframe src="https://www.youtube.com/embed/3BZThAvbiYs?rel=0" frameborder="0" allowfullscreen></iframe>
+            <div class="flex-video widescreen" style="padding-top: 0">
+              <iframe src="https://www.youtube.com/embed/Cdt1Gb7DdpM?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <br />
-            <span class="title">A timelapse of Midway from Carnival 2015</span>
+            <span class="title">A timelapse of Midway from Carnival 2016</span>
           </div>
         </div>
 
@@ -35,7 +35,7 @@
 
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p>Stay tuned for the 2016 webcam! This will be a livestream of the building process. You will be able to check back on booth progress as it all comes together, exactly when it's happening.</p>
+            <p>Stay tuned for the 2017 webcam! This will be a livestream of the building process. You will be able to check back on booth progress as it all comes together, exactly when it's happening.</p>
           </div>
         </div>
 
@@ -46,5 +46,6 @@
     </div><!-- end all-->
        
     <!--#include virtual="html/script.html" -->
+    <script>$("#nav-timelapse").addClass("active");</script>
   </body>
 </html>

@@ -51,5 +51,7 @@
     </div><!-- end all-->
            
     <!--#include virtual="html/script.html" -->
+    <script>$("#nav-traditions").addClass("active");</script>
+    <script>$("#nav-mobot").addClass("active");</script>
   </body>
 </html>

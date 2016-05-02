@@ -17,29 +17,29 @@
       <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p class="intro drop">Check out the live videos of Build Week and Carnival 2016!</p>
+            <p class="intro drop">Check out the live videos of Build Week and Carnival 2017!</p>
           </div>
         </div>
 
         <div class="row">
-          <div class="large-12 large-centered columns">
+          <div class="large-11 large-centered columns">
             <div class="flex-video widescreen" style="padding-top: 0">
               <iframe src="https://www.youtube.com/embed/pPyFP2SRPTw?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <br />
-            <span class="title">A live video of the Carnival 2016 Midway</span>
+            <span class="title">A live video of the Carnival 2017 Midway</span>
           </div>
         </div>
 
         <br class="largespacer">
 
         <div class="row">
-          <div class="large-12 large-centered columns">
+          <div class="large-11 large-centered columns">
             <div class="flex-video widescreen" style="padding-top: 0">
               <iframe src="https://www.youtube.com/embed/49hrfaUvADY?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <br />
-            <span class="title">A live video of the Carnival 2016 Rides</span>
+            <span class="title">A live video of the Carnival 2017 Rides</span>
           </div>
         </div>
 
@@ -50,5 +50,6 @@
     </div><!-- end all-->
            
     <!--#include virtual="html/script.html" -->
+    <script>$("#nav-webcam").addClass("active");</script>
   </body>
 </html>

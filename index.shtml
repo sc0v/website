@@ -10,7 +10,7 @@
     <!-- Animation on page load-->
     <div id="animation">
       <div class="logo">
-        <a href="/"><img src="img/logo.png" width="850" alt="Carnegie Mellon Spring Carnival 2016" /></a>
+        <a href="/"><img src="img/logo.png" width="850" alt="Carnegie Mellon Spring Carnival 2017" /></a>
       </div>
       <div class="panel" id="panel1"></div>
       <div class="panel" id="panel2"></div>
@@ -37,15 +37,18 @@
               Looking for the <a href="https://guidebook.com/guide/61142/schedule">Carnival Schedule</a>?
           </p>
         </div>
+
+        <!--
         <div class="show-for-medium-up">
           <p class="panel">
               <a href="http://carnegiemellontickets.universitytickets.com/user_pages/event.aspx?id=1373">Preorder your Carnival Shirt</a> today!
           </p>
         </div>
+        -->
 
         <div class="row">
           <div class="large-10 large-centered columns">
-              <p class="intro drop">Carnegie Mellon's Spring Carnival is three days of amusement park rides, adventures in booths, unhealthy snacks, and buggy races. Join us <strong>April 14-16, 2016</strong> as we celebrate 102 years of fun, laughter, and being a Tartan!</p>
+              <p class="intro drop">Carnegie Mellon's Spring Carnival is three days of amusement park rides, adventures in booths, unhealthy snacks, and buggy races. Join us <strong>April 20-22, 2017</strong> as we celebrate 103 years of fun, laughter, and being a Tartan!</p>
           </div>
         </div>
 
@@ -84,7 +87,7 @@
         <br class="spacer" />
 
         <!-- Philanthropy -->
-        <div class="row">
+        <!-- <div class="row">
           <div class="medium-8 large-7 large-push-1 columns">
             <p>This year, Carnival has teamed up with Habitat for Humanity of Pittsburgh and OrderUp to raise money towards building homes for those in need. Sign up using the Spring Carnival <a href="https://orderup.com/go/carnival" target="_blank">sign up page</a> and OrderUp will take $10 off your first order and donate it to Habitat for Humanity!</p>
           </div>
@@ -100,7 +103,7 @@
           <div class="large-10 large-centered columns">
             <p>Food can also be ordered for delivery to Midway and all proceeds will go to Habitat for Humanity. This is a great way for alumni, friends, and family to support booth from far away. Orders can be placed online through <a href="http://carnegiemellontickets.universitytickets.com/user_pages/event.aspx?id=1400" target="_blank">Carnegie Mellon tickets</a>.</p>
           </div>
-        </div>
+        </div> -->
 
         <br class="largespacer" />
 
@@ -121,5 +124,6 @@
     <!--#include virtual="html/script.html" -->
     <script src="js/jquery.cookie.js"></script>
     <script src="js/animation.js"></script>
+    <script>$("#nav-home").addClass("active");</script>
   </body>
 </html>

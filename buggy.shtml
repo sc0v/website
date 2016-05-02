@@ -53,5 +53,7 @@
     </div><!-- end all-->
            
     <!--#include virtual="html/script.html" -->
+    <script>$("#nav-traditions").addClass("active");</script>
+    <script>$("#nav-buggy").addClass("active");</script>
   </body>
 </html>
