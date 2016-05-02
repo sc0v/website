@@ -15,7 +15,7 @@ $( document ).ready(function() {
             },100*item);
         });
         $('#animation .logo').delay(2000).fadeIn(500);
-        $.cookie('carnivalintro', 'skip');   
+        $.cookie('carnivalintro', 'skip', { expires: 30 });   
     } else {
         $('#animation').hide();   
     }
