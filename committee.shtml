@@ -21,9 +21,9 @@
           </div>
         </div>
 
-        <div class="row">
+        <!--<div class="row">
           <div class="large-11 large-centered columns"> 
-            <img class="border" src="img/committee/scc-group.jpg" alt="Spring Carnival Committee" />
+            <img class="border" src="img/committee/group.jpg" alt="Spring Carnival Committee" />
             <br /><br />
             <span class="title">The 2017 Spring Carnival Committee</span>
           </div>
@@ -35,7 +35,7 @@
           <div class="large-10 large-centered columns">
             <h2 class="text-center">MEET THE EXECUTIVE BOARD:</h2>
           </div>
-        </div>
+        </div>-->
             
         <br class="spacer" />
             
@@ -43,12 +43,12 @@
           <div class="large-9 large-centered columns">
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-patrick.png" />
+                <img class="border" src="img/committee/amalia.png" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Patrick Koenig</h3>
+                <h3>Amalia Martinez</h3>
                 <h4>Overall Chair</h4>
-                <p>I am a senior Mathematics and Computer Science double major.  This is my second year on Spring Carnival Committee.  I have worked on MCS booth the past two years and was on booth committee last year.  I am excited to be a part of Carnival as it moves to a new location and look forward to making it one of the best yet!</p>
+                <p>I am a senior Tepper student with concentrations in Entrepreneurship and Marketing and a minor in Engineering studies. This is my fourth year on Spring Carnival Committee and in the past years I was in operations committee, Assistant Head of Operations, and Environmental Chair. I am so excited to be overall Chair this year and to bring my knowledge from all aspects of committee to contribute to an amazing Carnival!</p>
               </div>
             </div>
 
@@ -56,12 +56,25 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/scc-aamer.jpg" />
+                  <img class="border" src="img/committee/zilei.png" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Aamer Rakla</h3>
+                <h3>Zilei Gu</h3>
                 <h4>Treasurer</h4>
-                <p>I am a senior majoring in Information Systems and Drama: Production Management through the BXA program. I first joined SCC my freshman year on the Parking and Security committees. I wanted to continue help improve Carnival and finances are an area of expertise so I became Treasurer. I was previously Secretary/Treasurer and currently am Financial Advisor for Student Dormitory Council. I have also been a part of Carnival through AB Tech and Student/Residential Life as an RA for the previous two years.</p>
+                <p>I am a sophomore in Electrical and Computer Engineering. This is my second year on Spring Carnival Committee. I was on entertainment committee last year. I’m really excited for spring carnival 2017 as we settle down in the new location.</p>
+              </div>
+            </div>
+              
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                <img class="border" src="img/committee/josh.png" />
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Josh Zak</h3>
+                <h4>Head of Booth</h4>
+                <p>I am a senior Chemistry major with a concentration  in Materials Chemistry. I was the Director of Blitz Booths for Booth Committee last year, and the year before that I was a booth chair. My hobbies include building booth and helping others build booth. I can’t wait to see what all of the organizations come up with this year. I used to come to Carnival as a kid growing up in Pittsburgh, and it’s awesome to come full circle and give my all to booth one last time!</p>
               </div>
             </div>
 
@@ -69,12 +82,25 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-nick.jpg" />
+                <img class="border" src="img/committee/joe.png" />
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Joe Mertz</h3>
+                <h4>Head of Operations</h4>
+                <p>I am a senior studying Technical Theater and Robotics. I have been coming to Spring Carnival for over 20 years and this is my fourth year on Committee. I am 6' 9" tall and will probably have been asked that at least twice before you see me on any given day.</p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                <img class="border" src="img/committee/nick.png" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Nicholas Coauette</h3>
-                <h4>Head of Operations</h4>
-                <p>I am a junior Lighting Design major in the School of Drama. This is my third year on Spring Carnival Committee. In past years I have worked on Power and Safety as a part of the Electrical team. My hobbies include mountain biking, motorcycle riding, playing piano, and video games. I'm looking forward to a smooth transition for Carnival to the CFA parking lot.</p>
+                <h4>Head of Booth Operations</h4>
+                <p>I am a senior Lighting Design major in the School of Drama. This is my fourth year on Spring Carnival Committee. In past years I have worked on Power and Safety as a part of the Electrical team, and last year I was Head of Operations. My hobbies include mountain biking, motorcycle riding, playing piano, and video games. I’m looking forward to my last year as a part of Carnival Committee and a successful Spring Carnival!</p>
               </div>
             </div>
 
@@ -82,66 +108,68 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-dan.jpg" />
+                <img class="border" src="img/committee/stephen.png" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Dan Miele</h3>
+                <h3>Stephen Clark</h3>
                 <h4>Assistant Head of Operations</h4>
-                <p>I am a senior in Sound Design. This is my fourth year on Spring Carnival Committee. In the past I have worked on Power and Safety and as Head of Electrical. My hobbies include fork lift driving, obtaining certifications, and logistics coordination. I'm looking forward to testing all the rides.</p>
+                <p>I am a sophmore studying Computer Science. I may be a sophmore, but the first time I saw Spring Carnival was during a sleeping bag weekend my junior year of high school...and I have been hooked ever since. I am looking forward to yet another fun and competitive Spring Carnival!</p>
               </div>
             </div>
+
+            <!--<br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                <img class="border" src="img/committee/" />
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Margret Reager</h3>
+                <h4>Assistant Head of Operations</h4>
+                <p></p>
+              </div>
+            </div>-->
               
             <br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-becca.jpg" />
+                <img class="border" src="img/committee/gabbi.png" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Becca Wolfinger</h3>
-                <h4>Head of Booth</h4>
-                <p>I am a senior Electrical and Computer Engineering major who loves booth (almost too much?)! I was a booth chair for my sorority for the previous two years, but have been obsessed with booth since I was a freshman. I am so excited to see what all the different organizations end up building, and to be a part of one of Carnegie Mellon's weirdest (but also best) tradition!</p>
+                <h3>Gabbi Rickstrew</h3>
+                <h4>Head of Marketing</h4>
+                <p>I am a senior double-major in Global Studies and Hispanic Studies. This is my first year officially apart of Spring Carnival Committee and I am already so excited about it!! I am thrilled to be Marketing Chair this year and can't wait to see and share with the CMU community all that we're planning for next semester!</p>
               </div>
             </div>
               
-            <br class="spacer" />
+            <!--<br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-sharon.jpg" />
+                <img class="border" src="img/committee/" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Sharon Romero</h3>
+                <h3></h3>
                 <h4>Head of Entertainment</h4>
-                <p>I am a senior Mathematics major from Queens, New York. This is my second year on SCC but I've been involved with Spring Carnival through booth since my freshman year. I'm really looking forward to having so much fun getting to work with everyone and putting together a great, fun Spring Carnival experience for the whole community!</p>
+                <p></p>
               </div>
-            </div>
-              
-            <br class="spacer" />
-
-            <div class="row person">
-              <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-alice.jpg" />
-              </div>
-              <div class="large-8 columns smalltype">
-                <h3>Alice Borie</h3>
-                <h4>Head of Design + Marketing</h4>
-                <p>I am a senior Information Systems major from California. I've been involved with Carnival since freshman year when I participated in booth and decided to join SCC my junior year after having had so much fun during booth! I'm excited to see midway become a central part of campus as we transition Midway from the Morewood parking lot to CFA parking lot. 
-              </div>
-            </div>
+            </div>-->
             
             <br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/scc-andrew.png" />
+                <img class="border" src="img/committee/andrew.png" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Andrew Greenwald</h3>
                 <h4>Advisor</h4>
-                <p>This is my second year at CMU, and my first year working with Carnival! I couldn’t be more excited to work with the Executive Board of Spring Carnival Committee on issues of safety and logistics, and serve as the staff liaison to other administrative departments that act as stakeholders for the weekend’s many events. In addition to Carnival, I also advice Dancers’ Symposium, plan the annual welcome back event Janufest, coordinate the Spring Leadership Workshop, and coordinate the Student Organization Award Recognition process.</p>
+                <p>I am a Coordinator of Student Activities for the Office of Student Leadership, Involvement, and Civic Engagement and Spring Carnival Committee’s (SCC) Advisor. This is my third year at CMU, and my second year advising Carnival. Working with Exec is one of the highlights of my position, and after a successful transition to a new part of campus last year, I am so excited to see what the committee will accomplish this year. In addition to SCC, I advise Undergraduate Student Senate, plan the annual welcome back event Janufest, coordinate the Senior Year Experience Program, the Pittsburgh Connections Program, the Arts Pass Program, and the Activities Fairs.</p>
               </div>
             </div>
+
+            <!---->
               
           </div> <!-- end columns -->
         </div> <!-- end row -->
