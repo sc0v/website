@@ -4,17 +4,17 @@
     <title>Committee - Carnegie Mellon Spring Carnival</title>
     <!--#include virtual="html/head.html" -->
   </head>
-  <body>   
+  <body>
     <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">      
+    <div id="all">
       <header class="row header committee">
         <!--#include virtual="html/header.html" -->
       </header>
 
       <!--#include virtual="html/navigation.html" -->
-          
-      <article class="main">  
+
+      <article class="main">
         <div class="row">
           <div class="large-10 large-centered columns">
             <p class="intro drop">Spring Carnival Committee is the student organization that makes Carnival happen. We plan, we work, we logitiscize. We get really excited about making the most fun week of the year to actually happen!</p>
@@ -22,7 +22,7 @@
         </div>
 
         <!--<div class="row">
-          <div class="large-11 large-centered columns"> 
+          <div class="large-11 large-centered columns">
             <img class="border" src="img/committee/group.jpg" alt="Spring Carnival Committee" />
             <br /><br />
             <span class="title">The 2017 Spring Carnival Committee</span>
@@ -36,9 +36,9 @@
             <h2 class="text-center">MEET THE EXECUTIVE BOARD:</h2>
           </div>
         </div>-->
-            
+
         <br class="spacer" />
-            
+
         <div class="row">
           <div class="large-9 large-centered columns">
             <div class="row person">
@@ -64,7 +64,7 @@
                 <p>I am a sophomore in Electrical and Computer Engineering. This is my second year on Spring Carnival Committee. I was on entertainment committee last year. I’m really excited for spring carnival 2017 as we settle down in the new location.</p>
               </div>
             </div>
-              
+
             <br class="spacer" />
 
             <div class="row person">
@@ -108,6 +108,19 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
+                <img class="border" src="img/committee/margret.png" />
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Margret Reager</h3>
+                <h4>Assistant Head of Operations</h4>
+                <p>I am a sophomore Decision Science and Hispanic Studies double major. This is my second year on Spring Carnival Committee, but my first year on exec. Last year I was on the entertainment and operations committees and I'm excited to be more hands on this year!</p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
                 <img class="border" src="img/committee/stephen.png" />
               </div>
               <div class="large-8 columns smalltype">
@@ -117,19 +130,6 @@
               </div>
             </div>
 
-            <!--<br class="spacer" />
-
-            <div class="row person">
-              <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/" />
-              </div>
-              <div class="large-8 columns smalltype">
-                <h3>Margret Reager</h3>
-                <h4>Assistant Head of Operations</h4>
-                <p></p>
-              </div>
-            </div>-->
-              
             <br class="spacer" />
 
             <div class="row person">
@@ -142,20 +142,20 @@
                 <p>I am a senior double-major in Global Studies and Hispanic Studies. This is my first year officially apart of Spring Carnival Committee and I am already so excited about it!! I am thrilled to be Marketing Chair this year and can't wait to see and share with the CMU community all that we're planning for next semester!</p>
               </div>
             </div>
-              
-            <!--<br class="spacer" />
+
+            <br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/" />
+                <img class="border" src="img/committee/hannah.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3></h3>
                 <h4>Head of Entertainment</h4>
-                <p></p>
+                <p>I am a sophomore in the Tepper School of Business. I joined Spring Carnival in my freshman year as a part of the Entertainment Committee. I love that everything on CMU's campus comes to a halt for a weekend to appreciate this long-standing tradition!</p>
               </div>
-            </div>-->
-            
+            </div>
+
             <br class="spacer" />
 
             <div class="row person">
@@ -170,16 +170,16 @@
             </div>
 
             <!---->
-              
+
           </div> <!-- end columns -->
         </div> <!-- end row -->
-           
-        <br class="largespacer" />        
+
+        <br class="largespacer" />
       </article>
 
       <!--#include virtual="html/footer.html" -->
     </div><!-- end all-->
-           
+
     <!--#include virtual="html/script.html" -->
     <script>$("#nav-committee").addClass("active");</script>
   </body>
