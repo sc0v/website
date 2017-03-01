@@ -4,17 +4,17 @@
     <title>Booth - Carnegie Mellon Spring Carnival</title>
     <!--#include virtual="html/head.html" -->
   </head>
-  <body>   
+  <body>
     <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">      
+    <div id="all">
       <header class="row header booth">
         <!--#include virtual="html/header.html" -->
       </header>
 
       <!--#include virtual="html/navigation.html" -->
-          
-      <article class="main">  
+
+      <article class="main">
         <div class="row">
           <div class="large-10 large-centered columns">
             <p class="intro drop">Booth is one of the biggest showpieces of Spring Carnival. Student organizations build multi-story structures around our chosen theme, Game Night. These booths include interactive games and elaborate decorations. The booths are located on Midway, at the College of Fine Arts parking lot. Admission is free to see booths! </p>
@@ -31,8 +31,6 @@
               <div><img class="border" src="img/booth/slides/booth4.jpg" /></div>
               <div><img class="border" src="img/booth/slides/booth5.jpg" /></div>
               <div><img class="border" src="img/booth/slides/booth6.jpg" /></div>
-              <div><img class="border" src="img/booth/slides/booth7.jpg" /></div>
-              <div><img class="border" src="img/booth/slides/booth8.jpg" /></div>
             </div>
             <span class="title">Midway booth highlights upon opening to the public!</span>
           </div>
@@ -45,9 +43,9 @@
             <p>There are four competitive categories for booth: Sorority, Fraternity, Independent, and Blitz (smaller) booths. Alpha Phi Omega also builds non-competing concession stand, with proceeds going to charity. Below are this year’s participating organizations and their chosen games:</p>
           </div>
         </div>
-            
+
         <br class="spacer" />
-            
+
         <!-- Sorority themes for the year -->
         <div class="row">
           <div class="large-5 push-1 columns smalltype">
@@ -84,10 +82,10 @@
             <p><span class="title-left">Pictured left: Sigma Phi Epsilon’s Lord of the Rings, winning first place in 2014.</span></p>
           </div>
         </div>
-            
-        <br class="spacer" />    
-        
-        <!-- Independent themes for the year -->  
+
+        <br class="spacer" />
+
+        <!-- Independent themes for the year -->
         <div class="row">
           <div class="large-5 push-1 columns smalltype">
             <h3>Independent</h3>
@@ -127,7 +125,7 @@
         </div>
 
         <br class="spacer" />
-            
+
         <div class="row">
           <div class="large-10 large-centered columns">
             <p>All organizations move onto Midway the Friday night before Carnival weekend, and keep building until opening for the public Thursday afternoon! Midway is a frenzy of activity for several days. Students go from putting up walls to constructing staircase railings to painting paper mache decorations! The finished products are really a sight to see.</p>
@@ -139,7 +137,7 @@
 
       <!--#include virtual="html/footer.html" -->
     </div><!-- end all-->
-       
+
     <!--#include virtual="html/script.html" -->
     <script>$("#nav-traditions").addClass("active");</script>
     <script>$("#nav-booth").addClass("active");</script>
