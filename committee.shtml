@@ -43,7 +43,7 @@
           <div class="large-9 large-centered columns">
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/amalia.png" />
+                <img class="border" src="img/committee/amalia.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Amalia Martinez</h3>
@@ -56,7 +56,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/zilei.png" />
+                  <img class="border" src="img/committee/zilei.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Zilei Gu</h3>
@@ -69,7 +69,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/josh.png" />
+                <img class="border" src="img/committee/josh.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Josh Zak</h3>
@@ -82,7 +82,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/joe.png" />
+                <img class="border" src="img/committee/joe.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Joe Mertz</h3>
@@ -95,7 +95,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/nick.png" />
+                <img class="border" src="img/committee/nick.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Nicholas Coauette</h3>
@@ -108,7 +108,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/margret.png" />
+                <img class="border" src="img/committee/margret.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Margret Reager</h3>
@@ -121,7 +121,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/stephen.png" />
+                <img class="border" src="img/committee/stephen.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Stephen Clark</h3>
@@ -134,7 +134,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/gabbi.png" />
+                <img class="border" src="img/committee/gabbi.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Gabbi Rickstrew</h3>
@@ -160,7 +160,7 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/andrew.png" />
+                <img class="border" src="img/committee/andrew.jpg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Andrew Greenwald</h3>
