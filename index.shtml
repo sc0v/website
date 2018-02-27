@@ -23,23 +23,20 @@
       <div class="panel" id="panel9"></div>
       <div class="panel" id="panel10"></div>
     </div> <!-- end animation-->
-
-    <div id="all">
+      
+    <div id="all">      
       <header class="row header home">
         <!--#include virtual="html/header.html" -->
       </header>
 
       <!--#include virtual="html/navigation.html" -->
-
-      <article class="main">
-
-        <!--
+        
+      <article class="main">  
         <div class="show-for-small-only">
           <p class="panel">
-              Looking for the <a href="http://www.alumni.cmu.edu/s/1410/alumni/index-social.aspx?sid=1410&gid=1&pgid=785">Carnival Schedule</a>?
+              Looking for the <a href="https://guidebook.com/guide/61142/schedule">Carnival Schedule</a>?
           </p>
         </div>
-        -->
 
         <!--
         <div class="show-for-medium-up">
@@ -47,14 +44,14 @@
               <a href="http://carnegiemellontickets.universitytickets.com/user_pages/event.aspx?id=1373">Preorder your Carnival Shirt</a> today!
           </p>
         </div>
-        -->
+	-->
 
         <div class="show-for-medium-up">
           <p class="panel">
-              <a href="https://goo.gl/forms/MXDCDi1BGM8ADsBZ2">Suggest a new theme</a> or complete our <a href="https://goo.gl/forms/8O7ALFl8NVlvIfeY2">Booth intrest form</a>!
+              <a target="_blank" href="https://www.facebook.com/amaliafmartinez/videos/1859442450737210/">Watch the Spring Carnival 2018 Theme Reveal!</a>
           </p>
         </div>
-
+        
 
         <div class="row">
           <div class="large-10 large-centered columns">
@@ -79,6 +76,8 @@
               <div><img class="border" src="img/home/slides/home9.jpg" /></div>
               <div><img class="border" src="img/home/slides/home10.jpg" /></div>
               <div><img class="border" src="img/home/slides/home11.jpg" /></div>
+              <div><img class="border" src="img/home/slides/home12.jpg" /></div>
+              <div><img class="border" src="img/home/slides/home13.jpg" /></div>
             </div>
             <span class="title">Carnegie Mellon's oldest tradition is a favorite of students, alumni, faculty, and staff!</span>
           </div>
@@ -117,7 +116,7 @@
 
         <div class="row">
           <div class="large-12 large-centered columns">
-            <p class="text-center plainfont">
+            <p class="text-center plainfont">          
               <a href="http://cmu.edu" target="_blank"><img src="img/home/cmulogo.png" width="400" alt="Carnegie Mellon University Logo" /></a>
               <br />Carnegie Mellon’s Spring Carnival is funded in part by your student activities fee.
               <br /><br /><br />
@@ -125,10 +124,10 @@
           </div>
         </div>
       </article>
-
+      
       <!--#include virtual="html/footer.html" -->
     </div><!-- end all-->
-
+       
     <!--#include virtual="html/script.html" -->
     <script src="js/jquery.cookie.js"></script>
     <script src="js/animation.js"></script>

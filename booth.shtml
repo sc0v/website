@@ -4,20 +4,20 @@
     <title>Booth - Carnegie Mellon Spring Carnival</title>
     <!--#include virtual="html/head.html" -->
   </head>
-  <body>
+  <body>   
     <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">
+    <div id="all">      
       <header class="row header booth">
         <!--#include virtual="html/header.html" -->
       </header>
 
       <!--#include virtual="html/navigation.html" -->
-
-      <article class="main">
+          
+      <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p class="intro drop">Booth is one of the biggest showpieces of Spring Carnival. Student organizations build multi-story structures around our chosen theme, Game Night. These booths include interactive games and elaborate decorations. The booths are located on Midway, at the College of Fine Arts parking lot. Admission is free to see booths! </p>
+            <p class="intro drop">Booth is one of the biggest showpieces of Spring Carnival. Student organizations build multi-story structures around our chosen theme, Myths and Legends. These booths include interactive games and elaborate decorations. The booths are located on Midway, at the College of Fine Arts parking lot. Admission is free to see booths! </p>
           </div>
         </div>
 
@@ -31,6 +31,8 @@
               <div><img class="border" src="img/booth/slides/booth4.jpg" /></div>
               <div><img class="border" src="img/booth/slides/booth5.jpg" /></div>
               <div><img class="border" src="img/booth/slides/booth6.jpg" /></div>
+              <div><img class="border" src="img/booth/slides/booth7.jpg" /></div>
+              <div><img class="border" src="img/booth/slides/booth8.jpg" /></div>
             </div>
             <span class="title">Midway booth highlights upon opening to the public!</span>
           </div>
@@ -43,19 +45,21 @@
             <p>There are four competitive categories for booth: Sorority, Fraternity, Independent, and Blitz (smaller) booths. Alpha Phi Omega also builds non-competing concession stand, with proceeds going to charity. Below are this year’s participating organizations and their chosen games:</p>
           </div>
         </div>
-
+            
         <br class="spacer" />
-
+            
         <!-- Sorority themes for the year -->
         <div class="row">
           <div class="large-5 push-1 columns smalltype">
             <h3>Sorority</h3>
-            <p><b>Alpha Chi Omega:</b> Hanging Gardens of Babylon<br />
-                <b>Alpha Phi:</b> 90's Cartoons<br />
-                <b>Delta Delta Delta:</b> Walt Disney Animation<br />
-                <b>Delta Gamma:</b> Flintstones<br />
-                <b>Kappa Alpha Theta:</b> Road to El Dorado<br />
-                <b>Kappa Kappa Gamma:</b> The Groovy 70's<br /><br />
+            <p>
+              <b>Kappa Alpha Theta:</b> Titanic<br />
+              <b>Alpha Pi:</b> Chronicles of Narnia<br />
+              <b>Kappa Kappa Gamma:</b> Alice in Wonderland<br />
+              <b>Alpha Chi Omega:</b> Dracula<br />
+              <b>Delta Delta Delta:</b> Greek Legends of the Sea<br />
+              <b>Delta Gamma:</b> Santa's Workshop<br />
+              <br />
             </p>
             <p><span class="title-left">Pictured right: Kappa Alpha Theta’s Thumbelina, winning second place in 2013.</span></p>
           </div>
@@ -73,27 +77,33 @@
           </div>
           <div class="large-5 pull-1 columns smalltype">
             <h3>Fraternity</h3>
-            <p><b>Alpha Epsilon Pi:</b> The Creation<br />
-                <b>Alpha Sigma Phi:</b> 80's Hair Bands<br />
-                <b>Delta Tau Delta:</b> Atlantis<br />
-                <b>Phi Delta Theta:</b> Catastro-Phi<br />
-                <b>Sigma Phi Epsilon:</b> Star Wars<br /><br />
+            <p>
+              <b>Alpha Epsilon Pi:</b> Star Trek<br />
+              <b>Phi Delta Theta:</b> Apollo 11<br />
+              <b>Alpha Sigma Phi:</b> The Sandlot<br />
+              <b>Sigma Phi Epsilon:</b> Legend of Zelda<br />
+              <b>Delta Tau Delta:</b> Harry Potter<br />
+              <br />
             </p>
             <p><span class="title-left">Pictured left: Sigma Phi Epsilon’s Lord of the Rings, winning first place in 2014.</span></p>
           </div>
         </div>
-
-        <br class="spacer" />
-
-        <!-- Independent themes for the year -->
+            
+        <br class="spacer" />    
+        
+        <!-- Independent themes for the year -->  
         <div class="row">
           <div class="large-5 push-1 columns smalltype">
             <h3>Independent</h3>
-            <p><b>Alpha Phi Omega:</b> Grease / 1950's Diner<br />
-                <b>Asian Student Association:</b> Samurai Jack<br />
-                <b>Fringe:</b> Sccoby Doo: Where's My Mummy<br />
-                <b>KGB:</b> Topple the Czar<br />
-                <b>Taiwanese Student Association:</b> Meet the Robinsons<br /><br />
+            <p>
+              <b>KGB:</b> Aliens/UFOs<br />
+              <b>Fringe:</b> Robin Hood<br />
+              <b>Student Dormitory Council:</b> The Trojan Horse<br />
+              <b>Alpha Phi Omega:</b> Underworld<br />
+              <b>Singapore Students Association:</b> Merlion<br />
+              <b>Taiwan Student Association:</b> Arabian Nights<br />
+              <b>Asian Students Association:</b> The Legend of Korra<br />
+              <br />
             </p>
             <p><span class="title-left">Pictured right: Asian Student Association’s Looney Tunes, winning first place in 2012.</span></p>
           </div>
@@ -110,22 +120,20 @@
           </div>
           <div class="large-5 pull-1 columns smalltype">
             <h3>Blitz</h3>
-            <p><b>Astronomy Club:</b> The Space Race<br />
-                <b>Math Club:</b> Math in Ancient Greece<br />
-                <b>Mellon College of Science:</b> Ice Age<br />
-                <b>Sigma Chi:</b> Boothasa<br />
-                <b>Student Dormitory Council:</b> Mars Colony<br />
-                <b>Alpha Kappa Psi:</b> Boothasaurus<br />
-                <b>Chinese Student Association:</b> Tang Dynasty<br />
-                <b>Society of Civil Engineers:</b> Industrial Revolution<br />
-                <b>Kappa Sigma</b> 1962: The Year of the First Taco Bell<br /><br />
+            <p>
+              <b>Chinese Students Association:</b> The Great Wall<br />
+              <b>American Society of Civil Engineers:</b> Area 51<br />
+              <b>Astronomy Club:</b> Constellations<br />
+              <b>Kappa Sigma:</b> The Yeti<br />
+              <b>Math Club:</b> Merlin's Quests<br />
+              <br />
             </p>
             <p><span class="title-left">Pictured left: Mellon College of Science’s Batman, winning second place in 2014.</span></p>
           </div>
         </div>
 
         <br class="spacer" />
-
+            
         <div class="row">
           <div class="large-10 large-centered columns">
             <p>All organizations move onto Midway the Friday night before Carnival weekend, and keep building until opening for the public Thursday afternoon! Midway is a frenzy of activity for several days. Students go from putting up walls to constructing staircase railings to painting paper mache decorations! The finished products are really a sight to see.</p>
@@ -137,7 +145,7 @@
 
       <!--#include virtual="html/footer.html" -->
     </div><!-- end all-->
-
+       
     <!--#include virtual="html/script.html" -->
     <script>$("#nav-traditions").addClass("active");</script>
     <script>$("#nav-booth").addClass("active");</script>

@@ -17,14 +17,14 @@
       <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p class="intro drop">Check out Build Week and Carnival 2017 &mdash; live!</p>
+            <p class="intro drop">Check out the live videos of Build Week and Carnival 2017!</p>
           </div>
         </div>
 
         <div class="row">
           <div class="large-11 large-centered columns">
             <div class="flex-video widescreen" style="padding-top: 0">
-              <iframe src="https://www.youtube.com/embed/h87jwF2zpAs?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/pPyFP2SRPTw?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <br />
             <span class="title">A live video of the Carnival 2017 Midway</span>
@@ -36,10 +36,10 @@
         <div class="row">
           <div class="large-11 large-centered columns">
             <div class="flex-video widescreen" style="padding-top: 0">
-              <iframe src="https://www.youtube.com/embed/QsVoC9WN2Sk?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/49hrfaUvADY?autoplay=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <br />
-            <span class="title">A live video of the Carnival 2017 Amphitheater</span>
+            <span class="title">A live video of the Carnival 2017 Rides</span>
           </div>
         </div>
 

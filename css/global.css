@@ -76,7 +76,7 @@ a {
 }
 
 a:hover {
-    color: #5c7894 !important;
+    color: #c72a2a;
 }
 
 .slick-prev:before, .slick-next:before {
@@ -102,7 +102,7 @@ span.title, p, span {
     color: #fff !important;
 }
 body {
-    background: url('../img/background.png') repeat #1f2933;   
+    background: url('../img/background.png') repeat #4682a2;   
 }
 .slick-prev:before, .slick-next:before {
     color: #fff !important;
@@ -235,7 +235,7 @@ header.header {
     width: 100%;
     border: 0;
     max-width: none;
-    height: 250px;
+    height: 300px;
 }
 
 header.header.home {
@@ -272,7 +272,7 @@ header.header.schedule {
     background-position: center;
 }
 header.header.webcam {
-    background: url('../img/banners/webcam-banner.png') #000;
+    background: url('../img/banners/webcam-banner.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center;
@@ -308,7 +308,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 /* Nav Bar */
 
 .navcontainer {
-    background: #1f2933;
+    background: #006688;
 }
 
 .top-bar:not(.expanded) section ul li.root {
@@ -322,7 +322,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 
 nav.top-bar, nav.top-bar section.top-bar-section ul li a{
-    background: #1f2933 !important;
+    background: #006688 !important;
      font-size: 1.1em;
     text-transform: uppercase;
     font-family: "museo-slab",serif;
@@ -331,9 +331,9 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
 }
 
 nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {
-    background: #1f2933;
-    color: #fff !important;
+    background: #006688;
     font-weight: bold !important;
+
 }
 
 nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a {
@@ -341,8 +341,7 @@ nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a {
 }
 
 nav.top-bar li a.active {
-    color: #fff !important;
-    font-weight: bold !important;  
+    font-weight: bold !important;   
 }
 
 li.title.back.js-generated h5 a::before {
@@ -415,11 +414,11 @@ article.main p.scheduleintro {
 p.drop:first-letter{ font-size: 200%; line-height:50%}
 
 p.panel {
-    background-color: rgba(31,41,51,0.5);
+    background-color: rgba(0,102,136,0.5);
     border-right: none;
     border-left: none;
-    border-bottom: 1px solid rgb(31,41,51);
-    border-top: 1px solid rgb(31,41,51);
+    border-bottom: 1px solid rgb(0,102,136);
+    border-top: 1px solid rgb(0,102,136);
     text-align: center;
     margin-top: -60px;
     margin-bottom: 40px;
