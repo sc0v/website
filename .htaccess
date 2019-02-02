@@ -1,4 +1,5 @@
 Redirect 302 /binder https://binder.springcarnival.org/
 Redirect 302 /safetyvideo https://www.youtube.com/embed/DsVHcQBrNaI?controls=0&rel=0&showinfo=0&autoplay=1
 Redirect 302 /webcam https://www.youtube.com/watch?v=hJk7x4QeSTw
-Redirect 302 /stakeholders2019 https://goo.gl/forms/0Rsz5h1ukE24Fsro1
+Redirect 302 /directory2019 https://goo.gl/forms/0Rsz5h1ukE24Fsro1
+Redirect 302 /stakeholders https://drive.google.com/open?id=1yWCgqC6mo72htxpFn2nUmUDjwPke9iS-
