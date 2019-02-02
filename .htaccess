@@ -3,3 +3,5 @@ Redirect 302 /safetyvideo https://www.youtube.com/embed/DsVHcQBrNaI?controls=0&r
 Redirect 302 /webcam https://www.youtube.com/watch?v=hJk7x4QeSTw
 Redirect 302 /directory2019 https://goo.gl/forms/0Rsz5h1ukE24Fsro1
 Redirect 302 /stakeholders https://drive.google.com/open?id=1yWCgqC6mo72htxpFn2nUmUDjwPke9iS-
+Redirect 302 /gbm1makeup https://drive.google.com/open?id=1eajiwxAIBUbkiCW2UqP8920D7YPZ722X0cQjp9_vWEc
+Redirect 302 /gbm1quiz https://goo.gl/forms/YBjii7bZO2TVW0Bd2
