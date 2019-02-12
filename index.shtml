@@ -32,17 +32,17 @@
       <!--#include virtual="html/navigation.html" -->
         
       <article class="main">  
-        <div class="show-for-small-only">
+        <!-- <div class="show-for-small-only">
           <p class="panel">
               Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
           </p>
-        </div>
+        </div> -->
 
-        <div class="show-for-medium-up">
+        <!-- <div class="show-for-medium-up">
           <p class="panel">
               Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
           </p>
-        </div>
+        </div> -->
         
 
         <div class="row">
