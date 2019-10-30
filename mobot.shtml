@@ -16,7 +16,9 @@
           
       <article class="main">  
         <div class="row">
-          <div class="large-10 large-centered columns">
+          <div class="large-10 large-centered columns">            
+            <h1><center><b>Mobot</b></center></h1>
+            <br>>
             <p class="intro drop">Mobot is Carnegie Mellon’s beloved abbreviation of mobile robots. This year will celebrate the 24th Annual Carnegie Mellon Mobot Races. Participants will race the "MObile roBOTs" they have built along a slalom-type course on the paved walk in front of Wean Hall. For a complete background, registration information, and a more detailed schedule, please visit the official <a href="http://www.cs.cmu.edu/mobot/index.html" target="_blank">Mobot website</a>.</p>
           </div>
         </div>
