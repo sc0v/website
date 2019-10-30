@@ -47,10 +47,10 @@
 
         <div class="row">
           <div class="large-10 large-centered columns">
-              <p class="intro drop">Carnegie Mellon's Spring Carnival is three days of amusement 
+              <p>Carnegie Mellon's Spring Carnival is three days of amusement 
                 park rides, adventures in booths, unhealthy snacks, and buggy races. Join us 
                 <strong>April 16-18, 2020</strong> as we celebrate over 100 years of fun, laughter, and 
-                being a Tartan! This year will also be Buggy's 100th year anniversary!</p>
+                booth, buggy, and being a Tartan! </p>
           </div>
         </div>
 
@@ -82,11 +82,34 @@
 
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p>Each year, Carnival is planned and executed by our own Spring Carnival Committee. We love what we do. Alumni Association provides us with access to our amazing alumni network and helps with scheduling, and the Activities Board puts on our big events, such as the concert and comedian. Buggy is held by Sweepstakes Committee. Carnival is the best time of the year for us. Come see what we’re talking about!</p>
+            <p>Each year, Carnival is planned and executed by our own Spring 
+            Carnival Committee. We love what we do. Alumni Association provides 
+            us with access to our amazing alumni network and helps with scheduling, 
+            and the Activities Board puts on our big events, such as the concert and 
+            comedian. Buggy is held by Sweepstakes Committee. Carnival is the best 
+            time of the year for us. Come see what we’re talking about!</p>
           </div>
         </div>
 
         <br class="spacer" />
+
+        <div class="row">
+            <div class="medium-8 large-7 large-push-1 columns">
+            <h1>ADVENTURE AWAITS</h1>
+            <p>Spring Carnival is inviting you on a wild adventure!
+                Grab your binoculars and don’t forget your spirit of exploration! 
+                Midway will become an immersive, adrenalizing quest, with dozens of 
+                storylines to partake in: climb the peaks of Everest, submarine the ocean 
+                floor, and traverse the jungle with Indiana Jones. Buggy will continue the 
+                exciting journey around the hill for their big 100th year. Mobot will evoke 
+                the thrills of competition. Explore all the exhilarating corners of our 
+                Spring Carnival 2020, reminiscence in classical adventure tales, and 
+                accomplish colossal feats set forth for you. Adventure Awaits! </p>
+            </div>
+            <div class="medium-4 large-3 large-pull-1 text-center columns">
+            <img src="img/2020_logo.png" width="200" style="" /></a>
+            </div>
+        </div>
 
         <!-- Philanthropy -->
         <!-- <div class="row">

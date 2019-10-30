@@ -325,7 +325,7 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
     background: #006688 !important;
      font-size: 1.1em;
     text-transform: uppercase;
-    font-family: "museo-slab",serif;
+    font-family: "Helvetica",serif;
     font-style: normal;
     font-weight: 500;
 }
@@ -390,12 +390,12 @@ article.main {
 }
 
 article.main h1, h2, h3, h4 {
-    font-family: "museo-slab",serif;
+    font-family: "Helvetica",serif;
     font-style: normal;
     font-weight: 500;
 }
 article.main p {
-    font-family: "museo-slab",serif;
+    font-family: "Helvetica",serif;
     font-style: normal;
     font-weight: 500;
     font-size: 1.3em;
