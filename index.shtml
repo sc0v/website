@@ -92,10 +92,12 @@
         </div>
 
         <br class="spacer" />
+        <br class="spacer" />
 
         <div class="row">
             <div class="large-10 large-centered columns">
             <h1><center>ADVENTURE AWAITS</center></h1>
+            <center><img src="img/2020_logo.png" width="500" style=""/></center>
             <p>Spring Carnival is inviting you on a wild adventure!
                 Grab your binoculars and don’t forget your spirit of exploration! 
                 Midway will become an immersive, adrenalizing quest, with dozens of 
@@ -106,7 +108,6 @@
                 Spring Carnival 2020, reminiscence in classical adventure tales, and 
                 accomplish colossal feats set forth for you. Adventure Awaits! </p>
             </div>
-            <center><img src="img/2020_logo.png" width="500" style=""/></center>
         </div>
 
         <!-- Philanthropy -->
