@@ -17,9 +17,11 @@
       <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-              <p class="intro drop">Check out the timelapse of Carnival 2018 build week! These booths are built from the ground up, and now you can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that shows the process from start to finish! </p>
+              <p>Check out the timelapse of Carnival 2018 build week! These booths are built from the ground up, and now you can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that shows the process from start to finish! </p>
           </div>
         </div>
+
+        <br/>
 
         <div class="row">
           <div class="large-11 large-centered columns">

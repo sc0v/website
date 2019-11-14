@@ -260,7 +260,7 @@ header.header.buggy {
 }
 
 header.header.mobot {
-    background: url('../img/banners/mobot-banner.jpg') #000;
+    background: url('../img/banners/mobot-banner_dark.jpg') #000;
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center;

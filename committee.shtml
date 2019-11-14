@@ -17,7 +17,7 @@
       <article class="main">  
         <div class="row">
           <div class="large-10 large-centered columns">
-            <p class="intro drop">Spring Carnival Committee is the student organization that makes Carnival happen. We plan, we work, we logitiscize. We get really excited about making the most fun week of the year to actually happen!</p>
+            <p>Spring Carnival Committee is the student organization that makes Carnival happen. We plan, we work, we logitiscize. We get really excited about making the most fun week of the year to actually happen!</p>
           </div>
         </div>
 
@@ -43,12 +43,17 @@
           <div class="large-9 large-centered columns">
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/Stephen.jpg" />
+                <img class="border" src="img/committee/Renata.jpg" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Stephen Clark</h3>
+                <h3>Renata Yerzhanova</h3>
                 <h4>Co-Chair</h4>
-                <p>I am a senior studying Computer Science. I may be a senior, but the first time I saw Spring Carnival was during a sleeping bag weekend my junior year of high school... and I have been hooked ever since. As Co-Chair, I am looking forward to representing the best Spring Carnival yet! Good luck to everyone participating in Spring Carnival this year!</p>
+                <p>I am a junior in Chemistry pursuing a Business
+                Administration minor. This is my third year on Spring
+                Carnival Committee and first time serving as the Head of
+                Operations. I am thrilled to PLAN-(et earth) this carnival.
+                The best part is all the excitement that comes to campus
+                during Spring Carnival!</p>
               </div>
             </div>
 
@@ -56,12 +61,17 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/Hannah.jpg" />
+                  <img class="border" src="img/committee/VictoriaL.jpg" />
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Hannah Koschmeder</h3>
+                <h3>Victoria Lugo</h3>
                 <h4>Co-Chair</h4>
-                <p>I am a senior studying Business Administration and Statistics. It’s been a delight to work with Spring Carnival over my career at CMU, and especially for the past year and a half as Co-Chair. </p>
+                <p>I am a Sophomore studying Business Administration and
+                Global Studies. This is my second year in SCC and I wouldn't
+                have it any other way. Being part of the committee has been
+                instrumental for my life at CMU. Watching students pour their
+                love and dedication into their booths is amazing and I can't
+                wait to see what they have in store for us this year!</p>
               </div>
             </div>
 
@@ -74,8 +84,13 @@
               <div class="large-8 columns smalltype">
                 <h3>Olivia Seavy</h3>
                 <h4>Head of Booth</h4>
-                <p>I am a senior in the Civil Engineering Department. This is my second year on Spring Carnival Committee, and first year as Head of Booth. My responsibilities include helping organizations plan and execute their designs and overseeing the construction process. Booth has always been one of my favorite parts about CMU! Every Carnival, I look forward to seeing all of the teamwork and creativity on Midway.
-</p>
+                <p>I am a senior in the Civil Engineering Department. This is
+                my second year on Spring Carnival Committee, and first year
+                as Head of Booth. My responsibilities include helping
+                organizations plan and execute their designs and overseeing
+                the construction process. Booth has always been one of my
+                favorite parts about CMU! Every Carnival, I look forward to
+                seeing all of the teamwork and creativity on Midway.</p>
               </div>
             </div>
 
@@ -88,7 +103,13 @@
               <div class="large-8 columns smalltype">
                 <h3>Rahin Chowdhury</h3>
                 <h4>Head of Finance</h4>
-                <p>I am a junior in Neuroscience with a concentration in Computation pursuing a minor in BME. I had a blast being on Spring Carnival Committee as a sophomore and this year I have the pleasure to serve its treasurer. I’m excited to be a part of a group that has such a huge impact on the campus festivities. I look forward to seeing it all come together this year.</p>
+                <p>I am a junior in Neuroscience with a concentration in
+                Computation pursuing a minor in BME. I had a blast being on
+                Spring Carnival Committee as a sophomore and this year I have
+                the pleasure to serve its treasurer. I’m excited to be a part
+                of a group that has such a huge impact on the campus
+                festivities. I look forward to seeing it all come together
+                this year.</p>
               </div>
             </div>
             
@@ -96,66 +117,108 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/VictoriaL.jpg" />
+                  <!-- <img class="border" src="img/committee/Rahin.jpg" /> -->
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Victoria Lugo</h3>
+                <h3>Rebecca Stevens</h3>
+                <h4>Assitant Head of Finance</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                <!-- <img class="border" src="img/committee/VictoriaL.jpg" /> -->
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Asad Sheikh</h3>
                 <h4>Head of Marketing</h4>
-                <p>I am a Sophomore studying Business Administration and Global Studies. This is my second year in SCC and I wouldn't have it any other way. Being part of the committee has been instrumental for my life at CMU. Watching students pour their love and dedication into their booths is amazing and I can't wait to see what they have in store for us this year!</p>
+                <p></p>
               </div>
             </div>
             
             <br class="spacer" />
-
-            <div class="row person">
-              <div class="large-4 columns smalltype">
-                <img class="border" src="img/committee/VictoriaK.jpg" />
-              </div>
-              <div class="large-8 columns smalltype">
-                <h3>Victoria Kalinovich</h3>
-                <h4>Head of Entertainment</h4>
-                <p>This is my second year in Spring Carnival Committee, and my first as Head of Entertainment. I’m a sophomore stud
-                
-                Statistics and Machine Learning. Last year I loved having a hand in making Carnival so special, and I’m even more excited now that I have more responsibility. I’m looking forward to see my classmates and members of the community having a good time!</p>
-              </div>
-            </div>
-
-            <br class="spacer" />
-
+            
             <div class="row person">
               <div class="large-4 columns smalltype">
                   <img class="border" src="img/committee/Ying2.jpeg" />
               </div>
               <div class="large-8 columns smalltype">
                 <h3>Ying Yan</h3>
-                <h4>Assistant Head of Marketing and Entertainment</h4>
-                <p>This is my second year on Spring Carnival Committee and my first year as the Assistant Head of Marketing and Entertainment. I am a sophomore studying architecture. Last year I was able to help design and build the entranceway for Midway. It was super fun, and we made a dragon! I can’t wait to take a break from studio and enjoy Carnival!</p>
+                <h4>Assistant Head of Marketing</h4>
+                <p>This is my second year on Spring Carnival Committee and my
+                first year as the Assistant Head of Marketing and
+                Entertainment. I am a sophomore studying architecture. Last
+                year I was able to help design and build the entranceway for
+                Midway. It was super fun, and we made a dragon! I can’t wait
+                to take a break from studio and enjoy Carnival!</p>
               </div>
             </div>
-            
+
             <br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/Renata.jpg" />
+                <!-- <img class="border" src="img/committee/VictoriaK.jpg" /> -->
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Renata Yerzhanova</h3>
+                <h3>Angela Yi</h3>
+                <h4>Head of Entertainment</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                  <!-- <img class="border" src="img/committee/Renata.jpg" /> -->
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Matt Rednor</h3>
                 <h4>Head of Operations</h4>
-                <p>I am a junior in Chemistry pursuing a Business Administration minor. This is my third year on Spring Carnival Committee and first time serving as the Head of Operations. I am thrilled to PLAN-(et earth) this carnival. The best part is all the excitement that comes to campus during Spring Carnival!</p>
+                <p></p>
               </div>
             </div>
-            
+
             <br class="spacer" />
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/Michelle.jpg" />
+                  <!-- <img class="border" src="img/committee/Renata.jpg" /> -->
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Michelle Zhu</h3>
+                <h3>Najah Thurston</h3>
                 <h4>Assistant Head of Operations</h4>
-                <p>I am a sophomore studying Computer Science with an additional major in French and Francophone Studies. This is my second year on Spring Carnival Committee and my first year as one of the Assistant Head of Operations. I am excited to help continue the tradition of Carnival and make this year’s the best yet! I can’t wait to see all our hard work come together this April!</p>
+                <p></p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                  <!-- <img class="border" src="img/committee/Renata.jpg" /> -->
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>DJ Lesh</h3>
+                <h4>Head of Electrical</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <br class="spacer" />
+
+            <div class="row person">
+              <div class="large-4 columns smalltype">
+                  <!-- <img class="border" src="img/committee/Renata.jpg" /> -->
+              </div>
+              <div class="large-8 columns smalltype">
+                <h3>Perry Naseck</h3>
+                <h4>Assistant Head of Electrical</h4>
+                <p></p>
               </div>
             </div>
             
@@ -163,25 +226,12 @@
 
             <div class="row person">
               <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/Joe.jpg" />
+                  <!-- <img class="border" src="img/committee/Michelle.jpg" /> -->
               </div>
               <div class="large-8 columns smalltype">
-                <h3>Joe Iacobellis</h3>
-                <h4>Assistant Head of Operations</h4>
-                <p>I am a sophomore studying Civil & Environmental Engineering and this is my second year in Spring Carnival. I’m most excited about Entranceway and getting to see all the booth designs! </p>
-              </div>
-            </div>
-            
-            <br class="spacer" />
-
-            <div class="row person">
-              <div class="large-4 columns smalltype">
-                  <img class="border" src="img/committee/Joyce.jpg" />
-              </div>
-              <div class="large-8 columns smalltype">
-                <h3>Joyce Chen</h3>
-                <h4>Sweepstakes Chair</h4>
-                <p>I am a senior studying Computer Science. I’ve been involved with the Spring Carnival Buggy races since my freshman year, and I’m super excited to be Sweepstakes Chair and work more closely with SCC. I love seeing the effort that goes into Buggy every year, and I can’t wait to see what happens this Raceday!</p>
+                <h3>Alice Shaskina</h3>
+                <h4>Head of Membership</h4>
+                <p></p>
               </div>
             </div>
             
