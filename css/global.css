@@ -37,7 +37,7 @@ span.title {
 }
 
 span.title-left {
-    font-family: 'Roboto', Helvetica, sans-serif;
+    font-family: 'Helvetica Nueue', Helvetica, sans-serif;
     margin: 0px 0 10px 0;
     display: block;
     text-align: left;
@@ -48,7 +48,7 @@ span.title-left {
 
 
 p.plainfont {
-    font-family: 'Roboto', Helvetica, sans-serif !important;
+    font-family: 'Helvetica Nueue', Helvetica, sans-serif !important;
     font-size: 1.0em !important;
 }
 
