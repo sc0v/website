@@ -27,7 +27,7 @@ img.right {
 }
 
 span.title {
-    font-family: 'Roboto', Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0px 0 10px 0;
     display: block;
     text-align: center;
@@ -37,7 +37,7 @@ span.title {
 }
 
 span.title-left {
-    font-family: 'Roboto', Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0px 0 10px 0;
     display: block;
     text-align: left;
@@ -48,7 +48,7 @@ span.title-left {
 
 
 p.plainfont {
-    font-family: 'Roboto', Helvetica, sans-serif !important;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.0em !important;
 }
 
@@ -388,12 +388,12 @@ article.main {
 }
 
 article.main h1, h2, h3, h4 {
-    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
 }
 article.main p {
-    font-family: 'Assistant', Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 1.3em;
