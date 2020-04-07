@@ -1,3 +1,4 @@
+Redirect 302 /index.shtml https://www.cmu.edu/
 Redirect 302 /binder https://binder.springcarnival.org/
 Redirect 302 /calendar https://calendar.google.com/calendar/embed?src=springcarnival.org_n1fd051prdia7jg2qfcbbco8oc%40group.calendar.google.com&ctz=America%2FNew_York
 Redirect 302 /safetyvideo https://www.youtube.com/embed/DsVHcQBrNaI?controls=0&rel=0&showinfo=0&autoplay=1
