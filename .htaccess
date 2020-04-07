@@ -1,4 +1,3 @@
-Redirect 302 /index.shtml https://cmu.edu/
 Redirect 302 /binder https://binder.springcarnival.org/
 Redirect 302 /calendar https://calendar.google.com/calendar/embed?src=springcarnival.org_n1fd051prdia7jg2qfcbbco8oc%40group.calendar.google.com&ctz=America%2FNew_York
 Redirect 302 /safetyvideo https://www.youtube.com/embed/DsVHcQBrNaI?controls=0&rel=0&showinfo=0&autoplay=1
@@ -12,7 +11,7 @@ Redirect 302 /committeefacebook https://www.facebook.com/springcarnivalcommittee
 Redirect 302 /gbm2makeup https://docs.google.com/spreadsheets/d/1eajiwxAIBUbkiCW2UqP8920D7YPZ722X0cQjp9_vWEc/edit?usp=sharing
 Redirect 302 /gbm2quiz https://goo.gl/forms/IERC5n5ZQW6DOK3e2
 Redirect 302 /tgt19 https://docs.google.com/forms/d/e/1FAIpQLSfZbNwmNuoZzfP757y1kXS1bFGbVoq8sU5AI6UN-h_I1ecQZg/viewform?usp=sf_link
-Redirect 302 /TGT19 /tgt19
+Redirect 302 /TGT19 /https://google.com
 Redirect 302 /gbm-makeup https://docs.google.com/spreadsheets/d/1eajiwxAIBUbkiCW2UqP8920D7YPZ722X0cQjp9_vWEc/edit?usp=sharing
 Redirect 302 /gbm3quiz https://goo.gl/forms/AJTYgGM6s8Ie1GgM2
 Redirect 302 /cagescleanup https://docs.google.com/spreadsheets/d/1rVLbxn5PIIAknmL812-uDmJ2PzipqLju-XcrIqSrOsM/edit?usp=sharing
