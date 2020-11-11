@@ -1,119 +1,126 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
-    <title>Carnegie Mellon Spring Carnival</title>
-    <!--#include virtual="html/head.html" -->
-  </head>
-  <body>
-    <!--#include virtual="html/google-tag-manager.html" -->
 
-    <!-- Animation on page load-->
-    <div id="animation">
-      <div class="logo">
-        <a href="/"><img src="img/logo_white.png" width="850" alt="Carnegie Mellon Spring Carnival 2019" /></a>
+<head>
+  <title>Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
+
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <!-- Animation on page load-->
+  <div id="animation">
+    <div class="logo">
+      <a href="/"><img src="img/logo_white.png" width="850" alt="Carnegie Mellon Spring Carnival 2019" /></a>
+    </div>
+    <div class="panel" id="panel1"></div>
+    <div class="panel" id="panel2"></div>
+    <div class="panel" id="panel3"></div>
+    <div class="panel" id="panel4"></div>
+    <div class="panel" id="panel5"></div>
+    <div class="panel" id="panel6"></div>
+    <div class="panel" id="panel7"></div>
+    <div class="panel" id="panel8"></div>
+    <div class="panel" id="panel9"></div>
+    <div class="panel" id="panel10"></div>
+  </div> <!-- end animation-->
+
+  <div id="all">
+    <header class="row header home">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+      <!-- <div class="show-for-small-only">
+          <p class="panel">
+              Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
+          </p>
+        </div> -->
+
+      <!-- <div class="show-for-medium-up">
+          <p class="panel">
+              Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
+          </p>
+        </div> -->
+
+
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Spring Carnival</b></center>
+          </h1>
+          <br>
+          <p>Carnegie Mellon's Spring Carnival is three days of amusement
+            park rides, adventures in booths, unhealthy snacks, and buggy races. Join us
+            <strong>April 15-17, 2021</strong> as we celebrate over 100 years of fun, laughter,
+            booth, buggy, and being a Tartan! </p>
+        </div>
       </div>
-      <div class="panel" id="panel1"></div>
-      <div class="panel" id="panel2"></div>
-      <div class="panel" id="panel3"></div>
-      <div class="panel" id="panel4"></div>
-      <div class="panel" id="panel5"></div>
-      <div class="panel" id="panel6"></div>
-      <div class="panel" id="panel7"></div>
-      <div class="panel" id="panel8"></div>
-      <div class="panel" id="panel9"></div>
-      <div class="panel" id="panel10"></div>
-    </div> <!-- end animation-->
-      
-    <div id="all">      
-      <header class="row header home">
-        <!--#include virtual="html/header.html" -->
-      </header>
 
-      <!--#include virtual="html/navigation.html" -->
-        
-      <article class="main">  
-        <!-- <div class="show-for-small-only">
-          <p class="panel">
-              Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
-          </p>
-        </div> -->
+      <br class="spacer" />
 
-        <!-- <div class="show-for-medium-up">
-          <p class="panel">
-              Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
-          </p>
-        </div> -->
-        
-
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <h1><center><b>Spring Carnival</b></center></h1>
-            <br>
-            <p>Carnegie Mellon's Spring Carnival is three days of amusement 
-              park rides, adventures in booths, unhealthy snacks, and buggy races. Join us 
-              <strong>April 16-18, 2020</strong> as we celebrate over 100 years of fun, laughter,
-              booth, buggy, and being a Tartan! </p>
+      <!-- Home image slideshow -->
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="slickslider">
+            <div><img class="border" src="img/home/slides/home1.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home2.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home3.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home4.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home5.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home6.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home7.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home8.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home9.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home10.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home11.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home12.jpg" /></div>
+            <div><img class="border" src="img/home/slides/home13.jpg" /></div>
           </div>
+          <span class="title">Carnegie Mellon's oldest tradition is a favorite of students, alumni, faculty, and
+            staff!</span>
         </div>
+      </div>
 
-        <br class="spacer" />
+      <br class="spacer" />
 
-        <!-- Home image slideshow -->
-        <div class="row">
-          <div class="large-11 large-centered columns">
-            <div class="slickslider">
-              <div><img class="border" src="img/home/slides/home1.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home2.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home3.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home4.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home5.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home6.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home7.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home8.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home9.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home10.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home11.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home12.jpg" /></div>
-              <div><img class="border" src="img/home/slides/home13.jpg" /></div>
-            </div>
-            <span class="title">Carnegie Mellon's oldest tradition is a favorite of students, alumni, faculty, and staff!</span>
-          </div>
-        </div>
-
-        <br class="spacer" />
-
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <p>Each year, Carnival is planned and executed by our own Spring 
-            Carnival Committee. We love what we do. Alumni Association provides 
-            us with access to our amazing alumni network and helps with scheduling, 
-            and the Activities Board puts on our big events, such as the concert and 
-            comedian. Buggy is held by Sweepstakes Committee. Carnival is the best 
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <p>Each year, Carnival is planned and executed by our own Spring
+            Carnival Committee. We love what we do. Alumni Association provides
+            us with access to our amazing alumni network and helps with scheduling,
+            and the Activities Board puts on our big events, such as the concert and
+            comedian. Buggy is held by Sweepstakes Committee. Carnival is the best
             time of the year for us. Come see what we’re talking about!</p>
-          </div>
         </div>
+      </div>
 
-        <br class="spacer" />
-        <br class="spacer" />
+      <br class="spacer" />
+      <br class="spacer" />
 
-        <div class="row">
-            <div class="large-10 large-centered columns">
-            <h1><center><b>Adventure Awaits</b></center></h1>
-            <center><img src="img/2020_logo.png" width="500" style=""/></center>
-            <p>Spring Carnival is inviting you on a wild adventure!
-                Grab your binoculars and don’t forget your spirit of exploration! 
-                Midway will become an immersive, adrenalizing quest, with dozens of 
-                storylines to partake in: climb the peaks of Everest, submarine the ocean 
-                floor, and traverse the jungle with Indiana Jones. Buggy will continue the 
-                exciting journey around the hill for their big 100th year. Mobot will evoke 
-                the thrills of competition. Explore all the exhilarating corners of our 
-                Spring Carnival 2020, reminiscence in classical adventure tales, and 
-                accomplish colossal feats set forth for you. Adventure Awaits! </p>
-            </div>
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Adventure Awaits</b></center>
+          </h1>
+          <center><img src="img/2020_logo.png" width="500" style="" /></center>
+          <p>Spring Carnival is inviting you on a wild adventure!
+            Grab your binoculars and don’t forget your spirit of exploration!
+            Midway will become an immersive, adrenalizing quest, with dozens of
+            storylines to partake in: climb the peaks of Everest, submarine the ocean
+            floor, and traverse the jungle with Indiana Jones. Buggy will continue the
+            exciting journey around the hill for their big 100th year. Mobot will evoke
+            the thrills of competition. Explore all the exhilarating corners of our
+            Spring Carnival 2020, reminiscence in classical adventure tales, and
+            accomplish colossal feats set forth for you. Adventure Awaits! </p>
         </div>
+      </div>
 
-        <!-- Philanthropy -->
-        <!-- <div class="row">
+      <!-- Philanthropy -->
+      <!-- <div class="row">
           <div class="medium-8 large-7 large-push-1 columns">
             <p>This year, Carnival has teamed up with Habitat for Humanity of Pittsburgh and OrderUp to raise money towards building homes for those in need. Sign up using the Spring Carnival <a href="https://orderup.com/go/carnival" target="_blank">sign up page</a> and OrderUp will take $10 off your first order and donate it to Habitat for Humanity!</p>
           </div>
@@ -131,25 +138,27 @@
           </div>
         </div> -->
 
-        <br class="largespacer" />
+      <br class="largespacer" />
 
-        <div class="row">
-          <div class="large-12 large-centered columns">
-            <p class="text-center plainfont">          
-              <a href="http://cmu.edu" target="_blank"><img src="img/home/cmulogo.png" width="400" alt="Carnegie Mellon University Logo" /></a>
-              <br />Carnegie Mellon’s Spring Carnival is funded in part by your student activities fee.
-              <br /><br /><br />
-            </p>
-          </div>
+      <div class="row">
+        <div class="large-12 large-centered columns">
+          <p class="text-center plainfont">
+            <a href="http://cmu.edu" target="_blank"><img src="img/home/cmulogo.png" width="400"
+                alt="Carnegie Mellon University Logo" /></a>
+            <br />Carnegie Mellon’s Spring Carnival is funded in part by your student activities fee.
+            <br /><br /><br />
+          </p>
         </div>
-      </article>
-      
-      <!--#include virtual="html/footer.html" -->
-    </div><!-- end all-->
-       
-    <!--#include virtual="html/script.html" -->
-    <script src="js/jquery.cookie.js"></script>
-    <script src="js/animation.js"></script>
-    <script>$("#nav-home").addClass("active");</script>
-  </body>
+      </div>
+    </article>
+
+    <!--#include virtual="html/footer.html" -->
+  </div><!-- end all-->
+
+  <!--#include virtual="html/script.html" -->
+  <script src="js/jquery.cookie.js"></script>
+  <script src="js/animation.js"></script>
+  <script>$("#nav-home").addClass("active");</script>
+</body>
+
 </html>

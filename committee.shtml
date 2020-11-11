@@ -65,11 +65,11 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/asad.JPG" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Asad Sheikh</h3>
-              <h4>Assistant Head to Chair</h4>
+              <h4>Assistant to Chair</h4>
               <p>Asad is a junior studying Statistics and Machine
                 Learning and Human-Computer Interaction. This is his
                 third year on Spring Carnival Committee. His favorite
@@ -88,7 +88,7 @@
             <div class="large-8 columns smalltype">
               <h3>Mel Kerber</h3>
               <h4>Head of Booth</h4>
-              <p>TODO</p>
+              <p></p>
             </div>
           </div>
 
@@ -97,7 +97,7 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/rebecca.jpg" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Rebecca Stevens</h3>
@@ -114,7 +114,7 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/matt.JPG" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Matt Rednor</h3>
@@ -133,12 +133,17 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/tianxin.jpg" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Tianxin Xu</h3>
               <h4>Assistant Head of Operations</h4>
-              <p>TODO</p>
+              <p>Tianxin is currently a junior studying Computer Science and
+                Robotics. This is her second year on Spring Carnival Committee
+                and first year as Assistant Head of Operations. Her favorite
+                thing about carnival is exploring the booths and enjoying the
+                break from classes and homework! She's excited to help plan
+                carnival for 2021!</p>
             </div>
           </div>
 
@@ -146,7 +151,7 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/perry.JPG" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Perry Naseck</h3>
@@ -163,7 +168,7 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/alice.JPG" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Alice Shaskina</h3>
@@ -180,7 +185,7 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nophoto.jpg" />
+              <img class="border" src="img/committee/angela.JPG" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Angela Yi</h3>
@@ -203,7 +208,7 @@
             <div class="large-8 columns smalltype">
               <h3>Aamer Rakla</h3>
               <h4>IT Director</h4>
-              <p>TODO</p>
+              <p></p>
             </div>
           </div>
 
