@@ -119,6 +119,21 @@
         </div>
       </div>
 
+      <br class="spacer" />
+      <br class="spacer" />
+
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Theme Reveal 2022</b></center>
+          </h1>
+          <br class="spacer" />
+          <center><img src="img/home/theme_reveal.jpg" width="500" style="" /></center>
+        </div>
+        <br class="spacer" />
+        <span class="title">SCC Exec Board at this year's theme reveal!</span>
+      </div>
+
       <!-- Philanthropy -->
       <!-- <div class="row">
           <div class="medium-8 large-7 large-push-1 columns">

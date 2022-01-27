@@ -1,62 +1,73 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
-    <title>Buggy - Carnegie Mellon Spring Carnival</title>
-    <!--#include virtual="html/head.html" -->
-  </head>
-  <body>
-    <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">      
-      <header class="row header buggy">
-        <!--#include virtual="html/header.html" -->
-      </header>
+<head>
+  <title>Buggy - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
 
-      <!--#include virtual="html/navigation.html" -->
-          
-      <article class="main">  
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <h1><center><b>Buggy</b></center></h1>
-            <br>
-            <p>Buggy, also known as Sweepstakes, is a competition where Greek and independent organizations race with their buggies, small, low, aerodynamic vehicles, powered only by gravity and human pushers. At its fastest, a buggy can reach speeds up to 35 miles per hour. And yes - there's a girl in there! For more about Buggy and the complete schedule, check out the <a href="http://cmubuggy.org" target="_blank">Buggy website</a>. </p>
-            <br>
-          </div>
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header buggy">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Buggy</b></center>
+          </h1>
+          <br>
+          <p>Buggy, also known as Sweepstakes, is a competition where Greek and independent organizations race with
+            their buggies, small, low, aerodynamic vehicles, powered only by gravity and human pushers. At its fastest,
+            a buggy can reach speeds up to 35 miles per hour. And yes - there's a person in there! For more about Buggy
+            and the complete schedule, check out the <a href="http://cmubuggy.org" target="_blank">Buggy website</a>.
+          </p>
+          <br>
         </div>
+      </div>
 
-        <!-- Buggy image slideshow (the slideshow isn't buggy...it's a slideshow of images from Buggy) -->
-        <div class="row">
-          <div class="large-11 large-centered columns">
-            <div class="slickslider">
-              <div><img class="border" src="img/buggy/slides/buggy1.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy2.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy3.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy4.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy5.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy6.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy7.jpg" /></div>
-              <div><img class="border" src="img/buggy/slides/buggy8.jpg" /></div>
-            </div>
-            <span class="title">Buggy Sweepstakes has been held on or behind campus every year since 1920!</span>
+      <!-- Buggy image slideshow (the slideshow isn't buggy...it's a slideshow of images from Buggy) -->
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="slickslider">
+            <div><img class="border" src="img/buggy/slides/buggy1.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy2.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy3.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy4.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy5.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy6.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy7.jpg" /></div>
+            <div><img class="border" src="img/buggy/slides/buggy8.jpg" /></div>
           </div>
+          <span class="title">Buggy Sweepstakes has been held on or behind campus every year since 1920!</span>
         </div>
+      </div>
 
-        <br class="spacer" />
+      <br class="spacer" />
 
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <p>You can catch the Sweepstakes Races on Friday and Saturday mornings, with Friday morning being the Preliminary Sweepstake Races from 8am to noon, the Exhibition Races at 8am on Saturday, and the Sweepstakes Final Races from 9am to noon on Saturday!</p>
-          </div>
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <p>You can catch the Sweepstakes Races on Friday and Saturday mornings, with Friday morning being the
+            Preliminary Sweepstake Races from 8am to noon, the Exhibition Races at 8am on Saturday, and the Sweepstakes
+            Final Races from 9am to noon on Saturday!</p>
         </div>
-          
-        <br class="largespacer" />
-      </article>
+      </div>
 
-      <!--#include virtual="html/footer.html" -->
-    </div><!-- end all-->
-           
-    <!--#include virtual="html/script.html" -->
-    <script>$("#nav-traditions").addClass("active");</script>
-    <script>$("#nav-buggy").addClass("active");</script>
-  </body>
+      <br class="largespacer" />
+    </article>
+
+    <!--#include virtual="html/footer.html" -->
+  </div><!-- end all-->
+
+  <!--#include virtual="html/script.html" -->
+  <script>$("#nav-traditions").addClass("active");</script>
+  <script>$("#nav-buggy").addClass("active");</script>
+</body>
+
 </html>

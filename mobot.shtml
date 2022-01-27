@@ -1,60 +1,71 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
-    <title>Mobot - Carnegie Mellon Spring Carnival</title>
-    <!--#include virtual="html/head.html" -->
-  </head>
-  <body>     
-    <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">      
-      <header class="row header mobot">
-        <!--#include virtual="html/header.html" -->
-      </header>
+<head>
+  <title>Mobot - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
 
-      <!--#include virtual="html/navigation.html" -->
-          
-      <article class="main">  
-        <div class="row">
-          <div class="large-10 large-centered columns">            
-            <h1><center><b>Mobot</b></center></h1>
-            <br>
-            <p>Mobot is Carnegie Mellon’s beloved abbreviation of mobile robots. This year will celebrate the 24th Annual Carnegie Mellon Mobot Races. Participants will race the "MObile roBOTs" they have built along a slalom-type course on the paved walk in front of Wean Hall. For a complete background, registration information, and a more detailed schedule, please visit the official <a href="http://www.cs.cmu.edu/mobot/index.html" target="_blank">Mobot website</a>.</p>
-            <br>
-          </div>
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header mobot">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Mobot</b></center>
+          </h1>
+          <br>
+          <p>Mobot is Carnegie Mellon’s beloved abbreviation of mobile robots. Participants will race the "MObile
+            roBOTs" they have built along a slalom-type
+            course on the paved walk in front of Wean Hall. For a complete background, registration information, and a
+            more detailed schedule, please visit the official <a href="http://www.cs.cmu.edu/mobot/index.html"
+              target="_blank">Mobot website</a>.</p>
+          <br>
         </div>
+      </div>
 
-        <!-- Mobot image slideshow -->
-        <div class="row">
-          <div class="large-11 large-centered columns">
-            <div class="slickslider">
-              <div><img class="border" src="img/mobot/slides/mobot1.jpg" /></div>
-              <div><img class="border" src="img/mobot/slides/mobot2.jpg" /></div>
-              <div><img class="border" src="img/mobot/slides/mobot3.jpg" /></div>
-              <div><img class="border" src="img/mobot/slides/mobot4.jpg" /></div>
-              <div><img class="border" src="img/mobot/slides/mobot5.jpg" /></div>
-              <div><img class="border" src="img/mobot/slides/mobot6.jpg" /></div>
-            </div>
-            <span class="title">10+ teams of Carnegie Mellon students compete for over $2000 in prizes!</span>
+      <!-- Mobot image slideshow -->
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="slickslider">
+            <div><img class="border" src="img/mobot/slides/mobot1.jpg" /></div>
+            <div><img class="border" src="img/mobot/slides/mobot2.jpg" /></div>
+            <div><img class="border" src="img/mobot/slides/mobot3.jpg" /></div>
+            <div><img class="border" src="img/mobot/slides/mobot4.jpg" /></div>
+            <div><img class="border" src="img/mobot/slides/mobot5.jpg" /></div>
+            <div><img class="border" src="img/mobot/slides/mobot6.jpg" /></div>
           </div>
+          <span class="title">10+ teams of Carnegie Mellon students compete for over $2000 in prizes!</span>
         </div>
+      </div>
 
-        <br class="spacer" />
+      <br class="spacer" />
 
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <p>The Mobot races will take place Friday at noon on the walkway course in front of Wean Hall with the award ceremony following at 3pm in Rashid Auditorium. Join us for an afternoon event of technological excitement and see what our students create!</p>
-          </div>
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <p>The Mobot races will take place Friday at noon on the walkway course in front of Wean Hall with the award
+            ceremony following at 3pm in Rashid Auditorium. Join us for an afternoon event of technological excitement
+            and see what our students create!</p>
         </div>
+      </div>
 
-        <br class="largespacer" />
-      </article>
+      <br class="largespacer" />
+    </article>
 
-      <!--#include virtual="html/footer.html" -->
-    </div><!-- end all-->
-           
-    <!--#include virtual="html/script.html" -->
-    <script>$("#nav-traditions").addClass("active");</script>
-    <script>$("#nav-mobot").addClass("active");</script>
-  </body>
+    <!--#include virtual="html/footer.html" -->
+  </div><!-- end all-->
+
+  <!--#include virtual="html/script.html" -->
+  <script>$("#nav-traditions").addClass("active");</script>
+  <script>$("#nav-mobot").addClass("active");</script>
+</body>
+
 </html>
