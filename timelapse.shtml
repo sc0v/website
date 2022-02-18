@@ -1,53 +1,67 @@
 <!doctype html>
 <html class="no-js" lang="en">
-  <head>
-    <title>Timelapse - Carnegie Mellon Spring Carnival</title>
-    <!--#include virtual="html/head.html" -->
-  </head>
-  <body>
-    <!--#include virtual="html/google-tag-manager.html" -->
 
-    <div id="all">      
-      <header class="row header webcam">
-        <!--#include virtual="html/header.html" -->
-      </header>
+<head>
+  <title>Timelapse - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
 
-      <!--#include virtual="html/navigation.html" -->
-        
-      <article class="main">  
-        <div class="row">
-          <div class="large-10 large-centered columns">
-              <p>Check out the timelapse of Carnival 2018 build week! These booths are built from the ground up, and now you can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that shows the process from start to finish! </p>
-          </div>
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header webcam">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <p>Check out the timelapses of Carnival 2019 and Carnival 2018 build week! These booths are built from the ground up, and now you
+            can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that
+            shows the process from start to finish! </p>
         </div>
+      </div>
 
-        <br/>
+      <br />
 
-        <div class="row">
-          <div class="large-11 large-centered columns">
-            <div class="flex-video widescreen" style="padding-top: 0">
-              <iframe src="https://www.youtube.com/embed/9pqo88FFssU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>
-            <br />
-            <span class="title">A timelapse of Midway from Carnival 2018</span>
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="flex-video widescreen" style="padding-top: 0">
+            <iframe src="https://www.youtube.com/embed/a63hOvw5d6Q?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
+              allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
+          <br />
+          <span class="title">A timelapse of Midway from Carnival 2019</span>
         </div>
+      </div>
 
-        <br class="spacer" />
+      <br class="spacer" />
 
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <p>Stay tuned for the 2019 webcam! This will be a livestream of the building process. You will be able to check back on booth progress as it all comes together, exactly when it's happening.</p>
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="flex-video widescreen" style="padding-top: 0">
+            <iframe src="https://www.youtube.com/embed/9pqo88FFssU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
+              allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
+          <br />
+          <span class="title">A timelapse of Midway from Carnival 2018</span>
         </div>
+      </div>
 
-        <br class="largespacer" />
-      </article>
+      <br class="spacer" />
 
-      <!--#include virtual="html/footer.html" -->
-    </div><!-- end all-->
-       
-    <!--#include virtual="html/script.html" -->
-    <script>$("#nav-timelapse").addClass("active");</script>
-  </body>
+
+      <br class="largespacer" />
+    </article>
+
+    <!--#include virtual="html/footer.html" -->
+  </div><!-- end all-->
+
+  <!--#include virtual="html/script.html" -->
+  <script>$("#nav-timelapse").addClass("active");</script>
+</body>
+
 </html>
