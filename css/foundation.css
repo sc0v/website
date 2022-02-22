@@ -3581,7 +3581,8 @@ a {
   a:hover, a:focus {
     color: #0078a0; }
   a img {
-    border: none; }
+    border: none;
+    cursor: url(../img/rocket_cursor64.png), help; }
 
 /* Default paragraph styles */
 p {
