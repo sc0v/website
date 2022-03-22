@@ -11,11 +11,12 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* Global Styles */
 body {
     -webkit-font-smoothing: antialiased;
-    /* cursor: url(../img/rocket_cursor128.png), help; */
-    cursor: url(../img/rocket_cursor55.png), help;
+    cursor: url(../img/rocket_cursor55.png), auto;
 }
 
-
+.cursor {
+    cursor: url(../img/rocket_cursor55.png), help;
+}
 
 img.border {
     border: 5px solid #fff;
