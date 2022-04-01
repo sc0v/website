@@ -16,6 +16,30 @@
 
     <!--#include virtual="html/navigation.html" -->
 
+
+    <br />
+
+    <article class="main">
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <p>Watch the 2022 midway cam and see booths being built in real-time. Timelapse will be posted after the completion of Carnival. </p>
+        </div>
+      </div>
+
+
+      <br />
+
+      <div class="row">
+        <div class="large-11 large-centered columns">
+          <div class="flex-video widescreen" style="padding-top: 0">
+            <iframe src="https://www.youtube.com/embed/Mf1OHniN-oE?autoplay=1&controls=0&showinfo=0&rel=0" frameborder="0"
+              allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+          <br />
+          <span class="title">2022 Midway Cam</span>
+        </div>
+      </div>
+
     <article class="main">
       <div class="row">
         <div class="large-10 large-centered columns">
@@ -30,7 +54,7 @@
       <div class="row">
         <div class="large-11 large-centered columns">
           <div class="flex-video widescreen" style="padding-top: 0">
-            <iframe src="https://www.youtube.com/embed/a63hOvw5d6Q?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
+            <iframe src="https://www.youtube.com/embed/a63hOvw5d6Q?rel=0&controls=0&showinfo=0" frameborder="0"
               allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
           <br />
@@ -43,7 +67,7 @@
       <div class="row">
         <div class="large-11 large-centered columns">
           <div class="flex-video widescreen" style="padding-top: 0">
-            <iframe src="https://www.youtube.com/embed/9pqo88FFssU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"
+            <iframe src="https://www.youtube.com/embed/9pqo88FFssU?rel=0&controls=0&showinfo=0" frameborder="0"
               allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
           <br />
