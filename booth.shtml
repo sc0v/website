@@ -73,10 +73,10 @@
             <b>Delta Gamma:</b> Rick & Morty<br />
             <br />
           </p>
-          <p><span class="title-left">Pictured right: Delta Delta Delta's doghouse from 2021 Carnival.</span></p>
+          <p><span class="title-left">Pictured right: Kappa Alpha Theta's booth from 2019 Carnival.</span></p>
         </div>
         <div class="large-5 pull-1 columns">
-          <img class="border" src="img/booth/tridelt_doghouse.jpeg" alt="Tridelt doghouse 2021" />
+          <img class="border" src="img/booth/kapalptheta_booth.jpeg" alt="Kappa Alpha Theta booth 2019" />
         </div>
       </div>
 
@@ -85,7 +85,7 @@
       <!-- Fraternity themes for the year -->
       <div class="row">
         <div class="large-5 push-1 columns">
-          <img class="border" src="img/booth/kappa_doghouse.jpeg" alt="Kappa Kappa Gamma booth 2019" />
+          <img class="border" src="img/booth/deltataudelta_booth.jpeg" alt="Delta Tau Delta booth 2019" />
         </div>
         <div class="large-5 pull-1 columns smalltype">
           <h3>Fraternity</h3>
@@ -97,7 +97,7 @@
             <b>Kappa Sigma:</b> Star Wars<br />
             <br />
           </p>
-          <p><span class="title-left">Pictured left: Kappa Kappa Gamma's doghouse from 2021 Carnival.</span></p>
+          <p><span class="title-left">Pictured left: Delta Tau Delta booth from 2019 Carnival.</span></p>
         </div>
       </div>
 
@@ -119,10 +119,32 @@
             <b>Asian Students Association:</b> Despicable Me<br />
             <br />
           </p>
-          <p><span class="title-left">Pictured right: Asian Students Association's doghouse from 2021 Carnival.</span></p>
+          <p><span class="title-left">Pictured right: Taiwanese Students Association's booth from 2019 Carnival.</span></p>
         </div>
         <div class="large-5 pull-1 columns">
-          <img class="border" src="img/booth/asa_doghouse.jpeg" alt="ASA doghouse 2021" />
+          <img class="border" src="img/booth/tsa_booth.jpeg" alt="TSA booth 2019" />
+        </div>
+      </div>
+
+      <br class="spacer" />
+
+      <!-- doghouses for the year -->
+      <div class="row">
+        <div class="large-5 push-1 columns">
+          <img class="border" src="img/booth/asa_doghouse.jpeg" alt="ASA doghouse 2019" />
+        </div>
+        <div class="large-5 pull-1 columns smalltype">
+          <h3>Doghouses</h3>
+          <p>
+            <b>Awareness of Roots in Chinese Cultue:</b> Chang’e and the Jade Rabbit<br />
+            <b>Donner:</b> From the Sea to the Stars<br />
+            <b>5th Ave:</b> Little Einsteins<br />
+            <b>Habitat for Humanity:</b> Starry Night<br />
+            <b>LGSA:</b> Bodega on the Moon<br />
+            <b>Senate:</b> GuardDOGS of the Galaxy<br />
+            <br />
+          </p>
+          <p><span class="title-left">Pictured left: Asian Student Association doghouse from 2019 Carnival.</span></p>
         </div>
       </div>
 
