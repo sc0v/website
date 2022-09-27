@@ -12,7 +12,7 @@
   <!-- Animation on page load-->
   <div id="animation">
     <div class="logo">
-      <a href="/"><img src="img/logo_white.png" width="850" alt="Carnegie Mellon Spring Carnival 2019" /></a>
+      <a href="/"><img src="img/logo_white.png" width="850" alt="Carnegie Mellon Spring Carnival logo" /></a>
     </div>
     <div class="panel" id="panel1"></div>
     <div class="panel" id="panel2"></div>
@@ -54,8 +54,8 @@
           </h1>
           <br>
           <p>Carnegie Mellon's Spring Carnival is three days of amusement
-            park rides, adventures in booths, unhealthy snacks, and buggy races. Join us
-            <strong>April 7-9, 2022</strong> as we celebrate over 100 years of fun, laughter,
+            park rides, adventures in booths, unhealthy snacks, and buggy races. </p>
+            <p>Join us on <strong>April 13-16, 2023</strong> as we celebrate over 100 years of fun, laughter,
             booth, buggy, and being a Tartan! </p>
         </div>
       </div>
@@ -103,6 +103,11 @@
 
       <div class="row">
         <div class="large-10 large-centered columns">
+          <br/>
+          <p>Spring Carnival 2023 theme reveal will be happening on <strong>October 15, 2022</strong>. </p>
+          <br/><br/>
+          <p>Spring Carnival 2022 theme:</p>
+          <br/>
           <h1>
             <center><b>Ad Astra</b></center>
           </h1>
@@ -131,7 +136,7 @@
           <center><img src="img/home/theme_reveal.jpg" width="500" style="" /></center>
         </div>
         <br class="spacer" />
-        <span class="title">SCC Exec Board at this year's theme reveal!</span>
+        <span class="title">SCC Exec Board at 2022 theme reveal!</span>
       </div>
 
       <!-- Philanthropy -->

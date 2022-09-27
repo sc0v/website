@@ -3582,7 +3582,8 @@ a {
     color: #0078a0; }
   a img {
     border: none;
-    cursor: url(../img/rocket_cursor64.png), help; }
+    /*cursor: url(../img/rocket_cursor64.png), help; */
+    cursor: default;}
 
 /* Default paragraph styles */
 p {
