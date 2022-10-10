@@ -46,13 +46,12 @@
         <div class="large-9 large-centered columns">
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nopic.jpeg" />
+              <img class="border" src="img/committee/EuniceOh.jpeg" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Eunice Oh</h3>
               <h4>Co-Chair</h4>
-              <p>Eunice is a graduate student studying International Relations &
-                Politics.
+              <p>Eunice is a second year graduate student majoring in International Relations and Politics. She looks forward to seeing booth construction from the start to end and driving the golf cars wearing her blue hard hat.
               </p>
             </div>
           </div>
@@ -61,12 +60,12 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nopic.jpeg" />
+              <img class="border" src="img/committee/AngelicaGonzalez.jpeg" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Angelica Gonzalez</h3>
               <h4>Co-Chair</h4>
-              <p>Angelica is a sophomore studying Business Administration.
+              <p>Angelica is a second year undergraduate student majoring in Business Administration. She enjoys the chaotic nature of build week and looks forward to bonding with her peers over stress. This year she's excited about Spring Carnival merch! 
               </p>
             </div>
           </div>
@@ -75,12 +74,12 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nopic.jpeg" />
+              <img class="border" src="img/committee/AnnMulgrew.png" />
             </div>
             <div class="large-8 columns smalltype">
               <h3>Ann Mulgrew</h3>
               <h4>Co-Head of Booth</h4>
-              <p>Ann is a fourth year studying Architecture.
+              <p>Ann is a fourth-year majoring in architecture with minors in business and HCI. Her favorite thing about Spring Carnival is Farnam's t-shirt gun (yay free merch!). She is looking forward to more free merch and pretty booths :)
               </p>
             </div>
           </div>
@@ -94,7 +93,7 @@
             <div class="large-8 columns smalltype">
               <h3>Jeffrey Li</h3>
               <h4>Co-Head of Booth</h4>
-              <p>Jeffrey is a third year studying Architecture.
+              <p>Jeffrey is a third-year architecture major, also pursuing a minor in HCI. His favorite thing about Carnival is getting to yell at the orgs from the top of the scissor lift. He is looking forward to great booths again this year. 
               </p>
             </div>
           </div>
@@ -108,8 +107,7 @@
             <div class="large-8 columns smalltype">
               <h3>Alex Strasser</h3>
               <h4>Head of Electrical</h4>
-              <p>Alex is a senior studying Electrical & Computer Engineering and 
-                Robotics.
+              <p>Alex is a senior studying ECE and Robotics. He loves inspecting and working with booth and buggy organizations during carnival. He is most looking forward to carnival move on this year!
               </p>
             </div>
           </div>
@@ -123,7 +121,7 @@
             <div class="large-8 columns smalltype">
               <h3>Iris Dong</h3>
               <h4>Co-Assistant Head of Electrical</h4>
-              <p>Iris is a senior studying Electrical & Computer Engineering.
+              <p>Iris is a senior studying ECE. She enjoys interacting with everyone during build week and carnival and inspecting the booths. She is looking forward to having a blast during carnival!  
               </p>
             </div>
           </div>
@@ -137,7 +135,7 @@
             <div class="large-8 columns smalltype">
               <h3>Ken Huang </h3>
               <h4>Co-Assistant Head of Electrical</h4>
-              <p>Ken is a junior studying Civil Engineering.
+              <p>Ken is a junior studying Civil Engineering. His favorite part about Spring Carnival is doing electrical checks, ideally when it's not raining. He is looking forward to walking through all the booths this year.
               </p>
             </div>
           </div>
@@ -151,7 +149,7 @@
             <div class="large-8 columns smalltype">
               <h3>Marian Qian</h3>
               <h4>Co-Head of Entertainment</h4>
-              <p>Marian is a sophomore studying Artificial Intelligence.
+              <p>Marian is a sophomore studying artificial intelligence. Her favorite part about Carnival was the chaos of move-on and of unexpected rain-calls. She looks forward to having a great time with the committee this year! 
               </p>
             </div>
           </div>
@@ -177,10 +175,37 @@
               <img class="border" src="img/committee/nopic.jpeg" />
             </div>
             <div class="large-8 columns smalltype">
-              <h3>Avineet Nanjappa</h3>
-              <h4>Head of Finance</h4>
-              <p>Avineet is a sophomore studying Chemical Engineering and 
-                Engineering & Public Policy.
+              <h3>Meera Ganesan</h3>
+              <h4>Co-Head of Operations</h4>
+              <p>Meera is a senior studying Computer Science. Her favorite part of Spring Carnival is the liveliness on campus. She is looking forward to meeting new people and having fun throughout the carnival!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/TracyWan.jpeg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Tracy Wan</h3>
+              <h4>Co-Head of Operations</h4>
+              <p>Tracy is a sophomore studying MSE and BME. Her favorite part of Spring Carnival is driving around in golf carts and dodging cars. She is looking forward to late night shifts and fried Oreos!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/AshleyKim.jpeg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Ashley Kim</h3>
+              <h4>Head of UI/UX</h4>
+              <p>Ashley is a senior studying Computer Science and Art (BCSA) with an additional in Human-Computer Interaction. She is looking forward to meeting new people and having fun throughout the build week & carnival!
               </p>
             </div>
           </div>
@@ -194,8 +219,7 @@
             <div class="large-8 columns smalltype">
               <h3>Timmy Cheung</h3>
               <h4>Head of Marketing & Outreach</h4>
-              <p>Timmy is a sophomore studying Business Administration and 
-                Decision Science.
+              <p>Timmy is a sophomore majoring in business administration with a concentration in marketing management. He also has an additional major in decision science. His favorite part of Spring Carnival is getting to see and experience all the booths organizations create. This year, Timmy is looking forward to making another great carnival and getting the community involved. 
               </p>
             </div>
           </div>
@@ -207,39 +231,9 @@
               <img class="border" src="img/committee/nopic.jpeg" />
             </div>
             <div class="large-8 columns smalltype">
-              <h3>Meera Ganesan</h3>
-              <h4>Co-Head of Operations</h4>
-              <p>Meera is a senior studying Computer Science.
-              </p>
-            </div>
-          </div>
-
-          <br class="spacer" />
-
-          <div class="row person">
-            <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nopic.jpeg" />
-            </div>
-            <div class="large-8 columns smalltype">
-              <h3>Tracy Wan</h3>
-              <h4>Co-Head of Operations</h4>
-              <p>Tracy is a sophomore studying Materials Science & Engineering and 
-                Biomedical Engineering.
-              </p>
-            </div>
-          </div>
-
-          <br class="spacer" />
-
-          <div class="row person">
-            <div class="large-4 columns smalltype">
-              <img class="border" src="img/committee/nopic.jpeg" />
-            </div>
-            <div class="large-8 columns smalltype">
-              <h3>Ashley Kim</h3>
-              <h4>Head of UI/UX</h4>
-              <p>Ashley is a senior studying Computer Science and Art (BCSA) with
-                an additional major in Human-Computer Interaction.
+              <h3>Avineet Nanjappa</h3>
+              <h4>Head of Finance</h4>
+              <p>Avineet is a sophomore studying ChemE + EPP. Her favorite thing about carnival is the food and fun memories :) This is her second year on Spring Carnival Committee, and she's looking forward to having another great carnival this spring. 
               </p>
             </div>
           </div>
