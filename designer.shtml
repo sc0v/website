@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <title>Theme Designer - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
+
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header home">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+        <div class="row">
+          <h1>
+            <center><b>Theme Logo Designer</b></center>
+          </h1>
+          <br/>
+          <div class="large-10 large-centered columns">
+            <p>Each fall, Spring Carnival Committee selects a new theme for the 
+                following Spring Carnival. The logo is then designed
+                by one of the CMU students. Meet our logo designer for Spring Carnival
+                2023 theme <strong>Scotty in Wonderland</strong>!
+            </p>
+          </div>
+
+          <br class="spacer" />
+
+            <div class="large-9 large-centered columns">
+            <div class="row person">
+                <br class="spacer" />
+                <br class="spacer" />
+                <div class="large-4 columns smalltype">
+                    <img class="border" src="img/committee/ProudTaranat.jpeg" />
+                </div>
+                <div class="large-8 columns smalltype">
+                    <h3>Proud Taranat</h3>
+                    <br/>
+                    <p>Proud is a senior majoring in  Communication design and Human-Computer interaction. Her hobbies include knitting, playing video games, and getting eight hours of sleep every night. She was given the opportunity to design the spring carnival logo this year, and she is very excited to be a part of CMU's coolest tradition! 
+                    </p>
+                </div>
+            </div>
+            <br class="spacer" /><br/><br/>
+            </div> 
+        </div>
+    </article>
+<!--#include virtual="html/footer.html" -->
+</div>
+
+<!--#include virtual="html/script.html" -->
+<script src="js/jquery.cookie.js"></script>
+<script src="js/animation.js"></script>
+<script>$("#nav-home").addClass("active");</script>
+</body>
+
+</html>

@@ -1,0 +1,142 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <title>Past Themes - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
+
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header home">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+      <div class="row">
+        <div class="large-10 large-centered columns">
+          <h1>
+            <center><b>Past Themes</b></center>
+          </h1>
+
+          <!-- 2022 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2022 - Ad Astra</b>
+              </h2>
+              <br/>
+              <center><img src="img/2022_logo.png" width="500" style="" /></center>
+              <br/>
+              <p>Spring Carnival 2022 is headed to the stars with our theme, Ad Astra! 
+              Don’t forget your spirit of exploration and discovery because we are 
+              inviting YOU to journey with us beyond galaxies! Midway will be 
+              transformed into an out of this world experience for visitors to 
+              embark on, Buggy will blast off through the hills, and for Mobot, 
+              well, the competitive venture is just getting started. Explore the 
+              boundaries of space, marvel at awe-inspiring celestial wonders, 
+              and accomplish colossal feats set forth for you at Spring Carnival 2022! 
+              </p>
+            </div>
+          </div>
+
+          <!-- 2020 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2020 - Adventure Awaits</b>
+              </h2>
+              <center><img src="img/2020_logo.png" width="500" style="" /></center>
+              <p>Spring Carnival 2020 is inviting you on a wild adventure!
+                Grab your binoculars and don't forget your spirit of exploration! 
+                Midway will become an immersive, adrenalizing quest, with dozens of 
+                storylines to partake in: climb the peaks of Everest, submarine the ocean 
+                floor, and traverse the jungle with Indiana Jones. Buggy will continue the 
+                exciting journey around the hill for their big 100th year. Mobot will evoke 
+                the thrills of competition. Explore all the exhilarating corners of our 
+                Spring Carnival 2020, reminiscence in classical adventure tales, and 
+                accomplish colossal feats set forth for you. Adventure Awaits! </p>
+            </div>
+            </div>
+          </div>
+
+          <!-- 2019 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2019 - Planet Earth</b>
+              </h2>
+              <br/><br/>
+              <center><img src="img/2019_logo.jpeg" width="500" style="border-radius: 100%;" /></center>
+            </div>
+          </div>
+
+          <!-- 2018 theme -->
+          <br/><br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2018 - Myth & Legends</b>
+              </h2>
+              <br/><br/>
+              <center><img src="img/2018_logo.png" width="500" style="" /></center>
+            </div>
+          </div>
+
+          <!-- 2017 theme -->
+          <br/><br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2017 - Timehop</b>
+              </h2>
+              <br/><br/>
+              <center><img src="img/2017_logo.png" width="500" style="" /></center>
+            </div>
+          </div>
+
+          <!-- 2016 theme -->
+          <br/><br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2016 - Game Night</b>
+              </h2>
+              <br/><br/>
+              <center><img src="img/2018_logo.png" width="500" style="" /></center>
+            </div>
+          </div>
+
+          <!-- 2015 theme -->
+          <br/><br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2015 - Living Library</b>
+              </h2>
+              <br/><br/>
+              <center><img src="img/2015_logo.png" width="500" style="" /></center>
+            </div>
+          </div>
+
+          <br/><br/><br/>
+        </div>
+      </div>
+    </article>
+<!--#include virtual="html/footer.html" -->
+</div>
+
+<!--#include virtual="html/script.html" -->
+<script src="js/jquery.cookie.js"></script>
+<script src="js/animation.js"></script>
+<script>$("#nav-home").addClass("active");</script>
+</body>
+
+</html>
