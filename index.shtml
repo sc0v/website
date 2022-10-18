@@ -100,44 +100,39 @@
 
       <br class="spacer" />
       <br class="spacer" />
+      <br/>
 
       <div class="row">
         <div class="large-10 large-centered columns">
-          <br/>
-          <p>Spring Carnival 2023 theme reveal will be happening on <strong>October 15, 2022</strong>. </p>
-          <br/><br/>
-          <p>Spring Carnival 2022 theme:</p>
-          <br/>
           <h1>
-            <center><b>Ad Astra</b></center>
+            <center><b>Scotty in Wonderland</b></center>
           </h1>
-          <center><img src="img/2022_logo.png" width="500" style="" /></center>
-          <p>Spring Carnival 2022 is headed to the stars with our theme, Ad Astra! 
-          Don’t forget your spirit of exploration and discovery because we are 
-          inviting YOU to journey with us beyond galaxies! Midway will be 
-          transformed into an out of this world experience for visitors to 
-          embark on, Buggy will blast off through the hills, and for Mobot, 
-          well, the competitive venture is just getting started. Explore the 
-          boundaries of space, marvel at awe-inspiring celestial wonders, 
-          and accomplish colossal feats set forth for you at Spring Carnival 2022! 
+          <br class="spacer" />
+          <br class="spacer" />
+          <center><img src="img/2023_logo.png" width="500" style="" /></center>
+          <br class="spacer" />
+          <br class="spacer" />
+          <p>Spring Carnival 2023 will be full of magical sceneries with our theme, 
+            Scotty in Wonderland! 
           </p>
         </div>
       </div>
 
       <br class="spacer" />
       <br class="spacer" />
-
+      <br/>
+<!-- 
       <div class="row">
         <div class="large-10 large-centered columns">
           <h1>
-            <center><b>Theme Reveal 2022</b></center>
+            <center><b>Theme Reveal 2023</b></center>
           </h1>
           <br class="spacer" />
           <center><img src="img/home/theme_reveal.jpg" width="500" style="" /></center>
         </div>
         <br class="spacer" />
-        <span class="title">SCC Exec Board at 2022 theme reveal!</span>
-      </div>
+        <span class="title">SCC Exec Board at 2023 theme reveal!</span>
+      </div> -->
 
       <!-- Philanthropy -->
       <!-- <div class="row">
