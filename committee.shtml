@@ -102,6 +102,76 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/NehaChopra.png" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Neha Chopra</h3>
+              <h4>Director of Fraternity</h4>
+              <p>Neha is a third-year B.Arch student, pursuing a minor in Architectural Design Fabrication. She's excited to take part in the Spring Carnival again after participating in the construction of the NOMAS Pavillion last year, and to work with all the orgs to make booths cooler than ever before.
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/JackieYu.jpeg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Jackie Yu</h3>
+              <h4>Director of Sorority</h4>
+              <p>Jackie is a third-year B.Arch student, pursuing a minor in Design. She is buzzed to just meet everyone across schools, orgs, and communities! She looks forward to seeing the reactions during booth 👀.
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/SydneySun.jpeg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Sydney Sun</h3>
+              <h4>Director of Independent</h4>
+              <p>Sydney is a fourth-year architecture major with a minor in Environmental and Sustainability Studies. She had a lot of fun contributing to the carnival entrance pavilion build last year and bonding with everyone during build week. She is excited to be more involved and help the booths come together. 
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/nopic.jpeg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Gloria Lee</h3>
+              <h4>Director of Blitz/Doghouse</h4>
+              <p>Gloria is a third-year architecture major.
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/PatrickZheng.png" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Patrick Zheng</h3>
+              <h4>Director of Blitz/Doghouse</h4>
+              <p>Patrick is a sophomore architecture major. His favorite memory from Spring Carnival last year was walking inside the booths for the first time after watching them come together over build week, and he is looking forward to meeting new people from Carnival this year.
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
               <img class="border" src="img/committee/AlexanderStrasser.jpg" />
             </div>
             <div class="large-8 columns smalltype">
@@ -163,7 +233,7 @@
             <div class="large-8 columns smalltype">
               <h3>Divya Aggarwal</h3>
               <h4>Co-Head of Entertainment</h4>
-              <p>Divya is a senior studying Electrical & Computer Engineering.
+              <p>Divya is a senior studying Electrical & Computer Engineering. She enjoys planning fun events during carnival weekend and can't wait to see y'all around campus at the events! 🤩
               </p>
             </div>
           </div>
