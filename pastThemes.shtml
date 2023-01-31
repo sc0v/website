@@ -136,7 +136,8 @@
 <!--#include virtual="html/script.html" -->
 <script src="js/jquery.cookie.js"></script>
 <script src="js/animation.js"></script>
-<script>$("#nav-home").addClass("active");</script>
+<script>$("#nav-theme").addClass("active");</script>
+<script>$("#nav-past-themes").addClass("active");</script>
 </body>
 
 </html>
