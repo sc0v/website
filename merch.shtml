@@ -1,63 +1,78 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="en">
+  <head>
+    <title>Merchandise - Carnegie Mellon Spring Carnival</title>
+    <!--#include virtual="html/head.html" -->
+  </head>
 
-<head>
-  <title>Merchandise - Carnegie Mellon Spring Carnival</title>
-  <!--#include virtual="html/head.html" -->
-</head>
+  <body>
+    <!--#include virtual="html/google-tag-manager.html" -->
 
-<body>
-  <!--#include virtual="html/google-tag-manager.html" -->
+    <div id="all">
+      <header class="row header home">
+        <!--#include virtual="html/header.html" -->
+      </header>
 
-  <div id="all">
-    <header class="row header home">
-      <!--#include virtual="html/header.html" -->
-    </header>
+      <!--#include virtual="html/navigation.html" -->
 
-    <!--#include virtual="html/navigation.html" -->
-
-    <article class="main">
+      <article class="main">
         <div class="row">
           <h1>
             <center><b>Merchandise Order</b></center>
           </h1>
-          <br/>
+          <br />
           <div class="large-10 large-centered columns">
-            <p>
-                Spring Carnival will be selling 2023 Scotty in Wonderland themed merch! Check out our merch below and fill out the form if you'd like to place an order. All merch will be ready to be picked up during Spring Carnival (April 13-16)!
-            </p>
+            <center>
+              <p>
+                Spring Carnival will be selling 2023 Scotty in Wonderland themed
+                merch! Check out our merch and fill out the form below if you'd
+                like to place an order. All merch will be ready to be picked up
+                during Spring Carnival (April 13-16)!
+              </p>
+            </center>
           </div>
           <br class="spacer" />
-          <br/>
+          <br />
 
-            <div class="large-9 large-centered columns">
-                <img class="border" src="img/2023merch.png" />
-            </div>
-            <br class="spacer" />
-            <center>
-            <p> Print Type: Screen Printing</p>
-            <p> Dimensions: 10.00" W x 10.00" H - 2.00" from collar</p>
-            </center>
-            <br class="spacer" />
+          <div class="large-9 large-centered columns">
+            <img class="border" src="img/2023merch.png" />
+          </div>
+          <br class="spacer" />
+          <center>
+            <p>Print Type: Screen Printing</p>
+            <p>Dimensions: 10.00" W x 10.00" H - 2.00" from collar</p>
+          </center>
+          <br class="spacer" />
 
-            <div class="large-9 large-centered columns">
-                <img class="border" src="img/2023merchlogo.png" />
-            </div>
-            <br class="spacer" />
-            <br/>
-            <center><h2>Order Form Coming Soon!</h2></center>
-          <br/>
-          <br/>
-          <br/>
+          <div class="large-9 large-centered columns">
+            <img class="border" src="img/2023merchlogo.png" />
+          </div>
+          <br class="spacer" />
+          <br />
+          <br />
+          <br />
+          <iframe
+            src="https://docs.google.com/forms/d/e/1FAIpQLSc3HUsjYPsDbB_gc-emOVBOH10lMMROaEy1PKoCCYgfrSM0mw/viewform?embedded=true"
+            width="100%"
+            height="3350"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+            >Loading Form …</iframe
+          >
+          <br />
+          <br />
+          <br />
         </div>
-
-    </article>
-    <!--#include virtual="html/footer.html" -->
+      </article>
+      <!--#include virtual="html/footer.html" -->
     </div>
-    
+
     <!--#include virtual="html/script.html" -->
     <script src="js/jquery.cookie.js"></script>
     <script src="js/animation.js"></script>
-    <script>$("#nav-merch").addClass("active");</script>
-    </body>
+    <script>
+      $("#nav-merch").addClass("active");
+    </script>
+  </body>
 </html>
