@@ -107,7 +107,8 @@ span.title, p, span {
     color: #fff !important;
 }
 body {
-    background: url('../img/background.png') repeat #4682a2;   
+    /* background: url('../img/background.png') repeat #4682a2;    */
+    background: url('../img/background_black.png') repeat #777777;   
 }
 .slick-prev:before, .slick-next:before {
     color: #fff !important;
@@ -289,8 +290,6 @@ header.header.committee {
     background-position: center;
 }
 
-
-
 header.header .logo {
     /*margin: 5px auto;*/
     text-align: center;
@@ -313,7 +312,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
 /* Nav Bar */
 
 .navcontainer {
-    background: #006688;
+    /* background: #006688; */
+    background: #444444;
 }
 
 .top-bar:not(.expanded) section ul li.root {
@@ -327,7 +327,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 
 nav.top-bar, nav.top-bar section.top-bar-section ul li a{
-    background: #006688 !important;
+    /* background: #006688 !important; */
+    background: #444444 !important;
     font-size: 1em;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -335,7 +336,8 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
 }
 
 nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {
-    background: #006688;
+    /* background: #006688; */
+    background: #444444;
     font-weight: bold !important;
 
 }
