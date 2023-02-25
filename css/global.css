@@ -11,13 +11,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* Global Styles */
 body {
     -webkit-font-smoothing: antialiased;
-    /*cursor: url(../img/rocket_cursor55.png), auto;*/
-    cursor: default;
+    cursor: url(../img/cursor.png), auto;
+    /* cursor: default; */
 }
 
 .cursor {
-    /*cursor: url(../img/rocket_cursor55.png), help;*/
-    cursor: default;
+    cursor: url(../img/cursor.png), auto;
+    /* cursor: default; */
 }
 
 img.border {
@@ -332,7 +332,7 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
     font-size: 1em;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    /* cursor: url(../img/rocket_cursor64.png), help; */
+    cursor: url(../img/cursor.png), auto;
 }
 
 nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {
