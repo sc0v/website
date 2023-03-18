@@ -78,10 +78,12 @@ br.largespacer {
 
 a {
     color: #930000;
+    cursor: url(../img/cursor2.png), auto;
 }
 
 a:hover {
     color: #c72a2a;
+    cursor: url(../img/cursor2.png), auto;
 }
 
 .slick-prev:before, .slick-next:before {
@@ -332,7 +334,7 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
     font-size: 1em;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    cursor: url(../img/cursor.png), auto;
+    cursor: url(../img/cursor1.png), auto;
 }
 
 nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {

@@ -3575,6 +3575,7 @@ td {
 
 /* Default Link Styles */
 a {
+  cursor: url(../img/cursor2.png), auto;
   color: #008CBA;
   text-decoration: none;
   line-height: inherit; }
@@ -3582,7 +3583,7 @@ a {
     color: #0078a0; }
   a img {
     border: none;
-    cursor: url(../img/cursor.png), auto;
+    cursor: url(../img/cursor2.png), auto;
     /* cursor: default;} */
   }
 
