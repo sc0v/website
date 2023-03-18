@@ -462,12 +462,13 @@ iframe.embedcal {
 }
 
 /* website decor (clock) */
-.decor{
+
+#decoration .decor{
     display: flex;
     width:150px;
     top:0;
 }
-.decor2{
+#decoration .decor2{
     position:absolute; 
     bottom:20px;
     right:10px;

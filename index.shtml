@@ -31,8 +31,8 @@
       <!--#include virtual="html/header.html" -->
     </header>
 
-    <div style="display:flex; position:absolute; left:10px; top:150px;z-index:100;transform: rotate(-20deg);" >
-      <img class="decor" src="img/website_deco_watch.png"/>
+    <div id="decoration" style="display:flex; position:absolute; left:10px; top:150px;z-index:100;transform: rotate(-20deg);" >
+      <img class="decor" style="width:150px;" src="img/website_deco_watch.png"/>
     </div>
 
     <!--#include virtual="html/navigation.html" -->
@@ -177,8 +177,8 @@
         </div>
       </div>
       <br class="largespacer" />
-      <div style="display:flex; position:relative;" >
-        <img class="decor2" src="img/website_deco_cupcake.png"/>
+      <div id="decoration" style="display:flex; position:relative;" >
+        <img class="decor2" style="width:150px;" src="img/website_deco_cupcake.png"/>
       </div>
     </article>
 
