@@ -467,6 +467,14 @@ iframe.embedcal {
     width:150px;
     top:0;
 }
+.decor2{
+    position:absolute; 
+    bottom:20px;
+    right:10px;
+    width:230px;
+    transform: rotate(15deg);
+    z-index: -1;
+}
 
 /* Media queries */
 @media only screen and (max-width: 600px) {

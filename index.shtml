@@ -177,6 +177,9 @@
         </div>
       </div>
       <br class="largespacer" />
+      <div style="display:flex; position:relative;" >
+        <img class="decor2" src="img/website_deco_cupcake.png"/>
+      </div>
     </article>
 
     <!--#include virtual="html/footer.html" -->
