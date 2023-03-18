@@ -461,12 +461,25 @@ iframe.embedcal {
     background: #fff;
 }
 
+/* website decor (clock) */
+.decor{
+    display: flex;
+    width:150px;
+    top:0;
+}
 
 /* Media queries */
 @media only screen and (max-width: 600px) {
     .slick-prev, .slick-next {
         display:none !important;
     }
+
+    .decor{
+        display: flex;
+        width:100px;
+        margin-top:3rem;
+    }
+    
 }
 
 /* Fundraiser */
@@ -489,5 +502,12 @@ iframe.embedcal {
 @media only screen and (max-width: 880px) {
     .fundraiser p {
         font-size: 1.0em !important;
+    }
+}
+
+
+@media only screen and (max-width: 1210px) and (min-width:601px) {
+    .decor{
+        display: none;
     }
 }
