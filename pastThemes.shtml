@@ -23,6 +23,31 @@
             <center><b>Past Themes</b></center>
           </h1>
 
+          <!-- 2023 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2023 - Scotty in Wonderland</b>
+              </h2>
+              <br class="spacer" />
+              <br class="spacer" />
+              <center><img src="img/2023_logo.png" width="500" style="" /></center>
+              <br class="spacer" />
+              <br class="spacer" />
+              <p>Get ready to step into an alternate universe with 
+                Spring Carnival’s 2023 Theme, <strong>Scotty in Wonderland</strong>. 
+                Inspired by the <i>Alice in Wonderland</i> book and film, we wanted
+                to make it more fitting to our Tartan tradition by replacing
+                Alice with Scotty! This year’s theme will be a way for 
+                organizations to embrace CMU’s beloved Scotty dog into one
+                of our oldest traditions, which is Carnival, in a fun and 
+                creative way. Anything that is impossible or seems 
+                impossible in our world can come true at Spring Carnival 2023!
+              </p>
+            </div>
+          </div>
+    
           <!-- 2022 theme -->
           <br/><br/>
           <div class="row">
@@ -62,7 +87,6 @@
                 the thrills of competition. Explore all the exhilarating corners of our 
                 Spring Carnival 2020, reminiscence in classical adventure tales, and 
                 accomplish colossal feats set forth for you. Adventure Awaits! </p>
-            </div>
             </div>
           </div>
 

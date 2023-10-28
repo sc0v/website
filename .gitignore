@@ -2,4 +2,4 @@ ssi.py
 ssi.pyc
 ssi_server.py
 ssi_expander.py
-
+__pycache__/

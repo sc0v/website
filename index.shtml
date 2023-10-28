@@ -31,9 +31,10 @@
       <!--#include virtual="html/header.html" -->
     </header>
 
-    <div id="decoration" style="display:flex; position:absolute; left:10px; top:150px;z-index:100;transform: rotate(-20deg);" >
+    <!-- Upper-Left Decoration (Clock) -->
+    <!-- <div id="decoration" style="display:flex; position:absolute; left:10px; top:150px;z-index:100;transform: rotate(-20deg);" >
       <img class="decor" style="width:150px;" src="img/website_deco_watch.png"/>
-    </div>
+    </div> -->
 
     <!--#include virtual="html/navigation.html" -->
 
@@ -59,7 +60,7 @@
           <br>
           <p>Carnegie Mellon's Spring Carnival is three days of amusement
             park rides, adventures in booths, unhealthy snacks, and buggy races. </p>
-            <p>Join us on <strong>April 13-16, 2023</strong> as we celebrate over 100 years of fun, laughter,
+            <p>Join us <strong>April 11-14, 2024</strong> as we celebrate over 100 years of fun, laughter,
             booth, buggy, and being a Tartan! </p>
         </div>
       </div>
@@ -109,22 +110,15 @@
       <div class="row">
         <div class="large-10 large-centered columns">
           <h1>
-            <center><b>Scotty in Wonderland</b></center>
+            <center><b>Arcade</b></center>
           </h1>
           <br class="spacer" />
           <br class="spacer" />
-          <center><img src="img/2023_logo.png" width="500" style="" /></center>
+          <center><img src="img/2024_logo.png" width="500" style="" /></center>
           <br class="spacer" />
           <br class="spacer" />
-          <p>Get ready to step into an alternate universe with 
-            Spring Carnival’s 2023 Theme, <strong>Scotty in Wonderland</strong>. 
-            Inspired by the <i>Alice in Wonderland</i> book and film, we wanted
-            to make it more fitting to our Tartan tradition by replacing
-            Alice with Scotty! This year’s theme will be a way for 
-            organizations to embrace CMU’s beloved Scotty dog into one
-            of our oldest traditions, which is Carnival, in a fun and 
-            creative way. Anything that is impossible or seems 
-            impossible in our world can come true at Spring Carnival 2023!
+          <p>Let the games begin with Spring Carnival’s 2024 Theme,
+            <strong>Arcade</strong>!
           </p>
         </div>
       </div>
@@ -177,9 +171,10 @@
         </div>
       </div>
       <br class="largespacer" />
-      <div id="decoration" style="display:flex; position:relative;" >
+      <!-- Lower-Right Decoration (Cupcake) -->
+      <!-- <div id="decoration" style="display:flex; position:relative;" >
         <img class="decor2" style="width:150px;" src="img/website_deco_cupcake.png"/>
-      </div>
+      </div> -->
     </article>
 
     <!--#include virtual="html/footer.html" -->
