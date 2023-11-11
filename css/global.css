@@ -22,6 +22,8 @@ body {
 
 img.border {
     border: 5px solid #fff;
+    display: block;
+    margin: 0 auto;
 }
 img.left {
     margin: 0 25px 25px 0;
@@ -167,7 +169,7 @@ h1, h2, h3, h4 {
 
 #animation .panel {
     width: 10%;
-    background: #ff0000;
+    background: #FF0000;
     border: none;
     height: 100%;
     float: left;
