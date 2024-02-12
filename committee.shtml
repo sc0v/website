@@ -116,6 +116,34 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/CamilaMartinez.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Camila Martinez</h3>
+              <h4>Co-Director of Doghouse</h4>
+              <p>Camila is a sophomore majoring in Architecture. Her favorite carnival memory is getting up early to watch her friends compete in buggy then walking through the booths before it gets crowded. She's also looking forward to seeing all the cute dogs with the doghouses and play the arcade games!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/EllaMoon.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Ella Moon</h3>
+              <h4>Booth Assistant Director</h4>
+              <p>Ella is a junior majoring in architecture with minors in HCI and Intelligent Environments. She's looking forward to being part of the Spring Carnival again after having a great time building booths last year. She's also excited to help organizations in building some pretty booths this time! One of my favorite carnival memories is the lively chaos of build week and witnessing all the booths come together!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
               <img class="border" src="img/committee/KenHuang.jpg" />
             </div>
             <div class="large-8 columns smalltype">
@@ -220,6 +248,20 @@
               <h3>Timmy Cheung</h3>
               <h4>Head of Marketing & Outreach</h4>
               <p>Timmy is a junior majoring in Business Administration and Decision Science. He also has an additional major in decision science. His favorite part of Spring Carnival is getting to see and experience all the booths organizations create. This year, Timmy is looking forward to making another great carnival and getting the community involved. 
+              </p>
+            </div>
+          </div>
+                    
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/LucyMo.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Lucy Mo</h3>
+              <h4>Assistant Head of Marketing & Outreach</h4>
+              <p>Lucy is a junior majoring in Artificial Intelligence. Her favourite part about Spring Carnival is the seeing diversity of organizations and individuals come together for the cmu tradition. She is super excited to see the cool booths this year!
               </p>
             </div>
           </div>
