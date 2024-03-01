@@ -36,6 +36,14 @@
       <img class="decor" style="width:150px;" src="img/website_deco_watch.png"/>
     </div> -->
 
+    <!-- Decoration (Arcade) -->
+    <div id="decoration" style="display:flex; position:absolute; left:75px; top:200px;z-index:100;transform: rotate(-10deg);" >
+      <img class="decor" style="width:150px;" src="img/website_deco_game.png"/>
+    </div>
+    <div id="decoration" style="display:flex; position:absolute; right:150px; top:350px;z-index:100;transform: rotate(5deg);" >
+      <img class="decor" style="width:150px;" src="img/website_deco_arcade.png"/>
+    </div>
+
     <!--#include virtual="html/navigation.html" -->
 
     <article class="main">
@@ -179,7 +187,6 @@
       <!-- <div id="decoration" style="display:flex; position:relative;" >
         <img class="decor2" style="width:150px;" src="img/website_deco_cupcake.png"/>
       </div> -->
-    </article>
 
     <!--#include virtual="html/footer.html" -->
   </div><!-- end all-->
