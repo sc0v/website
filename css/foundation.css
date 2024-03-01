@@ -1811,7 +1811,7 @@ meta.foundation-mq-topbar {
     height: auto;
     display: block;
     font-size: 16px;
-    background-color: #444444;
+    /* background-color: #444444; */
     margin: 0; }
   .top-bar-section .divider,
   .top-bar-section [role="separator"] {
