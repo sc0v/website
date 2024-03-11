@@ -52,7 +52,7 @@
 
       <div class="row">
         <div class="large-10 large-centered columns">
-          <p>There are four competitive categories for booth: Sorority, Fraternity, Independent, and Blitz (smaller)
+          <p>There are five competitive categories for booth: Sorority, Fraternity, Independent, Blitz, and Dog House (smaller)
             booths. Below
             are this year’s participating organizations and their chosen themes:</p>
         </div>
@@ -65,18 +65,18 @@
         <div class="large-5 push-1 columns smalltype">
           <h3>Sorority</h3>
           <p>
-            <b>Kappa Alpha Theta:</b> Soul<br />
-            <b>Alpha Phi:</b> Zodiac Signs<br />
-            <b>Kappa Kappa Gamma:</b> Yellow Submarine<br />
-            <b>Alpha Chi Omega:</b> Aurora Borealis <br />
-            <b>Delta Delta Delta:</b> Space Buddies <br />
-            <b>Delta Gamma:</b> Rick & Morty<br />
+            <b>Alpha Chi Omega:</b> Peter Pan<br />
+            <b>Alpha Phi:</b> Phineas and Ferb<br />
+            <b>Delta Delta Delta:</b> Coraline<br />
+            <b>Delta Gamma:</b> Anchor Down the Rabbit Hole <br />
+            <b>Kappa Alpha Theta:</b> Harry Potter <br />
+            <b>Kappa Kappa Gamma:</b> Encanto<br />
             <br />
           </p>
-          <h4>2022 Sorority Winners</h4>
+          <h4>2023 Sorority Winners</h4>
           <p>
-            <b>1st: Delta Gamma</b> <br/>
-            <b>2nd: Kappa Alpha Theta</b> <br/>
+            <b>1st: Kappa Alpha Theta</b> <br/>
+            <b>2nd: Delta Gamma</b> <br/>
             <b>3rd: Kappa Kappa Gamma</b> <br/>
             <br />
           </p>
@@ -97,18 +97,18 @@
         <div class="large-5 pull-1 columns smalltype">
           <h3>Fraternity</h3>
           <p>
-            <b>Alpha Epsilon Pi:</b> Space Invaders<br />
-            <b>Phi Delta Theta:</b> The Martian<br />
-            <b>Sigma Phi Epsilon:</b> Treasure Planet<br />
-            <b>Delta Tau Delta:</b> Super Mario Galaxy<br />
-            <b>Kappa Sigma:</b> Star Wars<br />
+            <b>Alpha Epsilon Pi:</b> Pokémon<br />
+            <b>Alpha Phi Omega:</b> Tea Party<br />
+            <b>Delta Tau Delta:</b> Adventure Time<br />
+            <b>Phi Delta Theta:</b> Stranger Things<br />
+            <b>Sigma Phi Epsilon:</b> Avatar<br />
             <br />
           </p>
-          <h4>2022 Fraternity Winners</h4>
+          <h4>2023 Fraternity Winners</h4>
           <p>
             <b>1st: Sigma Phi Epsilon</b> <br/>
             <b>2nd: Phi Delta Theta</b> <br/>
-            <b>3rd: Delta Tau Delta</b> <br/>
+            <b>3rd: Alpha Epsilon Pi</b> <br/>
             <br />
           </p>
           <p><span class="title-left">Pictured left: Delta Tau Delta booth from 2019 Carnival.</span></p>
@@ -122,28 +122,29 @@
         <div class="large-5 push-1 columns smalltype">
           <h3>Independent & Blitz</h3>
           <p>
-            <b>KGB:</b> Sneaking into the Houses of Hollywood Stars<br />
-            <b>Alpha Phi Omega:</b> NASA<br />
-            <b>Fringe:</b> Percy Jackson & Olympians<br />
-            <b>Singapore Students Association:</b> Singapore Airport<br />
-            <b>Astronomy Club:</b> Lifecycle of a Star<br />
-            <b>Chinese Student Association:</b> The Flying Sky<br />
-            <b>Taiwan Student Association:</b> Big Hero 6<br />
-            <b>Asian Students Association:</b> Despicable Me<br />
+            <b>Asian Students Association:</b> Everything Everywhere All at Once<br />
+            <b>Astronomy Club:</b> Cool Exoplanets<br />
+            <b>Chinese Students Association:</b> Kung Fu Panda<br />
+            <b>Fringe:</b> Dr. Suess: Oh, the Places You'll Go!<br />
+            <b>KGB:</b> Monopoly<br />
+            <b>Japanese Student Association:</b> My Neighbor Totoro<br />
+            <b>PRISM</b> Stardew Valley<br />
+            <b>Singapore Students' Association:</b> Gardens by the Bay<br />
+            <b>Taiwanese Student Association:</b> Avatar: The Last Airbender<br />
             <br />
           </p>
-          <h4>2022 Independent Winners</h4>
+          <h4>2023 Independent Winners</h4>
           <p>
             <b>1st: Asian Students Association</b> <br/>
-            <b>2nd: Taiwan Student Association</b> <br/>
+            <b>2nd: Taiwanese Student Association</b> <br/>
             <b>3rd: Fringe</b> <br/>
             <br />
           </p>
-          <h4>2022 Blitz Winners</h4>
+          <h4>2023 Blitz Winners</h4>
           <p>
-            <b>1st: Singapore Students Association</b> <br/>
-            <b>2nd: Astronomy Club</b> <br/>
-            <b>3rd: KGB</b> <br/>
+            <b>1st: Japanese Student Association</b> <br/>
+            <b>2nd: Singapore Students' Association</b> <br/>
+            <b>3rd: PRISM</b> <br/>
             <br />
           </p>
           <p><span class="title-left">Pictured right: Taiwan Students Association's booth from 2019 Carnival.</span></p>
@@ -163,19 +164,19 @@
         <div class="large-5 pull-1 columns smalltype">
           <h3>Doghouses</h3>
           <p>
-            <b>Awareness of Roots in Chinese Cultue:</b> Change and the Jade Rabbit<br />
-            <b>Donner:</b> From the Sea to the Stars<br />
-            <b>5th Ave:</b> Little Einsteins<br />
-            <b>Habitat for Humanity:</b> Starry Night<br />
-            <b>Latino/a Graduate Student Association:</b> Bodega on the Moon<br />
-            <b>Undergraduate Senate:</b> GuardDOGS of the Galaxy<br />
+            <b>Awareness of Roots in Chinese Cultue:</b> Xi Yang Yang<br />
+            <b>American Society of Civil Engineers:</b> Queen of Hearts Castle from Alice in Wonderland<br />
+            <b>Latino/a Graduate Student Association:</b> Bad Bunny in Wonderland<br />
+            <b>Society of Asian Scientists and Engineers:</b> Kiki's Delivery Service<br />
+            <b>ScottyLabs:</b> Meet the Robinsons<br />
+            <b>Undergraduate Senate:</b> Welcome to Paradise Falls<br />
             <br />
           </p>
-          <h4>2022 Doghouse Winners</h4>
+          <h4>2023 Dog House Winners</h4>
           <p>
-            <b>1st: Undergraduate Senate</b> <br/>
-            <b>2nd: Habitat for Humanity</b> <br/>
-            <b>3rd: Latino/a Graduate Student Association</b> <br/>
+            <b>1st: Society of Asian Scientists and Engineers</b> <br/>
+            <b>2nd: Undergraduate Senate</b> <br/>
+            <b>3rd: American Society of Civil Engineers</b> <br/>
             <br />
           </p>
           <p><span class="title-left">Pictured left: Asian Students Association doghouse from 2019 Carnival.</span></p>
