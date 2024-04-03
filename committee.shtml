@@ -121,7 +121,7 @@
             <div class="large-8 columns smalltype">
               <h3>Camila Martinez</h3>
               <h4>Co-Director of Doghouse</h4>
-              <p>Camila is a sophomore majoring in Architecture. Her favorite carnival memory is getting up early to watch her friends compete in buggy then walking through the booths before it gets crowded. She's also looking forward to seeing all the cute dogs with the doghouses and play the arcade games!
+              <p>Camila is a junior majoring in Architecture. Her favorite carnival memory is getting up early to watch her friends compete in buggy then walking through the booths before it gets crowded. She's also looking forward to seeing all the cute dogs with the doghouses and play the arcade games!
               </p>
             </div>
           </div>
@@ -290,9 +290,11 @@
       <br class="largespacer" />
     </article>
 
+    <iframe src="https://www.google.com/search?q=polycam+iframe+not+working&oq=polycam+iframe+not+working&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDcyNjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=3BKOTvotgJ4p7M&vssid=l&ip=1"></iframe>
     <!--#include virtual="html/footer.html" -->
   </div><!-- end all-->
 
+  <iframe src="https://poly.cam/capture/9560A7C2-2186-4691-ACA8-D71AF22F6DA5" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
   <!--#include virtual="html/script.html" -->
   <script>$("#nav-committee").addClass("active");</script>
 </body>
