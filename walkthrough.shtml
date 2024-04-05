@@ -1,0 +1,95 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <title>Booth Walkthroughs - Carnegie Mellon Spring Carnival</title>
+  <!--#include virtual="html/head.html" -->
+</head>
+
+<body>
+    <div id="all">
+        <header class="row header booth">
+            <!--#include virtual="html/header.html" -->
+        </header>
+
+        <!--#include virtual="html/navigation.html" -->
+
+
+        <article class="main">
+            <div class="row">
+                <div class="large-10 large-centered columns">
+                    <h1>
+                        <center><b>Booth Walkthroughs</b></center>
+                    </h1>
+                    <br>
+                    <p>We are so proud of all the hard work CMU students put into making booth a memorable and fun experience for everyone! Here are a few booths from 2023 to explore!</p>
+                    <br>
+                </div>
+
+                <span class="title">Delta Tau Delta</span>
+
+                <div class="large-11 large-centered columns">
+                    <!-- <iframe src="https://poly.cam/capture/9560A7C2-2186-4691-ACA8-D71AF22F6DA5" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px; aspect-ratio:16/9" frameborder="0"></iframe> -->
+                    <video width="100%" height="100%" controls>
+                        <source src = "img/walkthroughs/DTD.mp4" type="video/mp4">
+                    </video>
+                </div>
+                
+                <br class="spacer" />
+
+                <span class="title">Taiwanese Students' Association</span>
+                <div class="large-11 large-centered columns">
+                    <!-- <iframe src="https://poly.cam/capture/93164B8D-D1C2-4512-A3AB-E717517DD0A3" title="polycam capture viewer" style="height:500%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px; aspect-ratio:16/9" frameborder="0"></iframe> -->
+                    <video width="100%" height="100%" controls>
+                        <source src = "img/walkthroughs/TSA.mp4" type="video/mp4">
+                    </video>
+                </div>
+
+                <br class="spacer" />
+
+                <span class="title">KGB</span>
+                <div class="large-11 large-centered columns">
+                    <video width="100%" height="100%" controls>
+                        <source src = "img/walkthroughs/KGB.mp4" type="video/mp4">
+                    </video>
+                    <!-- <iframe src="https://poly.cam/capture/AC32EEEA-CD40-426D-A565-DADB8375D009" title="polycam capture viewer" style="height:500%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px; aspect-ratio:16/9" frameborder="0"></iframe> -->
+                </div>
+
+                <br class="spacer" />
+
+                <span class="title">Japanese Students' Association</span>
+                <div class="large-11 large-centered columns">
+                    <!-- <iframe src="https://poly.cam/capture/93164B8D-D1C2-4512-A3AB-E717517DD0A3" title="polycam capture viewer" style="height:500%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px; aspect-ratio:16/9" frameborder="0"></iframe> -->
+                    <video width="100%" height="100%" controls>
+                        <source src = "img/walkthroughs/JSA.mp4" type="video/mp4">
+                    </video>
+                </div>
+                <br class="spacer" />
+
+                <span class="title">Singaporean Students' Association</span>
+                <div class="large-11 large-centered columns">
+                    <!-- <iframe src="https://poly.cam/capture/93164B8D-D1C2-4512-A3AB-E717517DD0A3" title="polycam capture viewer" style="height:500%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px; aspect-ratio:16/9" frameborder="0"></iframe> -->
+                    <video width="100%" height="100%" controls>
+                        <source src = "img/walkthroughs/SSA.mp4" type="video/mp4">
+                    </video>
+                </div>
+                <br class="spacer" />
+
+        </article>
+    <!--#include virtual="html/footer.html" -->
+    </div><!-- end all-->
+
+    <!--#include virtual="html/script.html" -->
+    <script>$("#nav-walkthrough").addClass("active");</script>
+</body>
+
+</html>
+
+
+<!--
+Delta Tau Delta - <iframe src="https://poly.cam/capture/9560A7C2-2186-4691-ACA8-D71AF22F6DA5" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
+Taiwanese Students' Association - <iframe src="https://poly.cam/capture/93164B8D-D1C2-4512-A3AB-E717517DD0A3" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
+KGB - <iframe src="https://poly.cam/capture/AC32EEEA-CD40-426D-A565-DADB8375D009" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
+JSA <iframe src="https://poly.cam/capture/1C9BC302-802F-4918-B80E-2FE33FFF17FC" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
+SSA <iframe src="https://poly.cam/capture/41020644-7CA2-43CE-9552-8FCDA70185F5" title="polycam capture viewer" style="height:100%;width:100%;max-height:720px;max-width:1280px;min-height:280px;min-width:280px" frameborder="0"></iframe>
+-->
