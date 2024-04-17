@@ -1,0 +1,109 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <title>Event Schedule - Carnegie Mellon Spring Carnival</title>
+    <!--#include virtual="html/head.html" -->
+  </head>
+  <body>
+    <!--#include virtual="html/google-tag-manager.html" -->
+
+    <div id="all">      
+      <header class="row header schedule">
+        <!--#include virtual="html/header.html" -->
+      </header>
+
+      <!--#include virtual="html/navigation.html" -->
+          
+      <article class="main">  
+        <div class="row">
+          <div class="large-10 large-centered columns">
+            <!-- TO DO: Add link to full schedule when we get full schedule from alumni -->
+            <p>We have so many fun events planned for Spring Carnival 2024! Check out the <a href="https://www.cmu.edu/engage/alumni/events/campus/spring-carnival/schedule/index.html">full schedule</a> for more. </p>
+          </div>
+        </div>
+               
+        <br />
+        <!-- <div class="content active"> -->  
+
+        <div class="row">
+          <div class="large-10 large-centered columns">
+            <h2>TOP 5 EVENTS:</h2><br />
+          </div>
+        </div>
+                        
+        <div class="row">
+          <div class="large-5 push-1 columns smalltype">
+            <h3>1. MIDWAY OPENING CEREMONY</h3>
+            <p>Join us for the official opening ceremony for Midway as we unveil the newly-completed booths! Our students have worked day and night, implementing technology and creativity to build an amazing gallery of talent!<br /><br /></p>
+            <!-- TO DO: Add location date, time, and location -->
+          </div>
+          <div class="large-5 pull-1 columns">
+            <img class="border" src="img/schedule/top1.jpg" alt="Opening Ceremony" />
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-5 push-1 columns">
+            <img class="border" src="img/schedule/top2.jpg" alt="Buggy Final Races" />
+          </div>
+          <div class="large-5 pull-1 columns smalltype">
+            <h3>2. BUGGY FINAL RACES</h3>
+            <p>Teams of 5 atheletes (the pushers) push an un-motorized vehicle (a buggy) containing a driver around a 0.84 mile course in a relay format where the vehicle serves as the baton.<br /><br /></p>
+            <!-- TO DO: Add location date, time, and location -->
+          </div>
+        </div>        
+            
+        <br class="spacer" />    
+            
+        <div class="row">
+          <div class="large-5 push-1 columns smalltype">
+            <h3>3. CONCERT</h3>
+            <p>AB Concerts has brought incredible artists to campus for Carnival every year. Previous acts include Mac Miller, Icona Pop, Lupe Fiasco, Passion Pit. AB also features local talent like student Kai Roberts (Tepper '15)<br /><br /></p>
+            <!-- TO DO: Add location date, time, and location -->
+          </div>
+          <div class="large-5 pull-1 columns">
+            <img class="border" src="img/schedule/top3.jpg" alt="Concert" />
+          </div>
+        </div>
+           
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-5 push-1 columns">
+            <img class="border" src="img/schedule/top4.jpg" alt="Concert" />
+          </div>
+          <div class="large-5 pull-1 columns smalltype">
+            <h3>4. COMEDIAN</h3>
+            <p>In addition to the concert, AB also hosts a comedy show every Carnival. Recent acts include Hannibal Buress and Nick Offerman. So many people come that we often only have standing room!<br /><br /></p>
+            <!-- TO DO: Add location date, time, and location -->
+          </div>
+        </div>
+            
+        <br class="spacer" />
+        
+        <div class="row">
+          <div class="large-5 push-1 columns smalltype">
+            <h3>5. MOBOT RACES</h3>
+            <p>Showing off Carnegie Mellon’s technological prowess are the MoBot races! Students across campus work all year to bring these little guys to life during Carnival weekend in this School of Computer Science-hosted event!<br /><br /></p>
+            <!-- TO DO: Add location date, time, and location -->
+          </div>
+          <div class="large-5 pull-1 columns">
+            <img class="border" src="img/schedule/top5.jpg" alt="Mobot Races" />
+          </div>
+        </div>
+            
+        <br class="spacer" />
+    
+        <br class="largespacer" />
+      </article>
+
+      <!--#include virtual="html/footer.html" -->
+    </div><!-- end all-->
+           
+    <!--#include virtual="html/script.html" -->
+    <script>$("#nav-schedule").addClass("active");</script>
+    <script>$("#nav-events").addClass("active");</script>
+  </body>
+</html>
