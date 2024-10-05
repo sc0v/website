@@ -31,18 +31,13 @@
       <!--#include virtual="html/header.html" -->
     </header>
 
-    <!-- Upper-Left Decoration (Clock) -->
-    <!-- <div id="decoration" style="display:flex; position:absolute; left:10px; top:150px;z-index:100;transform: rotate(-20deg);" >
-      <img class="decor" style="width:150px;" src="img/website_deco_watch.png"/>
-    </div> -->
-
-    <!-- Decoration (Arcade) -->
-    <div id="decoration" style="display:flex; position:absolute; left:75px; top:200px;z-index:100;transform: rotate(-10deg);" >
+    <!-- Old Decoration (Arcade) -->
+    <!-- <div id="decoration" style="display:flex; position:absolute; left:75px; top:200px;z-index:100;transform: rotate(-10deg);" >
       <img class="decor" style="width:150px;" src="img/website_deco_game.png"/>
     </div>
     <div id="decoration" style="display:flex; position:absolute; right:150px; top:350px;z-index:100;transform: rotate(5deg);" >
       <img class="decor" style="width:150px;" src="img/website_deco_arcade.png"/>
-    </div>
+    </div> -->
 
     <!--#include virtual="html/navigation.html" -->
 
@@ -67,9 +62,9 @@
           </h1>
           <br>
           <p>Carnegie Mellon's Spring Carnival is three days of amusement
-            park rides, adventures in booths, unhealthy snacks, and buggy races. </p>
-            <p>Join us <strong>April 11-14, 2024</strong> as we celebrate over 100 years of fun, laughter,
-            booth, buggy, and being a Tartan! </p>
+            park rides, adventures in booths, unhealthy snacks, buggy races, and more! </p>
+            <p>Join us <strong>April 3-6, 2025</strong> as we celebrate over 100 years of fun, laughter,
+            booth, buggy, and all things Tartan! </p>
         </div>
       </div>
 
@@ -118,56 +113,28 @@
       <div class="row">
         <div class="large-10 large-centered columns">
           <h1>
-            <center><b>Carnival Theme 2024: Arcade</b></center>
+            <center><b>Carnival Theme 2025: Hollywood</b></center>
           </h1>
           <br class="spacer" />
           <br class="spacer" />
-          <center><img src="img/2024_logo.png" width="500" style="" /></center>
+          <center><img src="img/2025_logo.png" width="750" style="" /></center>
           <br class="spacer" />
           <br class="spacer" />
-          <p>Get ready to step into a virtual world with Spring Carnival's 2024 Theme, 
-            <strong>Arcade</strong>! From retro arcade games to modern classics,
-            nothing says fun like relaxing and playing games with friends. This year's 
-            theme will merge CMU's beloved Spring Carnival tradition with our 
-            favorite virtual experiences, crafting a creative event like no other. 
-            Let the games begin at <strong>Spring Carnival 2024!</strong>
+          <p>Get ready to roll out the red carpet at this year’s CMU Spring Carnival, 
+            where Hollywood glamour meets campus spirit! Join us for a dazzling celebration 
+            filled with star-studded activities, from carnival games to movie-themed 
+            booths. Immerse yourself in the magic of the Silver Screen as 
+            we showcase student talent and creativity in a spectacular event.
+            Whether you're a film buff or just looking for fun, there’s something 
+            for everyone to enjoy. Come celebrate spring with us and let your inner star shine
+            at <strong>Spring Carnival 2025</strong>!
+          </strong>
           </p>
         </div>
       </div>
 
       <br class="spacer" />
       <br/>
-<!-- 
-      <div class="row">
-        <div class="large-10 large-centered columns">
-          <h1>
-            <center><b>Theme Reveal 2023</b></center>
-          </h1>
-          <br class="spacer" />
-          <center><img src="img/home/theme_reveal.jpg" width="500" style="" /></center>
-        </div>
-        <br class="spacer" />
-        <span class="title">SCC Exec Board at 2023 theme reveal!</span>
-      </div> -->
-
-      <!-- Philanthropy -->
-      <!-- <div class="row">
-          <div class="medium-8 large-7 large-push-1 columns">
-            <p>This year, Carnival has teamed up with Habitat for Humanity of Pittsburgh and OrderUp to raise money towards building homes for those in need. Sign up using the Spring Carnival <a href="https://orderup.com/go/carnival" target="_blank">sign up page</a> and OrderUp will take $10 off your first order and donate it to Habitat for Humanity!</p>
-          </div>
-          <div class="medium-4 large-3 large-pull-1 text-center columns">
-            <a href="http://www.pittsburghhabitat.org" target="_blank"><img src="img/habitat.png" width="200" style="" /></a>
-            <a href="https://orderup.com" target="_blank"><img src="img/orderup.png" width="200px" style="" /></a>
-          </div>
-        </div>
-
-        <br class="spacer" />
-
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <p>Food can also be ordered for delivery to Midway and all proceeds will go to Habitat for Humanity. This is a great way for alumni, friends, and family to support booth from far away. Orders can be placed online through <a href="http://carnegiemellontickets.universitytickets.com/user_pages/event.aspx?id=1400" target="_blank">Carnegie Mellon tickets</a>.</p>
-          </div>
-        </div> -->
 
       <br class="largespacer" />
 
@@ -188,9 +155,9 @@
         <img class="decor2" style="width:150px;" src="img/website_deco_cupcake.png"/>
       </div> -->
 
-    <!--#include virtual="html/footer.html" -->
   </div><!-- end all-->
-
+  <!--#include virtual="html/footer.html" -->
+  
   <!--#include virtual="html/script.html" -->
   <script src="js/jquery.cookie.js"></script>
   <script src="js/animation.js"></script>
