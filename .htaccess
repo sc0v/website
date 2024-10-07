@@ -6,4 +6,4 @@ Redirect 302 /scc-calendar https://calendar.google.com/calendar/b/1?cid=c3ByaW5n
 Redirect 302 /activityshifts https://drive.google.com/open?id=1-I0IOLjlewxQRxhZrjTH8b5Hq79mbHDTx8qmJpaVHdQ
 Redirect 302 /waiver https://binder.springcarnival.org/waiver
 Redirect 302 /radio-guide https://drive.google.com/file/d/1pu3vXH62ADpynDeb77P0GZ1T__5OsF5X/view?usp=sharing
-FallbackResource /index.html
+FallbackResource /index.shtml
