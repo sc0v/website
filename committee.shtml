@@ -115,6 +115,62 @@
 
           <div class="row person">
             <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/CamilaMartinez.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Camila Martinez</h3>
+              <h4>Director of Fraternity</h4>
+              <p>Camila is a senior majoring in Architecture. Her favorite carnival memory is getting up early to watch her friends compete in buggy then walking through the booths before it gets crowded. She's also looking forward to seeing all the cute dogs with the doghouses!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/CharlieHymowitz.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Charlie Hymowitz</h3>
+              <h4>Director of Sorority</h4>
+              <p>Charlie is a senior studying architecture and civil engineering! He’s so excited for the energy and chaos of build week and to help get booths off the ground!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/JuliaKasper.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Julia Kasper</h3>
+              <h4>Director of Independent</h4>
+              <p>Julia is a senior majoring in architecture. Her favorite carnival memory is watching the booths open for the first time, it was so exciting to see all the booths putting together the finishing touches and stepping away from your booth and thinking “we did that!” It’s so amazing to feel proud and accomplished with your team of hardworking booth builders and designers :)
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/YoustinaRiad.jpg" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Youstina Riad</h3>
+              <h4>Director of Blitz</h4>
+              <p>Youstina is a sophomore majoring in architecture. She can’t wait to be on Midway during build week and stay up late watching the orgs build!
+              </p>
+            </div>
+          </div>
+
+          <br class="spacer" />
+
+          <div class="row person">
+            <div class="large-4 columns smalltype">
               <img class="border" src="img/committee/TracyWan.jpeg" />
             </div>
             <div class="large-8 columns smalltype">
@@ -167,8 +223,18 @@
 
           <br class="spacer" />
           <!-- NATE MILLER -->
-          <!-- MIA KONG -->
-          <!-- LiLi DiMuzio -->
+          <div class="row person">
+            <div class="large-4 columns smalltype">
+              <img class="border" src="img/committee/MiaKong.png" />
+            </div>
+            <div class="large-8 columns smalltype">
+              <h3>Mia Kong</h3>
+              <h4>Co-Head of Electrical</h4>
+              <p>Mia is a junior studying Mechanical Engineering. She's so excited to be a part of Spring Carnival 2025!</p>
+            </div>
+          </div>
+
+          <br class="spacer" />
 
           <div class="row person">
             <div class="large-4 columns smalltype">
@@ -255,7 +321,7 @@
             </div>
             <div class="large-8 columns smalltype">
               <h3>Joe McLaughlin</h3>
-              <h4>Co-Head of UI/UX</h4>
+              <h4>Co-Head of Software</h4>
               <p>Joe is a senior majoring Computer Science. His favorite carnival memories include staying up late with the rest of the committee and watching the booths get built!  
               </p>
             </div>
@@ -269,7 +335,7 @@
             </div>
             <div class="large-8 columns smalltype">
               <h3>Katelyn Zheng</h3>
-              <h4>Co-Head of UI/UX</h4>
+              <h4>Co-Head of Software</h4>
               <p>Katelyn is a senior majoring in Information Systems and History. Her favorite memories are staying up late and walking through the booths with the people closest to her!
               </p>
             </div>
