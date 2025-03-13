@@ -15,6 +15,7 @@ body {
     cursor: default;
 }
 
+
 .cursor {
     /* cursor: url(../img/cursor.png), auto; */
     cursor: default;
@@ -108,18 +109,18 @@ a:hover {
 
 /* Orangify */
 span.title, p, span {
-    color: #fff !important;
+    color: #252525 !important;
 }
 body {
-    /* background: url('../img/background.png') repeat #4682a2;    */
+    background: url('../img/background_yellow2.png') repeat #252525; 
     /* background: url('../img/background_black.png') repeat #777777; */
-    background: url('../img/background_blue.png') repeat #777777;   
+    /* background: url('../img/background_blue.png') repeat #4d4d87;   */
 }
 .slick-prev:before, .slick-next:before {
     color: #fff !important;
 }
 h1, h2, h3, h4 {
-    color: #fff !important;
+    color: #252525 !important;
 }
 
 /* Home Page Intro */
@@ -251,7 +252,7 @@ header.header {
 
 header.header.home {
     /* background: url('../img/banners/home-banner.png') #000; */
-    background: url('../img/banners/home-banner_blue.png') #000;
+    background: url('../img/banners/home-banner2.png') #000;
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center;
@@ -320,7 +321,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .navcontainer {
     /* background: #006688; */
     /* background: #444444; */
-    background: #00004d;
+    background: #daa300;
 }
 
 .top-bar:not(.expanded) section ul li.root {
@@ -335,7 +336,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 nav.top-bar, nav.top-bar section.top-bar-section ul li a{
     /* background: #006688 !important; */
     /* background: #444444 !important; */
-    background: #00004d !important;
+    background: #daa300 !important;
     font-size: 1em;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -345,8 +346,8 @@ nav.top-bar, nav.top-bar section.top-bar-section ul li a{
 nav.top-bar section.top-bar-section ul li a:hover, nav.top-bar section.top-bar-section ul li.has-dropdown ul.dropdown li a:hover {
     /* background: #006688; */
     /* background: #444444 !important; */
-    background: #00004d !important;
-    color: #f876c8;
+    background: #cb9100 !important;
+    color: #fff;
     font-weight: bold !important;
 
 }
@@ -373,7 +374,7 @@ a.parent-link.js-generated::after {
 
 footer {
     /* background: #333; */
-    background: #00004d;
+    background: #daa300;
 }
 
 footer p, footer .links {
@@ -393,7 +394,7 @@ footer .row {
 
 footer a {
     /* color: #999; */
-    color: #999bba;
+    color: #d4d5e2;
 }
 
 footer a:hover {
