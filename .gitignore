@@ -2,6 +2,7 @@ ssi.py
 ssi.pyc
 ssi_server.py
 ssi_expander.py
+ssi-server/
 __pycache__/
 .DS_Store
 img/.DS_Store
