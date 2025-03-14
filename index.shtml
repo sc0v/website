@@ -32,21 +32,26 @@
     </header>
 
     <!-- Old Decoration (Arcade) -->
-    <!-- <div id="decoration" style="display:flex; position:absolute; left:75px; top:200px;z-index:100;transform: rotate(-10deg);" >
-      <img class="decor" style="width:150px;" src="img/website_deco_game.png"/>
+   <div id="decoration" style="display:flex; position:absolute; left:75px; top:350px;z-index:0;transform: rotate(-10deg);" >
+      <img class="decor" style="width:200px;" src="img/a.png"/>
     </div>
-    <div id="decoration" style="display:flex; position:absolute; right:150px; top:350px;z-index:100;transform: rotate(5deg);" >
-      <img class="decor" style="width:150px;" src="img/website_deco_arcade.png"/>
-    </div> -->
-
+    <div id="decoration" style="display:flex; position:absolute; left:-60px; top:600px;z-index:0;transform: rotate(-10deg);" >
+      <img class="decor" style="width:300px;" src="img/d.png"/>
+    </div>
+    <div id="decoration" style="display:flex; position:absolute; right:-40px; top:600px;z-index:0;transform: rotate(5deg);" >
+      <img class="decor" style="width:300px;" src="img/e.png"/>
+    </div> 
+    <div id="decoration" style="display:flex; position:absolute; right:50px; top:350px;z-index:0;transform: rotate(5deg);" >
+      <img class="decor" style="width:300px;" src="img/b.png"/>
+    </div> 
     <!--#include virtual="html/navigation.html" -->
 
     <article class="main">
-      <!-- <div class="show-for-small-only">
+       <div class="show-for-small-only">
           <p class="panel">
               Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
           </p>
-        </div> -->
+        </div> 
 
       <!-- <div class="show-for-medium-up">
           <p class="panel">
