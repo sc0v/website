@@ -220,6 +220,6 @@
            
     <!--#include virtual="html/script.html" -->
     <script>$("#nav-schedule").addClass("active");</script>
-    <script>$("#nav-events").addClass("active");</script>
+    <script>$("#nav-full-schedule").addClass("active");</script>
   </body>
 </html>
