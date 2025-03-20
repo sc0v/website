@@ -16,6 +16,13 @@
           
       <article class="main">  
         <div class="row">
+          <h1>
+            <center><b>Event Schedule</b></center>
+          </h1>
+        </div>
+
+        <br/>
+        <div class="row">
           <div class="large-10 large-centered columns">
             <!-- TO DO: Add link to full schedule when we get full schedule from alumni -->
             <p>We have so many fun events planned for Spring Carnival 2024! Check out the <a href="https://www.cmu.edu/engage/alumni/events/campus/spring-carnival/schedule/index.html">full schedule</a> for more. </p>
@@ -27,70 +34,179 @@
 
         <div class="row">
           <div class="large-10 large-centered columns">
-            <h2>TOP 5 EVENTS:</h2><br />
+            <h2>Thursday, April 3rd:</h2><br />
           </div>
         </div>
                         
         <div class="row">
-          <div class="large-5 push-1 columns smalltype">
-            <h3>1. MIDWAY OPENING CEREMONY</h3>
+          <div class="large-10 push-1 smalltype">
+            <h3>Midway Opening Ceremony</h3>
+            <h5>3:00pm - 3:30pm @ Pavillion</h5>
             <p>Join us for the official opening ceremony for Midway as we unveil the newly-completed booths! Our students have worked day and night, implementing technology and creativity to build an amazing gallery of talent!<br /><br /></p>
-            <!-- TO DO: Add location date, time, and location -->
-          </div>
-          <div class="large-5 pull-1 columns">
-            <img class="border" src="img/schedule/top1.jpg" alt="Opening Ceremony" />
           </div>
         </div>
 
         <br class="spacer" />
 
         <div class="row">
-          <div class="large-5 push-1 columns">
-            <img class="border" src="img/schedule/top2.jpg" alt="Buggy Final Races" />
-          </div>
-          <div class="large-5 pull-1 columns smalltype">
-            <h3>2. BUGGY FINAL RACES</h3>
-            <p>Teams of 5 atheletes (the pushers) push an un-motorized vehicle (a buggy) containing a driver around a 0.84 mile course in a relay format where the vehicle serves as the baton.<br /><br /></p>
-            <!-- TO DO: Add location date, time, and location -->
-          </div>
-        </div>        
-            
-        <br class="spacer" />    
-            
-        <div class="row">
-          <div class="large-5 push-1 columns smalltype">
-            <h3>3. CONCERT</h3>
-            <p>AB Concerts has brought incredible artists to campus for Carnival every year. Previous acts include Mac Miller, Icona Pop, Lupe Fiasco, Passion Pit. AB also features local talent like student Kai Roberts (Tepper '15)<br /><br /></p>
-            <!-- TO DO: Add location date, time, and location -->
-          </div>
-          <div class="large-5 pull-1 columns">
-            <img class="border" src="img/schedule/top3.jpg" alt="Concert" />
+          <div class="large-10 push-1 smalltype">
+            <h3>Kiltie Band Performance</h3>
+            <h5>3:30pm - 4:15pm @ Kirr Commons</h5>
+            <p>Carnegie Mellon's own Kiltie Band consists of musicians and colorguard and will be playing after our opening ceremony!<br /><br /></p>
           </div>
         </div>
-           
+
         <br class="spacer" />
 
         <div class="row">
-          <div class="large-5 push-1 columns">
-            <img class="border" src="img/schedule/top4.jpg" alt="Concert" />
-          </div>
-          <div class="large-5 pull-1 columns smalltype">
-            <h3>4. COMEDIAN</h3>
-            <p>In addition to the concert, AB also hosts a comedy show every Carnival. Recent acts include Hannibal Buress and Nick Offerman. So many people come that we often only have standing room!<br /><br /></p>
-            <!-- TO DO: Add location date, time, and location -->
+          <div class="large-10 push-1 smalltype">
+            <h3>Activities Tent</h3>
+            <h5>3:30pm - 7:00pm @ The Cut</h5>
+            <p>Join Spring Carnival for a variety of fun activities at various tents at the center of CMU's greens!<br /><br /></p>
           </div>
         </div>
-            
+
         <br class="spacer" />
-        
+
         <div class="row">
-          <div class="large-5 push-1 columns smalltype">
-            <h3>5. MOBOT RACES</h3>
-            <p>Showing off Carnegie Mellon’s technological prowess are the MoBot races! Students across campus work all year to bring these little guys to life during Carnival weekend in this School of Computer Science-hosted event!<br /><br /></p>
-            <!-- TO DO: Add location date, time, and location -->
+          <div class="large-10 push-1 smalltype">
+            <h3>Scavenger Hunt Kickoff</h3>
+            <h5>4:00pm @ Activities Tent</h5>
+            <p>Join us on a 24-hour Scavenger Hunt starting at the Activities Tent on Thursday! Form a team of 1-4 and compete to snap photos of various challenges across campus. Submit your finds via our Google Form to win exciting prizes like Squishmellows, Lego sets, and more. If you can, join us at the Activities Tent Thursday 4pm and Saturday noon for brief opening and prize ceremonies. Everyone gets a Participation Prize (while supplies last)! Don't miss out—join the adventure!<br /><br /></p>
           </div>
-          <div class="large-5 pull-1 columns">
-            <img class="border" src="img/schedule/top5.jpg" alt="Mobot Races" />
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>C# Performance</h3>
+            <h5>5:00pm - 7:00pm @ Legacy Plaza</h5>
+            <p>Get excited for CMU's largest singing organization to perform a variety of accapella numbers!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Tartans Got Talent</h3>
+            <h5>7:00pm - 9:00pm @ Legacy Plaza</h5>
+            <p>Prepare to be enthralled by a mesmerizing array of performances, including beatboxing, soul-stirring vocals, classical melodies, and dynamic dance routines. Join us for an unforgettable evening and witness the magic as these talented Tartans showcase their skills. Don't miss out on this extraordinary showcase of talent happening on Thursday 7-9pm in McConomy!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 large-centered columns">
+            <h2>Friday, April 4th:</h2><br />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Activities Tent</h3>
+            <h5>11:00am - 7:00pm @ The Cut</h5>
+            <p>Join Spring Carnival for a variety of fun activities at various tents at the center of CMU's greens!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Accapella Show</h3>
+            <h5>11:00am - 1:00pm @ Kirr Commons</h5>
+            <p>Get ready to be blown away by CMU's finest vocal talents at our annual A Cappella Showcase. Join us on Friday, April 4th, from 11:00 AM to 1:00 PM in Kirr Commons for an unforgettable performance featuring renowned singing groups: Soundbytes, Counterpoint, Joyful Noise, Treblemakers, Saans, and Originals.<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>CMU Swing Dancing</h3>
+            <h5>2:00pm @ Kirr Commons</h5>
+            <p>Come out and meet your local CMU collegiate Swing Dancers!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Dance Show</h3>
+            <h5>2:30pm - 4:00pm @ Wiegand</h5>
+            <p>Get ready to groove at our Dance Showcase! Join us on Friday, April 4th, from 2:30 to 4:00 PM in Wiegand for a dynamic display of talent featuring CMU's top dance groups. Our lineup includes Ballroom Dance Club, CMU Street Styles, Tartan Salsa, CMU KPDC, and En Pointe. With a variety of styles and mesmerizing routines, this event promises to captivate audiences of all ages.<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 large-centered columns">
+            <h2>Saturday, April 5th:</h2><br />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Activities Tent</h3>
+            <h5>11:00am - 7:00pm @ The Cut</h5>
+            <p>Join Spring Carnival for a variety of fun activities at various tents at the center of CMU's greens!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Crepe Party</h3>
+            <h5>11:00am - 1:00pm @ General Motors Room, University Center 2nd Floor</h5>
+            <p>Indulge in a sweet treat and mingle with fellow Tartans at our Crepe Party featuring Pgh Crepes! Come early to ensure you get a crepe while supplies last and make unforgettable memories with your friends. Don't miss out on this event—it's sure to be a spectacular time!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Scavenger Hunt Winner Announcement</h3>
+            <h5>12:00pm @ Activities Tent</h5>
+            <p>Join us on a as we announce the winners of the Spring Carnival Scavenger Hunt!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Tartan Tuba</h3>
+            <h5>2:00pm @ McConomy Auditorium</h5>
+            <p>Carnegie Mellon's own tuba and euphonium ensemble will be performing for Carnival attendees!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Costume Dog Party</h3>
+            <h5>3:00pm - 4:00pm @ Doghouses outside the University Center</h5>
+            <p>Get ready for some tail-wagging fun at our Dog Costume Contest, where faculty and students can dress up their adorable pups for a chance to win a basket of delicious dog treats. Get ready to unleash the excitement!<br /><br /></p>
+          </div>
+        </div>
+
+        <br class="spacer" />
+
+        <br class="spacer" />
+
+        <div class="row">
+          <div class="large-10 push-1 smalltype">
+            <h3>Booth and Buggy Awards</h3>
+            <h5>4:30pm - 5:45pm @ Wiegand Gym</h5>
+            <p>After all of the excitement of booth and buggy during Carnival, join us to celebrate the best booths and buggy teams in our annual awards ceremony!<br /><br /></p>
           </div>
         </div>
             
