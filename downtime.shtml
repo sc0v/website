@@ -1,0 +1,158 @@
+<!doctype html> 
+<html class="no-js" lang="en">
+    <head>
+        <title>Events - Carnegie Mellon Spring Carnival</title>
+        <!--#include virtual="html/head.html" -->
+        <style>
+          .closed_class {
+            background-color: #ff6b6b;
+            color: white;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+            min-height: 150px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+          }
+          
+          .open_class {
+            background-color: #51cf66; 
+            color: white;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+            min-height: 150px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+          }
+
+          .hours-notice {
+            color: black;
+            padding: 10px;
+            text-align: center;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            font-weight: bold;
+          }
+          
+          #parent {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-template-rows: auto;
+            grid-column-gap: 20px;
+            grid-row-gap: 20px;
+          }
+        </style>
+      </head>
+    <body>
+      <!--#include virtual="html/google-tag-manager.html" -->
+        <div id="all">
+            <header class="row header home">
+              <!--#include virtual="html/header.html" -->
+            </header>
+            <!--#include virtual="html/navigation.html" -->
+            <article class="main">
+                <!-- draw the boxes -->
+                <div class="container" id="container">
+                    <div class="row">
+                      <div id="midway-notice"></div>
+                      <h1> 
+                        <div>Booth Status</div>
+                      </h1>
+                      <div id="parent"></div>
+                    </div>
+                  </div>
+            </article>
+            <!--#include virtual="html/footer.html" -->
+    </body>
+</html>
+<!--#include virtual="html/script.html" -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+  const midwayHours = {
+    4: { open: 15, close: 23 }, //thursday 3pm-11pm
+    5: { open: 11, close: 22 }, //friday 11am-10pm
+    6: { open: 11, close: 23 } //saturday 11am-11pm
+  };
+
+
+  const boothNames = {
+    "SSA, HKSA, FSA, KASA, and SIAM" : "Monster's Inc",
+    "SWE" : "Pitch Perfect",
+    "KGB and PRISM" : "Sharknado",
+    "MENASA + SPRIT" : "Aladdin",
+    "ASCE" : "The Lego Movie",
+    "Sustainable Earth and TPEG" : "Jurassic Park",
+    "Alpha Chi Omega" : "Inside Out",
+    "Fringe" : "Muppet's Movie",
+    "Delta Delta Delta" : "Jaws",
+    "Alpha Phi" : "Barbie",
+    "CSA" : "Mulan",
+    "TSA" : "La La Land",
+    "APhiO" : "Ratatoille",
+    "SDC" : "Wall-E",
+    "Delta Gamma" : "Charlie and the Chocolate Factory",
+    "Phi Delta Theta" : "Men in Black",
+    "Asian Studnet Association" : "Howl's Moving Castle",
+    "Sigma Phi Epsilon" : "Indiana Jones",
+    "Kappa Alpha Theta" : "Interstellar",
+    "Kappa Kappa Gamma" : "Toy Story",
+    "Alpha Epsilon Pi" : "The Simpson's Movie/Universe",
+    "Alpha Phi Omega" : "Concessions"
+  };
+
+  function isMidwayOpen() {
+    const now = new Date();
+    const day = now.getDay();
+    const hours = now.getHours();
+    if (midwayHours[day]) {
+      const { open, close } = midwayHours[day];
+      return hours >= open && hours < close;
+    }
+    return false;
+  }
+ 
+
+  function fetchDowntimeData() {
+    $.ajax({
+      url: 'https://binder.springcarnival.org/downtime.json',
+      method: 'GET',
+      dataType: 'json',
+      success: function(data) {
+        updateBoxes(data); 
+      },
+      error: function(xhr, status, error) {
+        console.error('Error fetching downtime data:', error);
+      }
+    });
+  }
+  
+  function updateBoxes(data) {
+    const parent = $('#parent');
+    parent.empty();
+    const midwayOpen = isMidwayOpen();
+  
+    $('#midway-notice').html(!midwayOpen ? '<div class="hours-notice">MIDWAY IS CURRENTLY CLOSED</div>' : '');
+
+    Object.keys(data).forEach(org => {
+      const boothName = boothNames[org] || org;
+      const isClosed = data[org]; 
+      const statusText = isClosed ? "OPEN" : "CLOSED";
+      const boxClass = isClosed ? "open_class" : "closed_class";
+      
+      const boxContent = `
+        <div class="${boxClass}">
+          <div style="font-size: 1.8em; font-weight: 800;">${boothName}</div><br>
+          ${boothName !== org ? `<div style="font-weight: 600;">By ${org}</div><br>` : ''}
+          <div>${statusText}</div>
+        </div>
+      `;
+      parent.append(boxContent);
+    });
+  }
+  fetchDowntimeData();
+  setInterval(fetchDowntimeData, 30000);
+</script>
