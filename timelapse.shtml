@@ -22,7 +22,7 @@
     <article class="main">
       <div class="row">
         <div class="large-10 large-centered columns">
-          <p>Watch the 2024 midway cam and see booths being built in real-time. Timelapse will be posted after the completion of Carnival. </p>
+          <p>Watch the 2025 midway cam and see booths being built in real-time. Timelapse will be posted after the completion of Carnival. </p>
         </div>
       </div>
 
@@ -32,56 +32,12 @@
       <div class="row">
         <div class="large-11 large-centered columns">
           <div class="flex-video widescreen" style="padding-top: 0">
-            <iframe width="871" height="490" src="https://www.youtube.com/embed/live_stream?channel=UCU9POVg8y6XmdT_seh6nHDA" 
-            title="Spring Carnival 2024 Midway Camera" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	    <iframe width="896" height="504" src="https://www.youtube.com/embed/mG0GhOPi1ZA" title="Spring Carnival 2025 Midway Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
           <br />
-         <span class="title">Live 2024 Midway Camera Here!</span>
+         <span class="title">Live 2025 Midway Camera Here!</span>
         </div>
       </div>
-
-    <article class="main">
-      <div class="row">
-        <div class="large-10 large-centered columns">
-          <p>Check out the timelapses of Carnival 2019 and Carnival 2018 build week! These booths are built from the ground up, and now you
-            can watch it happen. Photos are taken every thirty seconds from above Midway, creating an amazing video that
-            shows the process from start to finish! </p>
-        </div>
-      </div>
-
-      <br />
-
-      <div class="row">
-        <div class="large-11 large-centered columns">
-          <div class="flex-video widescreen" style="padding-top: 0">
-            <iframe src="https://www.youtube.com/live/dpvpuHOSzPw?si=iM0EbUKTex7CbSeA" frameborder="0"
-              allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-          <br />
-          <span class="title">A timelapse of Midway from Carnival 2019</span>
-        </div>
-      </div>
-
-      <br class="spacer" />
-
-      <div class="row">
-        <div class="large-11 large-centered columns">
-          <div class="flex-video widescreen" style="padding-top: 0">
-            <iframe src="https://www.youtube.com/watch?v=dpvpuHOSzPw" frameborder="0"
-              allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-          <br />
-          <span class="title">A timelapse of Midway from Carnival 2018</span>
-        </div>
-      </div>
-
-      <br class="spacer" />
-
-
-      <br class="largespacer" />
-    </article>
 
     <!--#include virtual="html/footer.html" -->
   </div><!-- end all-->
