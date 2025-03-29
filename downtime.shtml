@@ -55,21 +55,32 @@
             <!--#include virtual="html/navigation.html" -->
             <article class="main">
                 <!-- draw the boxes -->
+                <div class="row">
+                  <h1> 
+                    <center><b>Booth Status</b></center>
+                  </h1>
+                </div>
+                <center><div class="large-8 large-centered">
+                  <p>Booths are open every day of Carnival, but organizations can take a few hours
+                      of downtime each day where their booth is closed. Here is the current status
+                      of whether each booth is open or closed!
+                  </p>
+                </div></center>   
+                <div id="midway-notice"></div>
                 <div class="container" id="container">
                     <div class="row">
-                      <div id="midway-notice"></div>
-                      <h1> 
-                        <div>Booth Status</div>
-                      </h1>
                       <div id="parent"></div>
                     </div>
                   </div>
             </article>
+            <br class="largespacer"/>
             <!--#include virtual="html/footer.html" -->
     </body>
 </html>
 <!--#include virtual="html/script.html" -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>$("#nav-schedule").addClass("active");</script>
+<script>$("#nav-booth-status").addClass("active");</script>
 
 <script>
   const midwayHours = {
@@ -139,9 +150,9 @@
 
     Object.keys(data).forEach(org => {
       const boothName = boothNames[org] || org;
-      const isClosed = data[org]; 
-      const statusText = isClosed ? "OPEN" : "CLOSED";
-      const boxClass = isClosed ? "open_class" : "closed_class";
+      const isOpen = data[org] && midwayOpen; 
+      const statusText = isOpen ? "OPEN" : "CLOSED";
+      const boxClass = isOpen ? "open_class" : "closed_class";
       
       const boxContent = `
         <div class="${boxClass}">
