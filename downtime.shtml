@@ -91,28 +91,29 @@
 
 
   const boothNames = {
-    "SSA, HKSA, FSA, KASA, and SIAM" : "Monster's Inc",
-    "SWE" : "Pitch Perfect",
-    "KGB and PRISM" : "Sharknado",
-    "MENASA + SPRIT" : "Aladdin",
-    "ASCE" : "The Lego Movie",
-    "Sustainable Earth and TPEG" : "Jurassic Park",
+    "SSA/HKSA/FSA/KASA" : "Monster's Inc",
+    "Society of Women Engineers" : "Pitch Perfect",
+    "KGB/PRISM" : "Sharknado",
+    "MENASA/Spirit" : "Aladdin",
+    "American Society of Civil Engineers" : "The Lego Movie",
+    "Sustainable Earth/Theme Park Engineering Group" : "Jurassic Park",
+
     "Alpha Chi Omega" : "Inside Out",
     "Fringe" : "Muppet's Movie",
     "Delta Delta Delta" : "Jaws",
     "Alpha Phi" : "Barbie",
-    "CSA" : "Mulan",
-    "TSA" : "La La Land",
-    "APhiO" : "Ratatoille",
-    "SDC" : "Wall-E",
+    "Chinese Students Association" : "Mulan",
+    "Taiwanese Students Association" : "La La Land",
+    "Alpha Phi Omega" : "Concessions",
+    "Student Dormitory Council" : "Wall-E",
+
     "Delta Gamma" : "Charlie and the Chocolate Factory",
     "Phi Delta Theta" : "Men in Black",
-    "Asian Studnet Association" : "Howl's Moving Castle",
+    "Asian Student Association" : "Howl's Moving Castle",
     "Sigma Phi Epsilon" : "Indiana Jones",
     "Kappa Alpha Theta" : "Interstellar",
     "Kappa Kappa Gamma" : "Toy Story",
     "Alpha Epsilon Pi" : "The Simpson's Movie/Universe",
-    "Alpha Phi Omega" : "Concessions"
   };
 
   function isMidwayOpen() {
@@ -148,8 +149,11 @@
   
     $('#midway-notice').html(!midwayOpen ? '<div class="hours-notice">MIDWAY IS CURRENTLY CLOSED</div>' : '');
 
-    Object.keys(data).forEach(org => {
-      const boothName = boothNames[org] || org;
+    Object.keys(data).sort().forEach(org => {
+      const boothName = boothNames[org];
+      if (!boothName) {
+        return;
+      }
       const isOpen = data[org] && midwayOpen; 
       const statusText = isOpen ? "OPEN" : "CLOSED";
       const boxClass = isOpen ? "open_class" : "closed_class";
