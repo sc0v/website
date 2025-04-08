@@ -1,0 +1,80 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <title>Midway Virtual Tour</title>
+  <!--#include virtual="html/head.html" -->
+  <link rel="stylesheet" href="css/pannellum.css" />
+</head>
+
+<body>
+  <!--#include virtual="html/google-tag-manager.html" -->
+
+  <div id="all">
+    <header class="row header home">
+      <!--#include virtual="html/header.html" -->
+    </header>
+
+    <!--#include virtual="html/navigation.html" -->
+
+    <article class="main">
+        <div class="row">
+          <h1>
+            <center><b>Midway Virtual Tour</b></center>
+          </h1>
+          <center><div id="panorama" style="width: 600px; height: 400px;"></div></center>
+        </div>
+        <br class="largespacer"/>
+    </article>
+<!--#include virtual="html/footer.html" -->
+</div>
+
+<!--#include virtual="html/script.html" -->
+<script src="js/vendor/pannellum.js"></script>
+<script src="js/jquery.cookie.js"></script>
+<script src="js/animation.js"></script>
+<script>$("#nav-theme").addClass("active");</script>
+<script>$("#nav-designer").addClass("active");</script>
+
+<script>
+  pannellum.viewer('panorama', {
+    "default": {
+      "firstScene": "midway1",
+      "sceneFadeDuration": 1000,
+      "autoLoad": true
+    },
+
+    "scenes": {
+      "midway1": {
+        "type": "equirectangular",
+        "panorama": "/img/boothtours/1.jpg",
+        "yaw": -45,
+        "hotSpots": [
+          {
+            "yaw": -45,
+            "pitch": -10,
+            "type": "scene",
+            "sceneId": "midway2"
+          }
+        ]
+      },
+      "midway2": {
+        "type": "equirectangular",
+        "panorama": "/img/boothtours/2.jpg",
+        "yaw": -45,
+        "hotSpots": [
+          {
+            "yaw": 135,
+            "pitch": -10,
+            "type": "scene",
+            "sceneId": "midway1",
+            "targetYaw": 135,
+          }
+        ]
+      },
+    }
+  });
+</script>
+</body>
+
+</html>
