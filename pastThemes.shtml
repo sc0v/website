@@ -23,6 +23,30 @@
             <center><b>Past Themes</b></center>
           </h1>
 
+          <!-- 2025 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2025 - Hollywood</b>
+              </h2>
+              <br class="spacer" />
+              <br class="spacer" />
+              <center><img src="img/2025_logo.png" width="500" style="" /></center>
+              <br class="spacer" />
+              <br class="spacer" />
+                <p>Get ready to roll out the red carpet at this year’s CMU Spring Carnival, 
+                where Hollywood glamour meets campus spirit! Join us for a dazzling celebration 
+                filled with star-studded activities, from carnival games to movie-themed 
+                booths. Immerse yourself in the magic of the Silver Screen as 
+                we showcase student talent and creativity in a spectacular event.
+                Whether you're a film buff or just looking for fun, there’s something 
+                for everyone to enjoy. Come celebrate spring with us and let your inner star shine
+                at <strong>Spring Carnival 2025</strong>!
+                </p>
+              </div>
+          </div>
+
           <!-- 2024 theme -->
           <br/><br/>
           <div class="row">
