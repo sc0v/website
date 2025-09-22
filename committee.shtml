@@ -80,29 +80,6 @@
     <!--#include virtual="html/navigation.html" -->
 
     <article class="main">
-      <!-- <div class="row">
-        <div class="large-10 large-centered columns">
-          <p>Spring Carnival Committee is the student organization that makes Carnival happen. We get really excited
-            about making the most fun week of the year to actually happen! 
-          </p>
-        </div>
-      </div> -->
-      <!-- 
-      <div class="row">
-          <div class="large-11 large-centered columns"> 
-            <img class="border" src="img/committee/group.jpg" alt="Spring Carnival Committee" />
-            <br /><br />
-            <span class="title">The 2021 Spring Carnival Committee</span>
-          </div>
-        </div>
-
-        <br class="spacer" />
-
-        <div class="row">
-          <div class="large-10 large-centered columns">
-            <h2 class="text-center">MEET THE EXECUTIVE BOARD:</h2>
-          </div>
-        </div> -->
 
         <br class="spacer" />
 
