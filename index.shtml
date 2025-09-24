@@ -47,11 +47,11 @@
     <!--#include virtual="html/navigation.html" -->
 
     <article class="main">
-       <div class="show-for-small-only">
+       <!-- <div class="show-for-small-only">
           <p class="panel">
               Checkout this year's <a href="https://youtu.be/xiNpa-VRiuw">Promo Video</a>!
           </p>
-        </div> 
+        </div>  -->
 
       <!-- <div class="show-for-medium-up">
           <p class="panel">
@@ -68,7 +68,7 @@
           <br>
           <p>Carnegie Mellon's Spring Carnival is three days of amusement
             park rides, adventures in booths, unhealthy snacks, buggy races, and more! </p>
-            <p>Join us <strong>April 3-6, 2025</strong> as we celebrate over 100 years of fun, laughter,
+            <p>Join us <strong>April 9-11, 2026</strong> as we celebrate over 100 years of fun, laughter,
             booth, buggy, and all things Tartan! </p>
         </div>
       </div>
