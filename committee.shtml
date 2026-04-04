@@ -31,7 +31,7 @@
       margin: 5% auto 0;
     }
     .column > .photo img {
-      border: 4px solid white;
+      border: 4px solid #B7312C;
       width: 100%; 
       height: auto;
     }
