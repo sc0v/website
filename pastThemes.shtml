@@ -23,6 +23,29 @@
             <center><b>Past Themes</b></center>
           </h1>
 
+          <!-- 2027 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2027 - Board Games</b>
+              </h2>
+              <br class="spacer" />
+              <br class="spacer" />
+              <center><img src="img/2027_logo.png" width="500" style="" /></center>
+              <br class="spacer" />
+              <br class="spacer" />
+                <p>Roll the dice and claim your spot on the board at this year’s CMU Spring Carnival,
+                where <strong>board games</strong> meet campus spirit! Join us for a playful celebration
+                filled with friendly competition, from carnival games to board game–themed booths.
+                Immerse yourself in classics old and new, whether you prefer strategy or luck,
+                trading or racing to the finish, building empires or solving mysteries. Any board
+                game or game component goes, from tiles and tokens to spinners and game pieces.
+                Come celebrate spring with us and make your move at <strong>Spring Carnival 2027</strong>!
+                </p>
+              </div>
+          </div>
+
           <!-- 2026 theme -->
           <br/><br/>
           <div class="row">
