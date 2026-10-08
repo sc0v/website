@@ -31,7 +31,7 @@
       margin: 5% auto 0;
     }
     .column > .photo img {
-      border: 4px solid white;
+      border: 4px solid #B7312C;
       width: 100%; 
       height: auto;
     }
@@ -95,7 +95,7 @@
       <div class="three_column_row">
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/comm.png"/>
+            <img src="img/committee/comm.png"/>
           </div>
 
           <div class="large-8 columns smalltype" style="width: 100%;">
@@ -103,34 +103,34 @@
             <p>(n.) A student organization that makes Carnival happen! </p>
           </div>
         </div>
-          
 
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/VaunMoser.png"/>
+            <img src="img/committee/OliviaLiao.jpg" />
           </div>
-
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Olivia Liao</h3>
             <h4>Co-Chair</h4>
-            <p> My name is Vaun Moser and I'm a senior in Global Studies with minors 
-                in Gender Studies and Public Policy. I am so excited to be co-chairing carnival 
-                this year! I love getting to work with so many awesome people and see the booths 
-                come to life! </p>
+            <p> Hello! My name is Olivia and I’m a junior studying International Relations
+              and Political Science. One of my favorite things about Carnival is getting
+              to see the booths come to life over the course of build week through
+              everyone’s hard work. I can’t wait to see what’s in store for this year! </p>
           </div>
         </div>
-        
+
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/WenchaoHu.png" />
+            <img src="img/committee/TomasGoncalves.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Tomás Gonçalves</h3>
             <h4>Co-Chair</h4>
-            <p> Hello~ My name is Wenchao, majoring in Information Systems! I am deeply in love 
-              with all things Carnival: booth, events, tools, golf carts, and most importantly the people! 
-              I can't wait for Carnival 2026 and to create the most fun, unforgettable (and safe) week of 
-              the year! </p>
+            <p> Hey, I'm Tomás, a Junior majoring in ECE. I am very excited to be Co-
+              Chairing Spring Carnival 2027. My favorite part of Carnival is seeing all
+              the booths come together, getting to meet all the different people building,
+              and helping it run smoothly. I am also a big fan of Musicals, and enjoy
+              kitesurfing and scuba-diving back home in Brazil. </p>
           </div>
-           
         </div>
       </div>
 
@@ -139,155 +139,131 @@
       <div class="three_column_row">
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/YoustinaRiad.png" />
+            <img src="img/committee/YoustinaRiad.jpeg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Youstina Riad</h3>
             <h4>Co-Head of Booth</h4>
-            <p> I'm Youstina, a third-year architecture major who enjoys baking, running, crafting, 
-              and spending time with family and friends. I'm so excited to see all the creative booth designs 
-              this year and staying up late during build week! </p>
+            <p> I'm Youstina and I'm a fourth-year Architecture student! I love traveling,
+              long walks, baking, and spending time with family and friends. This will be
+              my second year being Co-Head of Booth and I can't wait to see the booths
+              come to life during build week! </p>
           </div>
-          
         </div>
 
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/PatrickZheng.png" />
+            <img src="img/committee/MayaKundakci.jpeg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Maya Kundakci</h3>
             <h4>Co-Head of Booth</h4>
-            <p>Hi! My name is Patrick, and I am a fifth-year senior in Architecture. 
-              This is my fourth year in Spring Carnival Committee and second year as 
-              Co-Head of Booth. Outside of school I enjoy getting off campus and 
-              exploring Pittsburgh! </p>
+            <p> Hi! I'm Maya, a first year in MS in Robotics. In undergrad I was a
+              structural chair for three Booths and build week has always been my favorite
+              part of the year. I'm excited to see how different organizations build /
+              plan a booth! </p>
           </div>
-          
         </div>
 
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/InduArimilli.png" />
+            <img src="img/committee/AmaiaDeJesus.jpeg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Amaia De Jesus</h3>
+            <h4>Assistant Head of Booth</h4>
+            <p> Hi! My name is Amaia and I'm a third year architecture student interested in
+              construction management and real estate development. Outside of CMU I enjoy
+              baking, working out and spending time with friends! I'm really looking
+              forward to seeing what designs the orgs come up with this year! </p>
+          </div>
+        </div>
+      </div>
+
+      <br class="spacer" />
+
+      <div class="three_column_row">
+        <div class="column">
+          <div class="photo">
+            <img src="img/committee/LynseyLi.jpg" />
+          </div>
+          <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Lynsey Li</h3>
             <h4>Head of Marketing & Outreach</h4>
-            <p> Heyyy, I’m Indu! I’m a sophomore from Seattle, WA, studying Information Systems and AI. 
-              My favorite SCC memory is the hype during PPE distribution, but honestly? The last night 
-              of build week—with all its sleep-deprived chaos—is even better. When I’m not in Carnival 
-              mode, you’ll find me dancing, cafe hopping, hunting for cool jewelry, or planning my next travels! </p>
+            <p> Hi! My name is Lynsey, and I’m double majoring in Information Systems and
+              Biomedical Technology, with a minor in Architecture. Outside of school, I
+              enjoy visiting museums and exhibitions, trying yummy food, and spending time
+              with my puppy, Bluey! </p>
           </div>
         </div>
-      </div>
 
-      <div class="three_column_row">
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/ArnavPallem.png" />
+            <img src="img/committee/GraceShan.png" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Grace Shan</h3>
             <h4>Head of Finance</h4>
-            <p> I'm a junior majoring in Artificial Intelligence. My favorite memory of 
-              Carnival is driving a golf cart through Midway giving out snacks to the booth builders. 
-              I'm excited to see the hard work and creativity of all the booth builders come to fruition 
-              this year! </p>
+            <p> Hi y'all! I'm a junior studying Business Administration with an additional
+              major in Computer Science. My favorite carnival memory is seeing campus
+              light up at night with all the carnival fun. When I'm not thinking about
+              carnival, you can find me reading, crafting, and hanging out with my
+              friends! </p>
           </div>
         </div>
 
         <div class="column">
-          <div class="photo">
-            <img src="img/committee_edited/KashishSindhwani.png" />
-          </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Anthony Hsu</h3>
             <h4>Assistant Head of Finance</h4>
-            <p> Hi, My name is Kashish Sindhwani and I am junior  studying business 
-              administration with a minor in Artificial Intelligence. My favorite part about carnival is 
-              staying up late night watching booths get build and music playing all around. </p>
+            <p> Third year, math major. Hobbies include piano, hiking, and sleep. Let's have
+              a good carnival. </p>
           </div>
         </div>
-         <div class="column">
-          <div class="photo">
-            <img src="img/committee_edited/RomaKerby.png" />
-          </div>
-          <div class="large-8 columns smalltype" style="width: 100%;">
-             <h4>Head of Operations</h4>
-            <p> Hi! I’m a senior in chemical engineering. My favorite part about carnival 
-              is getting golf cart rides! </p>
-          </div>
-        </div>
-        
       </div>
-      
+
       <br class="spacer" />
 
       <div class="three_column_row">
-        <div class="column"> 
-          <div class="photo">
-            <img src="img/committee_edited/NeilMakur.png" />
-          </div>
-          <div class="large-8 columns smalltype" style="width: 100%;">
-            <h4>Assistant Head of Operations</h4>
-            <p> I'm a sophomore studying mathematics and computer science. My favorite 
-              carnival memory is the late nights spent in the trailer and driving golf carts around. </p>
-          </div>
-        </div>
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/OliviaLiao.png" />
+            <img src="img/committee/NeilMakur.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
-            <h4>Assistant Head of Operations</h4>
-            <p> Hi! My name is Olivia and I’m from the Baltimore, Maryland area. My favorite color is 
-              yellow and my favorite season is summer. I’m a sophomore studying International Relations 
-              and Political Science.  </p>
+            <h3>Neil Makur</h3>
+            <h4>Head of Operations</h4>
+            <p> I'm a junior studying mathematics and computer science. My favorite carnival
+              memory is the late nights spent in the trailer and driving golf carts
+              around. </p>
           </div>
         </div>
+
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/KatieZhang.png" />
+            <img src="img/committee/CarinaZheng.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Carina Zheng</h3>
             <h4>Co-Head of Software</h4>
-            <p> I’m a sophomore studying cognitive science and computer science. My favorite memory 
-              is cruising through campus on a golf cart in the middle of the night. I’m hoping it 
-              doesn’t rain (or snow) during future Carnivals—which is highly unlikely :( </p>
+            <p> Hello! I'm Carina and I'm a sophomore in BXA studying computer science and
+              art. My favorite part of carnival is watching lumbers turn into painted
+              booths! Outside of school, you will find me looking for pretty trees,
+              crafting, or oil painting. </p>
           </div>
         </div>
-      </div>
 
-      <br class="spacer" />
-
-      <div class="three_column_row">
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/CarinaZheng.png" />
+            <img src="img/committee/KatieZhang.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Katie Zhang</h3>
             <h4>Co-Head of Software</h4>
-            <p> Hello! I'm Carina and I'm a sophomore in BXA studying computer science 
-              and art. My favorite part of carnival is watching lumbers turn into painted booths! 
-              Outside of school, you will find me looking for pretty trees, crafting, or oil painting. </p>
+            <p> I’m a junior studying cognitive science and computer science. My favorite
+              Spring Carnival memory is cruising through campus on a golf cart in the
+              middle of the night. I'm looking forward to visiting every single booth at
+              the next carnival! </p>
           </div>
-        </div>
-        <div class="column">
-          <div class="photo">
-            <img src="img/committee_edited/GraceShan.png" />
-          </div>
-          <div class="large-8 columns smalltype" style="width: 100%;">
-            <h4>Co-Head of Entertainment</h4>
-            <p> I'm a sophomore majoring in Business Administration. My favorite 
-              carnival memory is seeing campus light up at night with all the carnival fun. I'm so 
-              excited to be a part of making Spring Carnival happen this year! </p>
-          </div>  
-        </div>
-        <div class="column">
-          <div class="photo">
-            <img src="img/committee_edited/SriyaRayapureddy.png" />
-          </div>
-          <div class="large-8 columns smalltype" style="width: 100%;">
-            <h4>Co-Head of Entertainment</h4>
-            <p> I’m a senior in Business Administration (with a concentration in Finance) and a minor 
-              in Decision Sciences. </p>
-          </div>  
-          
         </div>
       </div>
 
@@ -296,59 +272,102 @@
       <div class="three_column_row">
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/MiaKong.png" />
+            <img src="img/committee/JuanaRabadan.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Juana Rabadan</h3>
+            <h4>Co-Head of Entertainment</h4>
+            <p> Hi, I’m Juana! I study mechanical and biomedical engineering, and I’m really
+              excited to be part of the entertainment subcommittee. Outside of class, I
+              love going to the gym, making puzzles, and reading. Looking forward to a
+              great carnival! </p>
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="photo">
+            <img src="img/committee/EmilyLiao.jpeg" />
+          </div>
+          <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Emily Liao</h3>
+            <h4>Co-Head of Entertainment</h4>
+            <p> Hi! My name is Emily and I’m from Orange County CA :] I’m a Sophomore
+              majoring in Business Administration with an additional major in HCI. </p>
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Peilin Wu</h3>
+            <h4>Assistant Head of Entertainment</h4>
+            <p> Hiii. I am Peilin, a senior majoring in Math with a minor in ML. In my free
+              time, I like to explore Pittsburgh (tag along when my friends explore) and
+              work on my puzzles. This year, I'll hopefully drive a golf cart now that I
+              finally have a driver's license :D </p>
+          </div>
+        </div>
+      </div>
+
+      <br class="spacer" />
+
+      <div class="three_column_row">
+        <div class="column">
+          <div class="photo">
+            <img src="img/committee/AshleyYuan.jpeg" />
+          </div>
+          <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Ashley Yuan</h3>
             <h4>Co-Head of Electrical</h4>
-            <p> I am a senior in Mechanical Engineering. In my free time, I likes to read as well 
-              as cook, especially when it comes to trying out new recipes. A fun fact about me is 
-              that I has five Blahajs!</p>
+            <p> Hi! I’m Ashley, a third year in ECE. I really love the late nights of
+              Carnival, especially watching how hard all of orgs work to finish their
+              booths on the last day. Outside of SCC, I enjoy cooking and trying new
+              recipes (or just throwing stuff in a pan). Rooting for everyone! </p>
           </div>
         </div>
 
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/GabbyYe.png" />
+            <img src="img/committee/ThomasOBrien.jpeg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
-            <h4>Assistant Head of Electrical</h4>
-            <p> Hi I’m Gabby! I’m a sophomore majoring in ECE and love eating. What I 
-              love about Carnival is staying up and watching people build booths while eating 
-              snacks on the side :) </p>
+            <h3>Thomas O'Brien</h3>
+            <h4>Co-Head of Electrical</h4>
+            <p> I am a senior in ECE here at CMU. I’ve been on SCC Electrical since my first
+              year and love getting to see Spring Carnival come together every year. </p>
           </div>
         </div>
 
         <div class="column">
           <div class="photo">
-            <img src="img/committee_edited/ThomasO'Brien.png" />
+            <img src="img/committee/ChloeZhang.jpg" />
           </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Chloe Zhang</h3>
             <h4>Assistant Head of Electrical</h4>
-            <p> I am a junior in ECE. I have been going to Spring Carnival since 
-              I was a child, and have been on SCC Electrical since Freshman year. 
-              I love playing sports(shout-out CMU Rowing and Rugby!) and I am looking 
-              forward to this year's Spring Carnival! </p>
+            <p> I'm Chloe, a sophomore in mechanical engineering and robotics. I'm a big fan
+              of elephant seals, and I enjoy learning new things (astronomy right now!).
+              Looking forward to another Carnival! </p>
           </div>
         </div>
       </div>
 
+      <br class="spacer" />
 
       <div class="three_column_row">
         <div class="column">
-          <div class="photo">
-            <img src="img/committee_edited/Tomas.png" />
-          </div>
           <div class="large-8 columns smalltype" style="width: 100%;">
+            <h3>Jaihao Wu</h3>
             <h4>Assistant Head of Electrical</h4>
-            <p> I'm from Brasil and fluent in English and Portugueses(a bilingual king). 
-              I'm a sophomore in ECE and also participates in way too many clubs
-              (seriously how does this man sleep). I'm also serving as an assistant 
-              Head of Electrical this year. </p>
+            <p> Hallooo, I'm Jaihao and I'm a senior studying statistics and machine
+              learning with minors in computer science and linguistics. I (unbiased) do
+              have the best rev order of all time and you should ask me. The proof is left
+              as an exercise to the reader. </p>
           </div>
         </div>
 
         <div class="column">
         </div>
+
         <div class="column">
         </div>
       </div>

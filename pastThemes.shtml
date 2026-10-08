@@ -23,6 +23,27 @@
             <center><b>Past Themes</b></center>
           </h1>
 
+          <!-- 2026 theme -->
+          <br/><br/>
+          <div class="row">
+            <div class="large-10 large-centered columns">
+              <h2>
+                <b>2026 - Scotty's Playlist</b>
+              </h2>
+              <br class="spacer" />
+              <br class="spacer" />
+              <center><img src="img/2026_logo.png" width="500" style="" /></center>
+              <br class="spacer" />
+              <br class="spacer" />
+                <p>Turn up the volume and feel the beat as we transform Midway into a 
+                  vibrant world of music! From timeless classics to modern hits, join 
+                  us on a journey through the sounds that shaped every era in history. Celebrate 
+                  the rhythms, stories, and creativity that make up <strong>Scotty’s Playlist</strong>,
+                  your lifetime-access pass to the soundtrack of <strong>Spring Carnival 2026!</strong>
+                </p>
+              </div>
+          </div>
+
           <!-- 2025 theme -->
           <br/><br/>
           <div class="row">

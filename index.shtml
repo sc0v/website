@@ -32,17 +32,17 @@
     </header>
 
     <!-- Old Decoration (Arcade) -->
-   <div id="decoration" style="display:flex; position:absolute; left:75px; top:350px;z-index:0;transform: rotate(-10deg);" >
-      <img class="decor" style="width:200px;" src="img/a.png"/>
+   <div id="decoration" style="display:flex; position:absolute; left:30px; top:350px;z-index:0;transform: rotate(-10deg);" >
+      <img class="decor" style="width:300px;" src="img/website_deco_abbyx.png"/>
     </div>
-    <div id="decoration" style="display:flex; position:absolute; left:-60px; top:600px;z-index:0;transform: rotate(-10deg);" >
-      <img class="decor" style="width:300px;" src="img/d.png"/>
+    <div id="decoration" style="display:flex; position:absolute; left:-20px; top:650px;z-index:0;transform: rotate(-10deg);" >
+      <img class="decor" style="width:300px;" src="img/website_deco_abbyx4.png"/>
     </div>
-    <div id="decoration" style="display:flex; position:absolute; right:40px; top:600px;z-index:0;transform: rotate(5deg);" >
-      <img class="decor" style="width:200px;" src="img/e.png"/>
+    <div id="decoration" style="display:flex; position:absolute; right:40px; top:650px;z-index:0;transform: rotate(5deg);" >
+      <img class="decor" style="width:200px;" src="img/website_deco_abbyx3.png"/>
     </div> 
     <div id="decoration" style="display:flex; position:absolute; right:50px; top:350px;z-index:0;transform: rotate(5deg);" >
-      <img class="decor" style="width:300px;" src="img/b.png"/>
+      <img class="decor" style="width:300px;" src="img/website_deco_abbyx2.png"/>
     </div> 
     <!--#include virtual="html/navigation.html" -->
 
@@ -118,22 +118,19 @@
       <div class="row">
         <div class="large-10 large-centered columns">
           <h1>
-            <center><b>Carnival Theme 2025: Hollywood</b></center>
+            <center><b>Carnival Theme 2026:</b></center>
+            <center><b>Scotty's Playlist</b></center>
           </h1>
           <br class="spacer" />
           <br class="spacer" />
-          <center><img src="img/2025_logo.png" width="750" style="" /></center>
+          <center><img src="img/2026_logo.png" width="500" style="" /></center>
           <br class="spacer" />
           <br class="spacer" />
-          <p>Get ready to roll out the red carpet at this year’s CMU Spring Carnival, 
-            where Hollywood glamour meets campus spirit! Join us for a dazzling celebration 
-            filled with star-studded activities, from carnival games to movie-themed 
-            booths. Immerse yourself in the magic of the Silver Screen as 
-            we showcase student talent and creativity in a spectacular event.
-            Whether you're a film buff or just looking for fun, there’s something 
-            for everyone to enjoy. Come celebrate spring with us and let your inner star shine
-            at <strong>Spring Carnival 2025</strong>!
-          </strong>
+          <p>Turn up the volume and feel the beat as we transform Midway into a 
+          vibrant world of music! From timeless classics to modern hits, join 
+          us on a journey through the sounds that shaped every era in history. Celebrate 
+          the rhythms, stories, and creativity that make up <strong>Scotty’s Playlist</strong>,
+          your lifetime-access pass to the soundtrack of Spring Carnival 2026!
           </p>
         </div>
       </div>
