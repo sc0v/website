@@ -40,10 +40,10 @@
     </div>
     <div id="decoration" style="display:flex; position:absolute; right:40px; top:650px;z-index:0;transform: rotate(5deg);" >
       <img class="decor" style="width:200px;" src="img/website_deco_abbyx3.png"/>
-    </div> 
+    </div>
     <div id="decoration" style="display:flex; position:absolute; right:50px; top:350px;z-index:0;transform: rotate(5deg);" >
       <img class="decor" style="width:300px;" src="img/website_deco_abbyx2.png"/>
-    </div> 
+    </div>
     <!--#include virtual="html/navigation.html" -->
 
     <article class="main">
@@ -123,15 +123,15 @@
           </h1>
           <br class="spacer" />
           <br class="spacer" />
-          <center><img src="img/theme2627.jpg" width="500" style="" /></center>
+          <center><img src="img/theme2627.png" width="500" style="" /></center>
           <br class="spacer" />
           <br class="spacer" />
-          <p>Roll the dice and claim your spot on the board at this year’s CMU Spring Carnival, 
-            where <strong>Board Games</strong> meet campus spirit! Join us for a playful celebration filled with 
-            friendly competition, from carnival games to board game–themed booths. Immerse yourself 
-            in classics old and new, whether you prefer strategy or luck, trading or racing to the finish, 
-            building empires or solving mysteries. Any board game or game component goes, from tiles and 
-            tokens to spinners and game pieces. Come celebrate spring with us and make your move at Spring 
+          <p>Roll the dice and claim your spot on the board at this year’s CMU Spring Carnival,
+            where <strong>Board Games</strong> meet campus spirit! Join us for a playful celebration filled with
+            friendly competition, from carnival games to board game–themed booths. Immerse yourself
+            in classics old and new, whether you prefer strategy or luck, trading or racing to the finish,
+            building empires or solving mysteries. Any board game or game component goes, from tiles and
+            tokens to spinners and game pieces. Come celebrate spring with us and make your move at Spring
             Carnival 2027!
           </p>
         </div>
@@ -161,7 +161,7 @@
 
   </div><!-- end all-->
   <!--#include virtual="html/footer.html" -->
-  
+
   <!--#include virtual="html/script.html" -->
   <script src="js/jquery.cookie.js"></script>
   <script src="js/animation.js"></script>
